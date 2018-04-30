@@ -1,0 +1,27 @@
+.back-blue{
+  background-color: #0091EA !important;
+  color: #fff;
+}
+.back-green{
+  background-color: #00a651 !important;
+  color: #fff;
+}
+.back-red{
+  background-color: #ee4749 !important;
+  color: #fff;
+}
+
+.back-blue{
+  background-color: #01579B;
+}
+.back-blue2{
+  background-color: #0288D1;
+}
+.back-black{
+  background-color: #039BE5;
+}
+.back-orange{
+  /*background-color: #fd7f01;*/
+  background: linear-gradient(to right, #fd5f01, #fd7f01);
+  /*background: linear-gradient(to right, #338F9A, #0F76BB);*/
+}
