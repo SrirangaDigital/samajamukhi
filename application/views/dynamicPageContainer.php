@@ -1,7 +1,7 @@
 <div class="container-fluid">
     <div class="row">
         <!-- Column 1 -->
-        <div class="col-md-12 clear-paddings">
+        <div class="col-md-12 p-0">
 <!-- Breadcrumb will be inserted here -->
 <!-- <?=$this->printBreadcrumb($path)?> -->
                 <div class="flat-page">

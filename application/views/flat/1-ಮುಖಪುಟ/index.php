@@ -1,12 +1,5 @@
-<div class="container-fluid mainpage">
-	<div class="row justify-content-center">
-		<div class="banner-title col-md-12">
-			<div class="row justify-content-center">
-				<h3 class="col-md-2 title">ಬೆಳಕಿಂಡಿ</h3>
-			</div>
-		</div>
-	</div>
-	<div class="row justify-content-between samakalina">
+<div class="container-fluid mainpage kannada">
+	<div class="row justify-content-between introduction">
 		<div class="col-md-3">
 			<div class="card card-medium">
 				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art1.jpg" />
@@ -57,6 +50,130 @@
 			</div>
 		</div>
 	</div>
+</div>
+<div class="container-fluid">
+	<div class="row justify-content-center align-items-center magazine kannada">
+		<div class="col-md-4">
+			<h3>ಚಿಂತನಶೀಲ</h3>
+			<h1>ಸಮಾಜಮುಖಿ</h1>
+			<h2 class="yellow">ಅನ್ನದ ಭಾಷೆಯ ಚಿನ್ನದ ಮಾಸಿಕ</h2>
+			<h3>ಮೇ 2018 | ಸಂಪುಟ 1 | ಸಂಚಿಕೆ 5</h3>
+		</div>
+		<div class="col-md-2">
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/cover.jpg" />
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row align-items-top justify-content-between article-list kannada">
+		<div class="col-md-6 samakalina">
+			<h1>ಸಮಕಾಲೀನ</h1>
+			<div class="row">
+				<div class="col-md-4">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art3.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಉತ್ತರ ಪ್ರದೇಶ ಮತ್ತು ಬಿಹಾರದ ಫಲಿತಾಂಶಗಳು ಏನು ಹೇಳುತ್ತಿವೆ?</p>
+					<p class="author">ಏನು ಹೇಳುತ್ತಿವೆ?</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art4.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ<br />ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</p>
+					<p class="author">ಸುಧಾ ಶೆಣೈ</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art1.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</p>
+					<p class="author">ರಹಮತ್ ತರೀಕೆರೆ</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</p>
+					<p class="author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 mukhyacharche">
+			<h1>ಮುಖ್ಯಚರ್ಚೆ</h1>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art1.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಆಡಿದ ಮಾತಿಗೂ ಆತ್ಮದ ಮಾತಿಗೂ ಅಜಗಜಾಂತರ!</h5>
+					<p class="author">ಡಾ.ಬಿ.ಎಲ್.ಶಂಕರ್</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art2.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಚುನಾವಣಾ ಆಯೋಗದ ಮಿತಿ ಮತ್ತು ವೈಫಲ್ಯ</h5>
+					<p class="author">ಹರೀಶ್ ನರಸಪ್ಪ</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art3.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಭ್ರಷ್ಟತೆಗೆ ರಾಜಕೀಯ ಪಕ್ಷಗಳೇ ಕಾರಣ</h5>
+					<p class="author">ಬಿ.ಎನ್.ವಿಜಯಕುಮಾರ್</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art4.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಭ್ರಷ್ಟಾಚಾರಿಗಳು ವೇಶ್ಯೆಯರಿಗಿಂತಲೂ ಕೀಳು</h5>
+					<p class="author">ಎ.ಟಿ.ರಾಮಸ್ವಾಮಿ</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art5.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಜಗಳೂರು ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರದ ಚುನಾವಣೆ ಸಿರಿಗೆರೆ ಮಠದ ಹೊಸ ಪ್ರಯೋಗ</h5>
+					<p class="author">ಡಾ. ಲೋಕೇಶ ಅಗಸನಕಟ್ಟೆ</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art6.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಕಪ್ಪುಚುಕ್ಕೆ</h5>
+					<p class="author">ಬಿ. ಕೆ. ಚಂದ್ರಶೇಖರ್</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art7.jpg" />
+				</div>
+				<div class="col-md-8">
+					<p class="title">ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯುತಲಿತ್ತಾ ಚುನಾವಣೆಗಳನ್ನು ಕೊಳ್ಳುತಲಿತ್ತಾ</h5>
+					<p class="author">ಜಿ. ಎನ್. ನಾಗರಾಜ್</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- <div class="container">
 	<div class="row align-items-center justify-content-between mukhyacharche pb-5">
 		<div class="col-md-2">
 			<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art0.jpg" />
@@ -79,58 +196,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-7">
-			<div class="row justify-content-start mukhyacharche">
-				<div class="col-md-4 card card-small">
-					<div class="card-body">
-						<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art1.jpg" />
-						<h5 class="card-title">ಆಡಿದ ಮಾತಿಗೂ ಆತ್ಮದ ಮಾತಿಗೂ ಅಜಗಜಾಂತರ!</h5>
-						<p class="card-author">ಡಾ.ಬಿ.ಎಲ್.ಶಂಕರ್</p>
-					</div>
-				</div>
-				<div class="col-md-4 card card-small">
-					<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art2.jpg" />
-					<div class="card-body">
-						<h5 class="card-title">ಚುನಾವಣಾ ಆಯೋಗದ ಮಿತಿ ಮತ್ತು ವೈಫಲ್ಯ</h5>
-						<p class="card-author">ಹರೀಶ್ ನರಸಪ್ಪ</p>
-					</div>
-				</div>
-				<div class="col-md-4 card card-small">
-					<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art3.jpg" />
-					<div class="card-body">
-						<h5 class="card-title">ಭ್ರಷ್ಟತೆಗೆ ರಾಜಕೀಯ ಪಕ್ಷಗಳೇ ಕಾರಣ</h5>
-						<p class="card-author">ಬಿ.ಎನ್.ವಿಜಯಕುಮಾರ್</p>
-					</div>
-				</div>
-				<div class="col-md-4 card card-small">
-					<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art4.jpg" />
-					<div class="card-body">
-						<h5 class="card-title">ಭ್ರಷ್ಟಾಚಾರಿಗಳು ವೇಶ್ಯೆಯರಿಗಿಂತಲೂ ಕೀಳು</h5>
-						<p class="card-author">ಎ.ಟಿ.ರಾಮಸ್ವಾಮಿ</p>
-					</div>
-				</div>
-				<div class="col-md-4 card card-small">
-					<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art5.jpg" />
-					<div class="card-body">
-						<h5 class="card-title">ಜಗಳೂರು ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರದ ಚುನಾವಣೆ ಸಿರಿಗೆರೆ ಮಠದ ಹೊಸ ಪ್ರಯೋಗ</h5>
-						<p class="card-author">ಡಾ. ಲೋಕೇಶ ಅಗಸನಕಟ್ಟೆ</p>
-					</div>
-				</div>
-				<div class="col-md-4 card card-small">
-					<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art6.jpg" />
-					<div class="card-body">
-						<h5 class="card-title">ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಕಪ್ಪುಚುಕ್ಕೆ</h5>
-						<p class="card-author">ಬಿ. ಕೆ. ಚಂದ್ರಶೇಖರ್</p>
-					</div>
-				</div>
-				<div class="col-md-4 card card-small">
-					<img class="card-img-top-small" src="<?=PUBLIC_URL?>images/mukhyacharche/art7.jpg" />
-					<div class="card-body">
-						<h5 class="card-title">ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯುತಲಿತ್ತಾ ಚುನಾವಣೆಗಳನ್ನು ಕೊಳ್ಳುತಲಿತ್ತಾ</h5>
-						<p class="card-author">ಜಿ. ಎನ್. ನಾಗರಾಜ್</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+
+
+
 </div>
