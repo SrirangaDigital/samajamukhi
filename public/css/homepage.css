@@ -39,18 +39,32 @@
 }
 .mainpage .card .card-body{
   padding: 0;
-  font-size: 20px;
 }
 .mainpage .card .card-text{
   margin-bottom: 10px;
 }
-.mainpage .card.card-big .card-body .card-title{
-  font-size: 28px;
-  font-weight: bold;
-  margin-bottom: 5px;
+.mainpage .card.card-big{
+  margin: 0 20px;
 }
 .mainpage .card.card-big .card-body{
-  line-height: 24px;
+  text-align: center;
+  line-height: 32px;
+  font-size: 24px;
+}
+.mainpage .card.card-big .card-body .card-title{
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.mainpage .card.card-big .card-body .card-title-big{
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.mainpage .card.card-medium,
+.mainpage .card.card-small{
+  /*padding: 0 20px;*/
 }
 .mainpage .card.card-medium .card-body,
 .mainpage .card.card-small .card-body{
@@ -62,6 +76,10 @@
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 5px;
+}
+.mainpage .card.card-medium .card-body .card-title strong:after,
+.mainpage .card.card-small .card-body .card-title strong:after{
+  content: ': ';
 }
 .mukhyacharche h1{
   font-weight: bold;

@@ -25,3 +25,15 @@
   background: linear-gradient(to right, #fd5f01, #fd7f01);
   /*background: linear-gradient(to right, #338F9A, #0F76BB);*/
 }
+.orange{
+  color: #ffa628;
+}
+.green{
+  color: #81ce57;
+}
+.blue{
+  color: #4eabe3;
+}
+.red{
+  color: #ee2d32;
+}
