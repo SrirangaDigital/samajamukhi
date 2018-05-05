@@ -6,7 +6,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo ucwords($pageTitle) . ' | '; ?>Samajamukhi</title>
+    <title><?php if($pageTitle) echo ucwords($pageTitle) . ' | '; ?>ಸಮಾಜಮುಖಿ</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=1.0">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/fonts.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=1.41">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/profile.css?v=1.24">
@@ -45,10 +46,9 @@
 
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
+    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg">
         <div class="container-fluid clear-paddings">
-            <!-- <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a> -->
-            <p class="navbar-text" id="navbarText"><small>&nbsp;</small><br />Samajamukhi</p>
+            <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <?php $this->printNavigation($navigation, ' class="navbar-nav nav ml-auto"'); ?>

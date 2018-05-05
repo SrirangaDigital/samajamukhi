@@ -1,7 +1,7 @@
 .navbar{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'shreelipi', sans-serif;
 	margin-bottom: 0;
-	background-color: #FFF;
+	background-color: #F7F7F7;
 	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
 	padding: 10px 0;
 }
@@ -15,7 +15,7 @@
 	padding-left: 8px;
 }
 .navbar #navbarText{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'shreelipi', sans-serif;
 	font-size: 18px;
 	color: #D50000;
 	font-weight: 300;
@@ -77,7 +77,7 @@
 }
 .navbar .navbar-nav {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 7px;
 }
 .navbar .form-inline {
   padding-left: 10px;
@@ -108,10 +108,10 @@
 }
 .navbar .navbar-nav > li > a,
 .navbar .form-inline input {
-  font-family: 'Raleway', sans-serif;
-  font-size: 16px;
-  color: #333;
-  font-weight: 400;
+  font-family: 'shreelipi', sans-serif;
+  font-size: 22px;
+  color: #000;
+  /*font-weight: bold;*/
   text-decoration: none;
 }
 .navbar .navbar-nav > li.active > a, .navbar .navbar-nav > li.active > a:hover {
@@ -147,16 +147,13 @@ li.navSeparator{
 	.navbar{
 		padding: 0 30px;
 	}
-	.navbar .navbar-nav {
-	  margin-top: 30px;
-	}
 	.navbar .navbar-nav > li {
   		display: inline-block;
 	}
 	.navbar .logo{
 		height: 80px;
 		transition: height 0.3s ease;
-		margin: 5px 0 5px 0px;
+		margin: 0;
 	}
 	.navbar #navbarText{
 		font-size: 24px;
