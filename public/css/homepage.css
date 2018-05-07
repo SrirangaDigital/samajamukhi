@@ -92,7 +92,7 @@
   background-color: #C62828;
   color: #FFF !important;
   padding: 40px;
-  margin-bottom: 80px;
+  margin-bottom: 0px;
 }
 .magazine h1{
   font-size: 48px;
@@ -110,17 +110,34 @@
   font-weight: bold;
 }
 .samakalina{
+  padding-top: 100px;
   border-bottom: 15px solid #81ce57;
 }
-.article-list .mukhyacharche h1{
-  border-bottom: 2px solid #ffa628;
+.mukhyacharche{
+  padding-top: 50px;
+  border-bottom: 15px solid #ffa628;
+}
+.jagadarivu{
+  padding-top: 50px;
+  border-bottom: 15px solid #4eabe3;
+}
+.pustaka{
+  padding-top: 50px;
+  border-bottom: 15px solid #ac8e73;
+}
+.samskriti{
+  padding-top: 50px;
+  border-bottom: 15px solid #ee2d32;
 }
 .article-list{
   padding-top: 20px;
 }
 .article-list .row{
-  border-bottom: 1px solid #CCC;
+  /*border-bottom: 1px solid #CCC;*/
   padding: 10px 0;
+}
+.article-list .list{
+  line-height: 24px;
 }
 .article-list .title{
   font-size: 22px;
@@ -130,7 +147,7 @@
 .article-list .author{
   font-size: 20px;
   font-weight: bold;
-  margin-bottom: 0;
+  margin-bottom: 5px;
   color: #999;
 }
 .article-list .date{
@@ -138,9 +155,11 @@
   margin-bottom: 0;
   font-style: italic;
 }
+.article-list .big img{
+  margin-bottom: 20px;
+}
 .article-list .big .author{
   font-size: 24px;
-  margin-top: 20px;
 }
 .article-list .big .title{
   font-size: 32px;
