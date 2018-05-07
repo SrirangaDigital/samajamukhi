@@ -51,7 +51,7 @@
 		</div>
 	</div>
 </div>
-<div class="container-fluid">
+<div class="container-fluid mx-0">
 	<div class="row justify-content-center align-items-center magazine kannada">
 		<div class="col-md-4">
 			<h3>ಚಿಂತನಶೀಲ</h3>
@@ -65,46 +65,61 @@
 	</div>
 </div>
 <div class="container">
-	<div class="row align-items-top justify-content-between article-list kannada">
-		<div class="col-md-6 samakalina">
-			<h1>ಸಮಕಾಲೀನ</h1>
+	<div class="row align-items-top justify-content-start samakalina kannada">
+		<div class="col-md-2">
+			<!-- <h1>ಸಮಕಾಲೀನ</h1> -->
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina.png" />
+		</div>
+	</div>
+	<div class="row align-items-top justify-content-center article-list kannada">
+		<div class="col-md-7 big">
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art3.jpg" />
+			<p class="author">ಡಿ.ಎಸ್.ನಾಗಭೂಷಣ</p>
+			<p class="title">ಉತ್ತರ ಪ್ರದೇಶ ಮತ್ತು ಬಿಹಾರದ ಫಲಿತಾಂಶಗಳು ಏನು ಹೇಳುತ್ತಿವೆ?</p>
+			<p class="description">ಇತ್ತೀಚಿಗೆ ಕಾಂಗ್ರೆಸ್ಸಿನ ಭ್ರಷ್ಟಾಚಾರಕ್ಕಿಂತ  ಬಿಜೆಪಿಯ ಕೋಮುವಾದ ಸಹನೀಯ  ಅನ್ನಿಸತೊಡಗಿದೆ ಎಂಬುದರಿಂದಲಾದರೂ  ಸೆಕ್ಯುಲರ್‍ವಾದಿಗಳು ಪಾಠ  ಕಲಿಯಬೇಡವೇ? ಆದರೆ ಪ್ರಜಾಪ್ರಭುತ್ವ,  ಧರ್ಮನಿರಪೇಕ್ಷತೆ ಮತ್ತು ಒಳಗೊಳ್ಳುವ  ರಾಜಕಾರಣದ ತತ್ವಗಳ ದೀರ್ಘ  ಪರಂಪರೆಯುಳ್ಳ ಕಾಂಗ್ರೆಸ್‍ನಂತಹ  ರಾಷ್ಟ್ರೀಯ ಪಕ್ಷವೊಂದು ಕೋಮುವಾದಿ  ವಿರೋಧಿ ಹೋರಾಟದ ಇಂತಹ  ಬೋಳೆತನಕ್ಕೆ ಸಿಕ್ಕಿ ನಿರ್ನಾಮವಾಗಲು  ಬಿಡಬೇಕೆ?</p>
+		</div>
+		<div class="col-md-4">
 			<div class="row">
-				<div class="col-md-4">
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art3.jpg" />
-				</div>
-				<div class="col-md-8">
-					<p class="title">ಉತ್ತರ ಪ್ರದೇಶ ಮತ್ತು ಬಿಹಾರದ ಫಲಿತಾಂಶಗಳು ಏನು ಹೇಳುತ್ತಿವೆ?</p>
-					<p class="author">ಏನು ಹೇಳುತ್ತಿವೆ?</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art4.jpg" />
-				</div>
-				<div class="col-md-8">
-					<p class="title">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ<br />ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</p>
+				<div class="col-md-12">
 					<p class="author">ಸುಧಾ ಶೆಣೈ</p>
+					<p class="title">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</p>
+			<p class="author">ಏನು ಹೇಳುತ್ತಿವೆ?</p>
+					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art1.jpg" />
-				</div>
-				<div class="col-md-8">
-					<p class="title">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</p>
+				<div class="col-md-12">
 					<p class="author">ರಹಮತ್ ತರೀಕೆರೆ</p>
+					<p class="title">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</p>
+					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg" />
-				</div>
-				<div class="col-md-8">
-					<p class="title">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</p>
+				<div class="col-md-12">
 					<p class="author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
+					<p class="title">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</p>
+					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ಸುಧಾ ಶೆಣೈ</p>
+					<p class="title">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</p>
+					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ರಹಮತ್ ತರೀಕೆರೆ</p>
+					<p class="title">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</p>
+					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
 				</div>
 			</div>
 		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row align-items-top justify-content-between article-list kannada">
 		<div class="col-md-6 mukhyacharche">
 			<h1>ಮುಖ್ಯಚರ್ಚೆ</h1>
 			<div class="row">

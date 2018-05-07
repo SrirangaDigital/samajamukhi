@@ -1,6 +1,9 @@
 .kannada{
   font-family: 'shreelipi', sans-serif !important;
 }
+.english{
+  font-family: 'Raleway', sans-serif !important;
+}
 .mainpage{
   padding-left: 50px;
   padding-right: 50px;
@@ -106,15 +109,18 @@
   font-size: 36px;
   font-weight: bold;
 }
-.article-list .samakalina h1{
-  border-bottom: 2px solid #81ce57;
+.samakalina{
+  border-bottom: 15px solid #81ce57;
 }
 .article-list .mukhyacharche h1{
   border-bottom: 2px solid #ffa628;
 }
+.article-list{
+  padding-top: 20px;
+}
 .article-list .row{
   border-bottom: 1px solid #CCC;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 .article-list .title{
   font-size: 22px;
@@ -123,10 +129,24 @@
 }
 .article-list .author{
   font-size: 20px;
-  font-style: italic;
   font-weight: bold;
   margin-bottom: 0;
+  color: #999;
 }
-.article-list .author:before{
-  content: "–";
+.article-list .date{
+  font-size: 14px;
+  margin-bottom: 0;
+  font-style: italic;
+}
+.article-list .big .author{
+  font-size: 24px;
+  margin-top: 20px;
+}
+.article-list .big .title{
+  font-size: 32px;
+}
+.article-list .big .description{
+  font-size: 24px;
+  line-height: 32px;
+  /*margin-top: 20px;*/
 }

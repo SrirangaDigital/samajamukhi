@@ -35,7 +35,6 @@
 
     <!-- Fonts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link href="https://fonts.googleapis.com/css?family=Eczar|Halant|Karma|Martel|Sahitya|Vesper+Libre" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:200,300,400|Roboto:300,400&amp;subset=latin-ext" rel="stylesheet">
 
     <!-- Favicon
