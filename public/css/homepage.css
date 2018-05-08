@@ -8,6 +8,14 @@
   padding-left: 50px;
   padding-right: 50px;
 }
+.mainpage a,
+.article-list a{
+  color: inherit;
+}
+.mainpage a:hover,
+.article-list a:hover{
+  text-decoration: none;
+}
 .banner-title{
   border-right: 4px solid #FFEB3B;
   border-top: 4px solid #FFEB3B;
@@ -136,7 +144,7 @@
   /*border-bottom: 1px solid #CCC;*/
   padding: 10px 0;
 }
-.article-list .list{
+.article-list .list, .article-list.list{
   line-height: 24px;
 }
 .article-list .title{
@@ -168,4 +176,44 @@
   font-size: 24px;
   line-height: 32px;
   /*margin-top: 20px;*/
+}
+.article{
+  font-size: 22px;
+  line-height: 28px;
+  margin-top: 130px;
+  padding-right: 100px;
+  color: #444;
+}
+.article-list.list{
+  margin-top: 30px;
+}
+.article-list.list .samakalina{
+  border-bottom-width: 5px;
+  margin-bottom: 30px;
+}
+.article .date{
+  font-size: 16px;
+}
+.article h1.title{
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+.article h2.author{
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 28px;
+  color: #777;
+}
+.article h3{
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.article p.description{
+  font-size: 24px;
+  margin-bottom: 28px;
+  line-height: 32px;
+  padding: 20px;
+  background-color: #F7F7F7;
 }
