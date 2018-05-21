@@ -1,3 +1,10 @@
+a{
+  color: inherit;
+}
+a:hover{
+  text-decoration: none;
+  color: inherit;
+}
 .orange{
   color: #ffa628;
 }
@@ -13,6 +20,9 @@
 .brown{
   color: #ac8e73;
 }
+.gray{
+  color: #888;
+}
 .back-orange{
   background-color: #ffa628;
 }
@@ -27,6 +37,9 @@
 }
 .back-brown{
   background-color: #ac8e73;
+}
+.back-gray{
+  background-color: #888;
 }
 .light{
   font-weight: 200 !important;

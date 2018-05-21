@@ -1,4 +1,10 @@
 <div class="container-fluid mainpage kannada">
+	<!-- <div class="row justify-content-between introduction">
+		Advertisement
+		<div class="col-md-12">
+			<img class="card-img-top" src="http://via.placeholder.com/1000x100" />
+		</div>
+	</div> -->
 	<div class="row justify-content-between introduction">
 		<div class="col-md-6">
 			<div class="card card-big">
@@ -11,6 +17,10 @@
 					<p class="card-text">ನಮ್ಮ ರಾಜಕೀಯ ವ್ಯವಸ್ಥೆ ಎಷ್ಟೇ ಹದಗೆಟ್ಟಿದ್ದರೂ, ನಮ್ಮ ರಾಜಕಾರಣಿಗಳು ಎಷ್ಟೇ ಭ್ರಷ್ಟರಾಗಿದ್ದರೂ, ನೋಟು ಪಡೆದು ವೋಟು ನೀಡುವ ಮನೋಭಾವ ಹೊಂದಿದ ಮತದಾರರು ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಗೇ ಮಾರಕ.</p>
 					<p class="card-category"><strong class="orange">ಮುಖ್ಯಚರ್ಚೆ</strong></p>
 				</div>
+			</div>
+			<div class="card card-big">
+				Advertisement
+				<img class="card-img-top" src="http://via.placeholder.com/600x150" />
 			</div>
 		</div>
 		<div class="col-md-3 pl-0 pr-4">
@@ -68,7 +78,7 @@
 		<div class="col-md-4">
 			<h3>ಚಿಂತನಶೀಲ</h3>
 			<h1>ಸಮಾಜಮುಖಿ</h1>
-			<h2 class="yellow">ಅನ್ನದ ಭಾಷೆಯ ಚಿನ್ನದ ಮಾಸಿಕ</h2>
+			<h2 class="orange">ಅನ್ನದ ಭಾಷೆಯ ಚಿನ್ನದ ಮಾಸಿಕ</h2>
 			<h3>ಮೇ 2018 | ಸಂಪುಟ 1 | ಸಂಚಿಕೆ 5</h3>
 		</div>
 		<div class="col-md-2">
@@ -79,7 +89,68 @@
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container mainpage kannada article-list">
+	<div class="row my-5">
+		<div class="col-md-6 videos">
+			<div class="row align-items-center">
+				<p class="col-md-4 clock"><i class="fa fa-video-camera"></i><br />ವೀಡಿಯೋಗಳು</p>
+				<h2 class="card-title col-md-8">ಕರ್ಯಕ್ರಮ : ಚರ್ಚೆ : ಸಂದರ್ಶನ</h2>
+			</div>
+			<div class="row align-items-top">
+				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/Hkp2yvbubbw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<div class="card-body col-md-8">
+					<h4 class="title"><a href="#">ಎನ್ ಆರ್ ನರಯಣಮೂರ್ತಿ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
+					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
+				</div>
+			</div>
+			<div class="row align-items-top">
+				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/qIkRSFpijLM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<div class="card-body col-md-8">
+					<h4 class="title"><a href="#">ಎಸ್ ಎಂ ಕೃಷ್ಣ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
+					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
+				</div>
+			</div>
+			<div class="row align-items-top">
+				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/LIV7xlY02G8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<div class="card-body col-md-8">
+					<h4 class="title"><a href="#">ಅರವಿಂದ ಮಾಲಗತ್ತಿ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
+					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 podcasts">
+			<div class="row align-items-center">
+				<p class="col-md-4 clock"><i class="fa fa-podcast"></i><br />ಪಾಡ್&#8203;ಕಾಸ್ಟ್&#8203;ಗಳು</p>
+				<h2 class="card-title col-md-8">ಅನಿಸಿಕೆ : ಅಭಿಪ್ರಾಯ : ಅವಲೋಕನ</h2>
+			</div>
+			<div class="row align-items-top">
+				<p class="col-md-4 text-center"><i class="icon fa fa-file-audio-o"></i></p>
+				<div class="card-body col-md-8">
+					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
+					<h4 class="title"><a href="#">ಧಾರ್ಮಿಕ ಸಮುದಾಯಗಳು ಹೇಗೆ ಹುಟ್ಟುತ್ತವೆ?</a></h4>
+					<p class="date english gray">Posted: 5<sup>th</sup> May 2018</p>
+				</div>
+			</div>
+			<div class="row align-items-top">
+				<p class="col-md-4 text-center"><i class="icon fa fa-file-audio-o"></i></p>
+				<div class="card-body col-md-8">
+					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
+					<h4 class="title"><a href="#">ಲಿಂಗಾಯತ ಹಿಂದೂ ಧರ್ಮದ ಅಂಗವಲ್ಲ – ಎಸ್.ಎಮ್.ಜಾಮದಾರ್</a></h4>
+					<p class="date english gray">Posted: 23<sup>rd</sup> April 2018</p>
+				</div>
+			</div>
+			<div class="row align-items-top">
+				<p class="col-md-4 text-center"><i class="icon fa fa-file-audio-o"></i></p>
+				<div class="card-body col-md-8">
+					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
+					<h4 class="title"><a href="#">ಕನ್ನಡದ ಮನಸ್ಸು ಇಂದು ಮುಚ್ಚುತ್ತಿದೆಯೆ?</a></h4>
+					<p class="date english gray">Posted: 14<sup>th</sup> April 2018</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	
+<div class="container" id="samakalina">
 	<div class="row align-items-top justify-content-start samakalina kannada">
 		<div class="col-md-2">
 			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina.png" />
@@ -97,21 +168,21 @@
 				<div class="col-md-12">
 					<p class="author">ಸುಧಾ ಶೆಣೈ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.04">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</a></p>
-					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ರಹಮತ್ ತರೀಕೆರೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.01">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</a></p>
-					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></p>
-					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
@@ -138,7 +209,7 @@
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container" id="mukhyacharche">
 	<div class="row align-items-top justify-content-start mukhyacharche kannada">
 		<div class="col-md-2">
 			<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche.png" />
@@ -155,55 +226,55 @@
 				<div class="col-md-12">
 					<p class="author">ಡಾ.ಬಿ.ಎಲ್.ಶಂಕರ್</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.03">ಆಡಿದ ಮಾತಿಗೂ ಆತ್ಮದ ಮಾತಿಗೂ ಅಜಗಜಾಂತರ!</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಹರೀಶ್ ನರಸಪ್ಪ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.04">ಚುನಾವಣಾ ಆಯೋಗದ ಮಿತಿ ಮತ್ತು ವೈಫಲ್ಯ</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಬಿ.ಎನ್.ವಿಜಯಕುಮಾರ್</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.05">ಭ್ರಷ್ಟತೆಗೆ ರಾಜಕೀಯ ಪಕ್ಷಗಳೇ ಕಾರಣ</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಎ.ಟಿ.ರಾಮಸ್ವಾಮಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.06">ಭ್ರಷ್ಟಾಚಾರಿಗಳು ವೇಶ್ಯೆಯರಿಗಿಂತಲೂ ಕೀಳು</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಡಾ. ಲೋಕೇಶ ಅಗಸನಕಟ್ಟೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.07">ಜಗಳೂರು ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರದ ಚುನಾವಣೆ ಸಿರಿಗೆರೆ ಮಠದ ಹೊಸ ಪ್ರಯೋಗ</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಬಿ. ಕೆ. ಚಂದ್ರಶೇಖರ್</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.08">ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಕಪ್ಪುಚುಕ್ಕೆ</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಜಿ. ಎನ್. ನಾಗರಾಜ್</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.09">ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯುತಲಿತ್ತಾ ಚುನಾವಣೆಗಳನ್ನು ಕೊಳ್ಳುತಲಿತ್ತಾ</a></h5>
-					<p class="date english orange">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container" id="jagadarivu">
 	<div class="row align-items-top justify-content-start jagadarivu kannada">
 		<div class="col-md-2">
 			<img class="img-fluid" src="<?=PUBLIC_URL?>images/jagadarivu.png" />
@@ -220,44 +291,44 @@
 				<div class="col-md-12">
 					<p class="author">ಪ್ರೊ. ಕ್ರಿಸ್ಟೋಫರ್ ಚೆಕೂರಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.01">ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮತ್ತು ಅಮೆರಿಕಾದ ವರ್ಣೀಯ ರಾಜಕಾರಣ</a></h5>
-					<p class="date english blue">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.02">ಉತ್ತರ ಕೊರಿಯಾದಲ್ಲೊಬ್ಬ ಹುಚ್ಚು ದೊರೆ</a></h5>
-					<p class="date english blue">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.03">ಚೀನಾದ ಆಜೀವ ಅಧ್ಯಕ್ಷ! ಕ್ಸಿ ಜಿನ್‍ಪಿಂಗ್</a></h5>
-					<p class="date english blue">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.05">ಆಂಧ್ರಪ್ರದೇಶ ಬೇಡುತ್ತಿರುವ ಸ್ಪೆಶಲ್ ಸ್ಟೇಟಸ್</a></h5>
-					<p class="date english blue">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.06">ತಾಳಗುಂದ ಶಾಸನ</a></h5>
-					<p class="date english blue">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಸುಧೀಂದ್ರ ಹಾಲ್ದೊಡ್ಡೇರಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.07">ಯಂತ್ರ ನೋಡಿರಣ್ಣ, ದೇಹದ ತಂತ್ರ ಕಾಣಿರಣ್ಣ!</a></h5>
-					<p class="date english blue">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container" id="pustaka">
 	<div class="row align-items-top justify-content-start pustaka kannada">
 		<div class="col-md-2">
 			<img class="img-fluid" src="<?=PUBLIC_URL?>images/pustaka.png" />
@@ -273,19 +344,19 @@
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.04.02"><em>ನನ್ನ ಓದು:</em> ಉತ್ತರ ಕೊರಿಯಾದಲ್ಲೊಬ್ಬ ಹುಚ್ಚು ದೊರೆ</a></h5>
-					<p class="date english brown">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="#">ಹೊಸ ಪುಸ್ತಕ</a></h5>
-					<p class="date english brown">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container" id="samskriti">
 	<div class="row align-items-top justify-content-start samskriti kannada">
 		<div class="col-md-2">
 			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samskriti.png" />
@@ -303,41 +374,41 @@
 				<div class="col-md-12">
 					<p class="author">ಪ್ರೊ. ಜಿ. ಎಚ್. ಹನ್ನೆರಡುಮಠ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.01">ಹೂವುಗಳ ನರಕ ಬೆಂಗಳೂರು !</a></h5>
-					<p class="date english red">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಉಮಾ ಎಚ್. ಎಂ.</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.03">ರಾಘವಾಂಕನ ‘ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ’</a></h5>
-					<p class="date english red">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಕೆ. ಸತ್ಯನಾರಾಯಣ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.04">ನಮ್ಮೂರಲ್ಲೇ ಕಳ್ಳರಿದ್ದರು</a></h5>
-					<p class="date english red">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ವೈಲೆಟ್ ಪಿಂಟೊ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.05">ಸ್ವಗತ (ಕವಿತೆ)</a></h5>
-					<p class="date english red">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಅಮರಜಾ ಹೆಗಡೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.06">ಬುದ್ಧನ ನಾಡಿನಲ್ಲಿ...</a></h5>
-					<p class="date english red">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="title"><a href="#">ನನ್ನ ಕ್ಲಿಕ್</a></h5>
-					<p class="date english red">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 		</div>

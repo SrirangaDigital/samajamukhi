@@ -37,7 +37,7 @@
 .mainpage .card{
   border: none;
   border-radius: 0;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   background-color: transparent;
 }
 .mainpage .card-overlay{
@@ -53,7 +53,7 @@
   left: 0px;
   color: white;
   position: absolute;
-  padding: 15px 0 5px 15px !important;
+  padding: 15px !important;
 }
 .mainpage .card .card-author{
   width: 100%;
@@ -98,7 +98,9 @@
 .mainpage .card.card-small .card-body .card-title{
   font-size: 22px;
   font-weight: bold;
+  margin-top: 5px;
   margin-bottom: 0px;
+  line-height: 22px;
 }
 .mainpage .card.card-medium .card-body .card-title strong:after,
 .mainpage .card.card-small .card-body .card-title strong:after{
@@ -113,17 +115,35 @@
   font-weight: bold;
   text-align: center;
 }
-.mainpage .prastuta .clock{
+.mainpage .clock{
   text-align: center;
   padding: 0;
   color: #999;
   line-height: 22px;
 }
-.mainpage .prastuta .clock i{
+.mainpage .clock i{
   font-size: 50px;
 }
 .mainpage .card-body iframe{
   margin-bottom: 20px;
+}
+.mainpage .videos{
+  border-right: 1px solid #CCC;
+}
+.mainpage .videos h2.card-title,
+.mainpage .podcasts h2.card-title{
+  font-size: 32px;
+  font-weight: bold;
+  padding: 0;
+}
+.mainpage .videos .card-body,
+.mainpage .podcasts .card-body{
+  padding: 0;
+  line-height: 24px;
+}
+.mainpage .podcasts i.icon{
+  font-size: 80px;
+  color: #BBB;
 }
 .magazine {
   background-color: #C62828;
@@ -147,23 +167,23 @@
   font-weight: bold;
 }
 .samakalina{
-  padding-top: 100px;
+  padding-top: 30px;
   border-bottom: 15px solid #81ce57;
 }
 .mukhyacharche{
-  padding-top: 50px;
+  padding-top: 30px;
   border-bottom: 15px solid #ffa628;
 }
 .jagadarivu{
-  padding-top: 50px;
+  padding-top: 30px;
   border-bottom: 15px solid #4eabe3;
 }
 .pustaka{
-  padding-top: 50px;
+  padding-top: 30px;
   border-bottom: 15px solid #ac8e73;
 }
 .samskriti{
-  padding-top: 50px;
+  padding-top: 30px;
   border-bottom: 15px solid #ee2d32;
 }
 .article-list{
@@ -171,7 +191,7 @@
 }
 .article-list .row{
   /*border-bottom: 1px solid #CCC;*/
-  padding: 10px 0;
+  padding: 15px 0;
 }
 .article-list .list, .article-list.list{
   line-height: 24px;
