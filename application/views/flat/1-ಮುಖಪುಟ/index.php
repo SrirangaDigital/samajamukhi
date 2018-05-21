@@ -54,13 +54,13 @@
 			<div class="card card-medium">
 				<div class="card-body row align-items-center">
 					<p class="col-md-2 clock"><i class="fa fa-clock-o"></i><br />ಪ್ರಸ್ತುತ</p>
-					<h5 class="card-title col-md-10"><a href="#">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+					<h5 class="card-title col-md-10"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
 				</div>
 			</div>
 			<div class="card card-medium">
 				<div class="card-body row align-items-center">
 					<p class="col-md-2 clock"><i class="fa fa-calendar "></i><br />ಅನಿಸಿಕೆ</p>
-					<h5 class="card-title col-md-10"><a href="#">ಚರ್ಚೆಯ ಮೂಲಕ ಮಹದಾಯಿಗೆ ಪರಿಹಾರ ಸಾಧ್ಯವೇ?</a></h5>
+					<h5 class="card-title col-md-10"><a href="<?=BASE_URL?>articles/article-20180501.12 01">ಚರ್ಚೆಯ ಮೂಲಕ ಮಹದಾಯಿಗೆ ಪರಿಹಾರ ಸಾಧ್ಯವೇ?</a></h5>
 				</div>
 			</div>
 			<div class="card card-medium">

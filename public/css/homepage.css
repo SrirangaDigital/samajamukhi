@@ -170,6 +170,10 @@
   padding-top: 30px;
   border-bottom: 15px solid #81ce57;
 }
+.samakalina-issue{
+  padding-left: 30px;
+  border-left: 2px solid #81ce57;
+}
 .mukhyacharche{
   padding-top: 30px;
   border-bottom: 15px solid #ffa628;
@@ -229,7 +233,7 @@
 .article{
   font-size: 22px;
   line-height: 28px;
-  margin-top: 130px;
+  margin-top: 80px;
   padding-right: 50px;
   color: #444;
 }
@@ -275,4 +279,59 @@
 .article .inlay{
   padding: 20px;
   background-color: #FFFDE7;
+}
+.issues a.issue{
+  display: block;
+  margin-bottom: 30px;
+}
+.issues figcaption{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
+  padding: 10px;
+  color: #444;
+}
+.current-issue {
+  background-color: #EEE;
+  color: #444 !important;
+  padding: 40px;
+  margin-top: 70px;
+  font-weight: bold;
+}
+.current-issue h4{
+  font-size: 28px;
+  font-weight: bold;
+}
+.current-issue h5{
+  font-size: 24px;
+}
+.issue-toc{
+  margin-top: 70px;
+}
+.issue-toc h2{
+  font-weight: bold;
+  font-size: 32px;
+  padding: 0;
+  /*text-align: center;*/
+}
+.issue-toc figure{
+  padding: 0;
+  margin-bottom: 0px;
+}
+.issue-toc .row{
+  padding: 10px 0;
+}
+.issue-toc .title{
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.issue-toc .author{
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #999;
 }
