@@ -153,7 +153,7 @@
 <div class="container" id="samakalina">
 	<div class="row align-items-top justify-content-start samakalina kannada">
 		<div class="col-md-2">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina.png" />
+			<img class="maxw-130 img-fluid" src="<?=PUBLIC_URL?>images/samakalina.png" />
 		</div>
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
@@ -212,7 +212,7 @@
 <div class="container" id="mukhyacharche">
 	<div class="row align-items-top justify-content-start mukhyacharche kannada">
 		<div class="col-md-2">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche.png" />
+			<img class="maxw-130 img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche.png" />
 		</div>
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
@@ -277,7 +277,7 @@
 <div class="container" id="jagadarivu">
 	<div class="row align-items-top justify-content-start jagadarivu kannada">
 		<div class="col-md-2">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/jagadarivu.png" />
+			<img class="maxw-130 img-fluid" src="<?=PUBLIC_URL?>images/jagadarivu.png" />
 		</div>
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
@@ -331,7 +331,7 @@
 <div class="container" id="pustaka">
 	<div class="row align-items-top justify-content-start pustaka kannada">
 		<div class="col-md-2">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/pustaka.png" />
+			<img class="maxw-130 img-fluid" src="<?=PUBLIC_URL?>images/pustaka.png" />
 		</div>
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
@@ -359,7 +359,7 @@
 <div class="container" id="samskriti">
 	<div class="row align-items-top justify-content-start samskriti kannada">
 		<div class="col-md-2">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samskriti.png" />
+			<img class="maxw-130 img-fluid" src="<?=PUBLIC_URL?>images/samskriti.png" />
 		</div>
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">

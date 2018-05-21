@@ -1,7 +1,7 @@
 <div class="col-md-3 article-list list">
 	<div class="row align-items-top justify-content-start samskriti kannada py-0">
 		<div class="col-md-6">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samskriti.png" />
+			<img class="maxw-130 img-fluid" src="<?=PUBLIC_URL?>images/samskriti.png" />
 		</div>
 	</div>
 	<div class="row">
