@@ -5,8 +5,6 @@
   font-family: 'Raleway', sans-serif !important;
 }
 .mainpage{
-  padding-left: 50px;
-  padding-right: 50px;
 }
 .mainpage a,
 .article-list a{
@@ -32,25 +30,35 @@
   font-weight: bold;
 }
 .introduction{
-  padding-right: 30px;
+  /*padding-right: 30px;*/
   margin-bottom: 80px;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 .mainpage .card{
   border: none;
   border-radius: 0;
-  border-bottom: 1px solid #CCC;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   background-color: transparent;
 }
-.mainpage .card .card-img-top{
-  margin-bottom: 10px;
+.mainpage .card-overlay{
+  background: black;
+  position: relative;
+  width: 100%;
+}
+.mainpage .card-overlay .card-body {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1));
+  /*background-color: rgba(0, 0, 0, 0.5);*/
+  width: 100%;
+  bottom: 0px;
+  left: 0px;
+  color: white;
+  position: absolute;
+  padding: 15px 0 5px 15px !important;
 }
 .mainpage .card .card-author{
+  width: 100%;
   font-style: italic;
-}
-.mainpage .card .card-author:before{
-  content: "–";
+  margin-bottom: 0;
 }
 .mainpage .card .card-body{
   padding: 0;
@@ -90,11 +98,32 @@
 .mainpage .card.card-small .card-body .card-title{
   font-size: 22px;
   font-weight: bold;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 .mainpage .card.card-medium .card-body .card-title strong:after,
 .mainpage .card.card-small .card-body .card-title strong:after{
   content: ': ';
+}
+.mainpage .prastuta{
+  background-color: #EEE;
+  padding: 20px 40px 30px 40px;
+}
+.mainpage .prastuta h2{
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.mainpage .prastuta .clock{
+  text-align: center;
+  padding: 0;
+  color: #999;
+  line-height: 22px;
+}
+.mainpage .prastuta .clock i{
+  font-size: 50px;
+}
+.mainpage .card-body iframe{
+  margin-bottom: 20px;
 }
 .magazine {
   background-color: #C62828;

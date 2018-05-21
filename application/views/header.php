@@ -45,7 +45,7 @@
 
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg">
+    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
         <div class="container-fluid clear-paddings">
             <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -54,5 +54,14 @@
             </div><!-- /.navbar-collapse -->
         </div>
     </nav>
+    <div class="container-fluid sec-nav">
+        <div class="row justify-content-around text-center kannada">
+            <div class="col-md pill back-green">ಸಮಕಾಲೀನ</div>
+            <div class="col-md pill back-orange">ಮುಖ್ಯಚರ್ಚೆ</div>
+            <div class="col-md pill back-blue">ಜಗದರಿವು</div>
+            <div class="col-md pill back-brown">ಪುಸ್ತಕ ಪ್ರಪಂಚ</div>
+            <div class="col-md pill back-red">ಸಂಸ್ಕೃತಿ ಸಂಪದ</div>
+        </div>
+    </div>
     <!-- End Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

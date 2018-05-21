@@ -1,23 +1,5 @@
 <div class="container-fluid mainpage kannada">
 	<div class="row justify-content-between introduction">
-		<div class="col-md-3">
-			<div class="card card-medium">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art1.jpg" />
-				<div class="card-body">
-					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong><br /><a href="<?=BASE_URL?>articles/article-20180402.01.01">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</a></h5>
-					<p class="card-text">ಪ್ರತಿಮೆಗಳಿಗೆ  ಅರ್ಥಬರುವುದು;  ಅವು ಪ್ರತಿನಿಧಿಸುವ  ತತ್ವವನ್ನು ಸಮಾಜ  ಬದುಕುವುದರಲ್ಲಿ.  ಈ ತತ್ವಬದುಕುವಿಕೆ  ಪ್ರತಿಮೆಗಳಿಲ್ಲದೆಯೂ  ಸಾಧ್ಯವಾಗಬೇಕು.  ತತ್ವಾಚರಣೆಯಿಲ್ಲದ  ಪ್ರತಿಮಾ  ಆರಾಧನೆಯನ್ನು  ಝೆನ್ ಮುಂತಾದ  ಬೌದ್ಧ ದಾರ್ಶನಿಕ  ಶಾಖೆಗಳು ತೀವ್ರವಾಗಿ  ನಿರಾಕರಿಸಿದವು.</p>
-					<p class="card-author">ರಹಮತ್ ತರೀಕೆರೆ</p>
-				</div>
-			</div>
-			<div class="card card-medium">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg" />
-				<div class="card-body">
-					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong><br /><a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></h5>
-					<p class="card-text">ಹಿಂದೊಮ್ಮೆ ನಾನು ಲಂಕೇಶ್ ಪತ್ರಿಕೆಯಲ್ಲಿದ್ದಾಗ ಮೇಷ್ಟ್ರು  ಲಂಕೇಶರ ಜೊತೆ ಚುನಾವಣಾ ವರದಿ ಮಾಡಲು ಕನಕಪುರದ  ಹಳ್ಳಿಗಳ ಕಡೆಗೆ ಹೋಗಿದ್ದೆ.</p>
-					<p class="card-author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
-				</div>
-			</div>
-		</div>
 		<div class="col-md-6">
 			<div class="card card-big">
 				<div class="card-body">
@@ -31,21 +13,51 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-3">
-			<div class="card card-medium">
+		<div class="col-md-3 pl-0 pr-4">
+			<div class="card card-medium card-overlay">
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg" />
+				<div class="card-body">
+					<p class="card-author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
+					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></h5>
+					<!-- <p class="card-text">ಹಿಂದೊಮ್ಮೆ ನಾನು ಲಂಕೇಶ್ ಪತ್ರಿಕೆಯಲ್ಲಿದ್ದಾಗ ಮೇಷ್ಟ್ರು  ಲಂಕೇಶರ ಜೊತೆ ಚುನಾವಣಾ ವರದಿ ಮಾಡಲು ಕನಕಪುರದ  ಹಳ್ಳಿಗಳ ಕಡೆಗೆ ಹೋಗಿದ್ದೆ.</p> -->
+				</div>
+			</div>
+			<div class="card card-medium card-overlay">
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art1.jpg" />
+				<div class="card-body">
+					<p class="card-author">ರಹಮತ್ ತರೀಕೆರೆ</p>
+					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180402.01.01">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</a></h5>
+					<!-- <p class="card-text">ಪ್ರತಿಮೆಗಳಿಗೆ ಅರ್ಥಬರುವುದು; ಅವು ಪ್ರತಿನಿಧಿಸುವ  ತತ್ವವನ್ನು ಸಮಾಜ  ಬದುಕುವುದರಲ್ಲಿ.</p> -->
+				</div>
+			</div>
+			<div class="card card-medium card-overlay">
 				<img class="card-img-top" src="<?=PUBLIC_URL?>images/jagadarivu/art1.jpg" />
 				<div class="card-body">
-					<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong><br /><a href="<?=BASE_URL?>articles/article-20180402.03.01">ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮತ್ತು ಅಮೆರಿಕಾದ ವರ್ಣೀಯ ರಾಜಕಾರಣ</a></h5>
-					<p class="card-text">ಅಮೆರಿಕಾದ ರಾಜಕಾರಣದಲ್ಲಿ ಶ್ವೇತವರ್ಣೀಯರ ಪ್ರಾಬಲ್ಯವೆನ್ನುವುದು ಒಂದು ಜೀವಂತ   ಚೇತನವಾಗಿ ಅದರ   ಇತಿಹಾಸದುದ್ದಕ್ಕೂ   ಉಳಿದುಬಂದಿದೆ.   ಟ್ರಂಪ್ ಅಂತಹ   ಚೇತನದಿಂದ   ಹೊರಹೊಮ್ಮಿರುವ   ರಾಜಕಾರಣಿ.</p>
 					<p class="card-author">ಪ್ರೊ. ಕ್ರಿಸ್ಟೋಫರ್ ಚೆಕೂರಿ</p>
+					<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180402.03.01">ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮತ್ತು ಅಮೆರಿಕಾದ ವರ್ಣೀಯ ರಾಜಕಾರಣ</a></h5>
+					<!-- <p class="card-text">ಅಮೆರಿಕಾದ ರಾಜಕಾರಣದಲ್ಲಿ ಶ್ವೇತವರ್ಣೀಯರ ಪ್ರಾಬಲ್ಯವೆನ್ನುವುದು ಒಂದು ಜೀವಂತ   ಚೇತನವಾಗಿ ಅದರ   ಇತಿಹಾಸದುದ್ದಕ್ಕೂ   ಉಳಿದುಬಂದಿದೆ.   ಟ್ರಂಪ್ ಅಂತಹ   ಚೇತನದಿಂದ   ಹೊರಹೊಮ್ಮಿರುವ   ರಾಜಕಾರಣಿ.</p> -->
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3 prastuta">
+			<h2>ಅನಿಸಿಕೆ : ಪ್ರಸ್ತುತ</h2>
+			<div class="card card-medium">
+				<div class="card-body row align-items-center">
+					<p class="col-md-2 clock"><i class="fa fa-clock-o"></i><br />ಪ್ರಸ್ತುತ</p>
+					<h5 class="card-title col-md-10"><a href="#">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
 				</div>
 			</div>
 			<div class="card card-medium">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samskriti/art1.jpg" />
-				<div class="card-body">
-					<h5 class="card-title"><strong class="red">ಸಂಸ್ಕೃತಿ ಸಂಪದ</strong><br /><a href="<?=BASE_URL?>articles/article-20180402.05.02">‘ಗೋತ್ರಾನೂ ಒಂದ ಧೋತ್ರಾನೂ ಒಂದ...’</a></h5>
-					<p class="card-text">ವಿಶ್ವವಿಖ್ಯಾತ ಸರೋದ್ ವಾದಕ, ಹಿಂದೂಸ್ಥಾನಿ ಸಂಗೀತ ದಿಗ್ಗಜ ರಾಜೀವ ತಾರಾನಾಥ ಅವರ ಅಸಂಪ್ರದಾಯಿಕ ಸಂದರ್ಶನ.</p>
-					<p class="card-author">ಶ್ರೀದೇವಿ ಕಳಸದ</p>
+				<div class="card-body row align-items-center">
+					<p class="col-md-2 clock"><i class="fa fa-calendar "></i><br />ಅನಿಸಿಕೆ</p>
+					<h5 class="card-title col-md-10"><a href="#">ಚರ್ಚೆಯ ಮೂಲಕ ಮಹದಾಯಿಗೆ ಪರಿಹಾರ ಸಾಧ್ಯವೇ?</a></h5>
+				</div>
+			</div>
+			<div class="card card-medium">
+				<div class="card-body row align-items-center">
+					<iframe class="card-img-top" height="300" src="https://www.youtube.com/embed/Hkp2yvbubbw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<p class="col-md-2 clock"><i class="fa fa-video-camera"></i><br />ಪ್ರಸ್ತುತ</p>
+					<h5 class="card-title col-md-10"><a href="#">ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h5>
 				</div>
 			</div>
 		</div>

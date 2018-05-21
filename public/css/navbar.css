@@ -1,7 +1,7 @@
 .navbar{
 	font-family: 'shreelipi', sans-serif;
 	margin-bottom: 0;
-	background-color: #F7F7F7;
+	background-color: #FFF;
 	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
 	padding: 10px 0;
 }
@@ -140,18 +140,26 @@ ul.nav-pills>li{
 li.navSeparator{
 	display: none !important;
 }
+.sec-nav{
+	color: #000;
+	font-size: 22px;
+	font-weight: bold;
+}
+.sec-nav .pill{
+	padding: 5px 10px;
+}
 @media(min-width:768px) {
 	li.navSeparator{
 		display: inline-block !important;
 	}
 	.navbar{
-		padding: 0 30px;
+		padding: 10px 30px;
 	}
 	.navbar .navbar-nav > li {
   		display: inline-block;
 	}
 	.navbar .logo{
-		height: 80px;
+		height: 60px;
 		transition: height 0.3s ease;
 		margin: 0;
 	}
@@ -173,6 +181,12 @@ li.navSeparator{
 	}
 	.navbar .navbar-nav > li {
   		display: inline-block;
+	}
+	.sec-nav{
+		padding-top: 81px;
+	}
+	.sec-nav .pill{
+		padding: 10px 8px 6px 8px;
 	}
 }
 @media(min-width: 992px) {
