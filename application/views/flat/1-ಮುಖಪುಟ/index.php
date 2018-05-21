@@ -25,7 +25,7 @@
 		</div>
 		<div class="col-md-3 pl-0 pr-4">
 			<div class="card card-medium card-overlay">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg" />
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg?v=1.0" />
 				<div class="card-body">
 					<p class="card-author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
 					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></h5>
