@@ -99,7 +99,7 @@
 			<div class="row align-items-top">
 				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/Hkp2yvbubbw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				<div class="card-body col-md-8">
-					<h4 class="title"><a href="#">ಎನ್ ಆರ್ ನರಯಣಮೂರ್ತಿ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
+					<h4 class="title"><a href="#">ಎನ್ ಆರ್ ನಾರಾಯಣಮೂರ್ತಿ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
 					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
 				</div>
 			</div>
