@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> February 2018</p>
 			<h1 class="title">ಸಕ್ಕರೆ ನಿಷೇಧಿಸಿ!</h1>
 			<h2 class="author">ಡಾ.ಶ್ರೀನಿವಾಸ ಕಕ್ಕಿಲ್ಲಾಯ ಮಂಗಳೂರು</h2>
 			<p class="description">ದೇಶದ ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆಯ ಸುಧಾರಣೆಗೆ ಅತ್ಯಗತ್ಯವಾಗಿ ಮಾಡಬೇಕಾಗಿರುವ ಕೆಲಸಗಳನ್ನು ಬರೆದಿದ್ದೇನೆ. ಅವು ವಿನೂತನ ಎನ್ನುವುದಕ್ಕಿಂತ ಬಹು ಹಿಂದೆಯೇ ಮಾಡಬೇಕಾಗಿದ್ದ, ಆದರೆ ಮಾಡದೇ ಮರೆತ ಕೆಲಸಗಳು ಎಂದರೆ ಹೆಚ್ಚು ಸಮಂಜಸವಾದೀತು.</p>
