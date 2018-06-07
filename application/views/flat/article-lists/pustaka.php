@@ -16,4 +16,10 @@
 			<p class="date english brown">Posted: 2<sup>nd</sup> May 2018</p>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="title"><a href="#"></a></h5>
+			<p class="date english brown">Posted: 2<sup>nd</sup> February 2018</p>
+		</div>
+	</div>
 </div>
