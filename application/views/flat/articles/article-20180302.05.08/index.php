@@ -3,7 +3,6 @@
 		<div class="col-md-8 article">
 			<p class="date english">2<sup>nd</sup> March 2018</p>
 			<h1 class="title">ಸಾಬೂನು ಚಾಲಿತ ಬೋಟ್</h1>
-			<h2 class="author">ಗುರುಪ್ರಸಾದ್ ಡಿ. ಎನ್.</h2>
 			<p class="description">ನೀರಲ್ಲಿ ಬೋಟ್ ಓಡುವುದನ್ನು ನೋಡುವುದೇ ಚಂದ. ಆ ಚಂದವನ್ನು ಮನೆಯೊಳಗೇ ಕೂತು ನೋಡಿ ಖುಷಿಪಡುವುದಕ್ಕೆ ನೆರವಾಗಬಲ್ಲ ಅತಿ ಸರಳ ಪ್ರಯೋಗವೊಂದಿದೆ.</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201803/0080a.jpg" /></figure>
 			<h3>ಏನೇನು ಬೇಕು</h3>

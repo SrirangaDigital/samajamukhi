@@ -136,6 +136,109 @@
 			<p class="date english orange"><i class="fa fa-book"></i> March 2018</p>
 		</div>
 	</div>
-	
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.01"></a>ಮುಖ್ಯಚರ್ಚೆಗೆ ಪ್ರವೇಶ</h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.02"></a>ಕುಡಿಯುವ ನೀರಿಗೆ 125 ಟಿ.ಎಮ್.ಸಿ. ನೀರು ಮೀಸಲಿಡುವುದು</h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.03"></a>ಹೋಬಳಿ ಕೇಂದ್ರಗಳಲ್ಲಿ ಎಲ್ಲ ಸರ್ಕಾರಿ ಸೇವೆಗಳು ಲಭ್ಯವಿರುವ ಸೇವಾಗ್ರಾಮ ಯೋಜನೆ</h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.04">ಎಲ್ಲ ಸಾರ್ವಜನಿಕ / ಸರ್ಕಾರಿ ದಾಖಲೆಗಳ ಡಿಜಿಟಲ್ ಭಂಡಾರ (ರಿಪಾಸಿಟರಿ)</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.05">ಶಾಲಾ ಕಾಲೇಜುಗಳಿಗೆ ಹೊಸ ಗಾಳಿಬೆಳಕು</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div><div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.06">ಕರ್ನಾಟಕ ರೈಲ್ವೆ ಕಾರ್ಪೋರೇಶನ್</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.07">ಆರ್ಕಿಯಾಲಾಜಿಕಲ್ ಸರ್ವೆ ಆಫ್ ಕರ್ನಾಟಕ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.08">ಕರ್ನಾಟಕ ಸಾರ್ವಜನಿಕ ವಿನ್ಯಾಸ ಸಂಸ್ಥೆ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.09">ನಗರಗಳಲ್ಲಿ ಮೇಯರುಗಳ ಆಯ್ಕೆ ನೇರವಾಗಿ ಆಗಲಿ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.10">ಬೆಂಗಳೂರಿನ ಸಂಚಾರ ದಟ್ಟಣೆಗೆ ಶಾಶ್ವತ ಪರಿಹಾರ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.11">ಕರ್ನಾಟಕದಲ್ಲಿ / ಬೆಂಗಳೂರಿನಲ್ಲಿ ಒಲಂಪಿಕ್ ನಗರ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.12">ಇಂದು ಕರ್ನಾಟಕದ ಮುಂದಿರುವ ಸವಾಲುಗಳು</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಅರವಿಂದ ಪಟೇಲ್ ಬಳ್ಳಾರಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.13">ವೈದ್ಯಕ್ಷೇತ್ರದ ಉದ್ಧಾರಕ್ಕೆ ಮೂರು ಮದ್ದು!</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮಾಲತಿ ಪಟ್ಟಣಶೆಟ್ಟಿ ಧಾರವಾಡ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.14">ಗುಣಮಟ್ಟಕ್ಕೆ ಮನ್ನಣೆ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಶ್ರೀನಿವಾಸ ಕಕ್ಕಿಲ್ಲಾಯ ಮಂಗಳೂರು</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.15">ಸಕ್ಕರೆ ನಿಷೇಧಿಸಿ!</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
+		</div>
+	</div>
 
 </div>
