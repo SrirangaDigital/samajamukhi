@@ -6,7 +6,7 @@
 					<div class="row align-items-center justify-content-center">
 						<div class="col-md-8">
 							<figure>
-								<img class="img-fluid" src="<?=PUBLIC_URL?>images/cover.jpg" />
+								<img class="img-fluid" src="<?=PUBLIC_URL?>images/dec2017.jpg" />
 								<figcaption>ಡಿಸೆಂಬರ್ 2017<br />ಸಂಪುಟ , ಸಂಚಿಕೆ</figcaption>
 							</figure>
 						</div>
