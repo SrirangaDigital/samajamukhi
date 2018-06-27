@@ -6,6 +6,48 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">ಮಾಧವ ಐತಾಳ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.01">ಪೇಟೆಂಟ್ ನೀತಿಯಲ್ಲಿ ಅಮೆರಿಕ ಹಸ್ತಕ್ಷೇಪ</a></h5>
+			<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.02">ಹೊಸಪೇಟೆಯ ಐಎಎಸ್ ಸಾಧಕ ಕೀರ್ತಿಕಿರಣ್ ಪೂಜಾರ್</a></h5>
+			<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.03">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</a></h5>
+			<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.04">12 ವರ್ಷದೊಳಗಿನ ಮಕ್ಕಳನ್ನು ಬಲಾತ್ಕಾರ ಮಾಡುವವರಿಗೆ ಗಲ್ಲುಶಿಕ್ಷೆ</a></h5>
+			<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.05">ಮಲೇಶಿಯಾಗೆ ಮತ್ತೊಮ್ಮೆ ಮಹಾಥಿರ್ ಮಹಮದ್</a></h5>
+			<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಭಾರತೀ ಮೈಸೂರು</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.06">ಜಪಾನ್ ಗಾತ್ರದಲ್ಲಿ ಮಾತ್ರ ಕರ್ನಾಟಕ!</a></h5>
+			<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author">ಟಿ.ಆರ್.ಅನಂತರಾಮು</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.03.01">ಹಣೆಬರಹವನ್ನೇ ಬದಲಿಸಲು ಹೊರಟ ಜೀನ್ ಎಡಿಟಿಂಗ್</a></h5>
 			<p class="date english blue"><i class="fa fa-book"></i> May 2018</p>

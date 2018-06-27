@@ -7,6 +7,57 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author">ಮೋಹನದಾಸ್</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.01">ಇವನಾರವ ಇವನಾರವ ಇವನಾರವ ಎನ್ನಬೇಡಿ...!</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಬಸವರಾಜ ಭೂಸಾರೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.02">ಉತ್ತಮ? ಮಧ್ಯಮ? ಅಧಮ?
+ಡಾ.ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಸ್ಕೂಲ್ ಆಫ್ ಎಕನಾಮಿಕ್ಸ್</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಸುನಂದಾ ಕಡಮೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.03">ಸಾಹಿತ್ಯಮನೆಯ ಸೋದರಮಾವ ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.04">ಜನರ ಬೇಡಿಕೆಗೆ ಬಂದೂಕುಗಳ ಉತ್ತರ 
+ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಡಿ.ಸಿ.ನಂಜುಂಡ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.05">ನಿಮ್ಮ ಆನ್‍ಲೈನ್ ಮಾಹಿತಿ ಎಷ್ಟು ಸುರಕ್ಷಿತ?</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.06">ಮಹದಾಯಿಗೆ ಕಾವೇರಿ ಮಾದರಿ ಪರಿಹಾರ?</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಪ್ರೊ.ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
+			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮೋಹನದಾಸ್</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.01.01">ಸಂಸದೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಗೆ ಗುಡ್ ಬೈ?</a></h5>
 			<p class="date english green"><i class="fa fa-book"></i> May 2018</p>
 		</div>

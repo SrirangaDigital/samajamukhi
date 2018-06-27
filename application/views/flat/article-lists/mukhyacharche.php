@@ -7,6 +7,62 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.01">ಉನ್ನತ ಶಿಕ್ಷಣ ಎತ್ತ ಸಾಗಿದೆ?</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.02">ಉನ್ನತ ಶಿಕ್ಷಣದ ಭರವಸೆಯೇನು?</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.03">ಉನ್ನತ ಶಿಕ್ಷಣ ಕ್ಷೇತ್ರ ಎದುರಿಸುತ್ತಿರುವ ಮೂರು ಬಿಕ್ಕಟ್ಟುಗಳು</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.04">ರಾಜ್ಯಮಟ್ಟದಲ್ಲಿ ಉನ್ನತ ಶಿಕ್ಷಣದ ಆಡಳಿತ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.05">ಹಾಗಾದರೆ ಪರ್ಯಾಯ ಏನು?</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಅರ್ಜುನ್ ರಾಮೇಗೌಡ ನಾರಾಯಣಸ್ವಾಮಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.06">ಆ ಬೆಂಕಿಯ ಕಿಡಿ ಹೊತ್ತಿಸುವವರು ಯಾರು?</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.07">ಪೂರಕ ವಾತಾವರಣದ ಕೊರತೆ</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.08">ಹಾರ್ವರ್ಡ್ ಗುಣಮಟ್ಟ:  ಕೈಗೂಡದ ಕನಸೇ?</a></h5>
+			<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.02.01">ಮುಖಾಮುಖಿ ಯಾರು ಹಿತವರು ಎನ್ನ ನಾಡಿಗೆ?</a></h5>
 			<p class="date english orange"><i class="fa fa-book"></i> May 2018</p>
 		</div>

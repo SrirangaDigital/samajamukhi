@@ -6,6 +6,55 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">ಡಾ.ವಿನಯಾ ಒಕ್ಕುಂದ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.01">ಲಕ್ಷ್ಮೀಶನ ಜೈಮಿನಿ ಭಾರತ ಸೀತಾ ಪರಿತ್ಯಾಗ</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಪ್ರೊ.ಜಿ.ಎಚ್.ಹನ್ನೆರಡುಮಠ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.02">ಓಡಿ ಹೋದ ದ್ವೆವಗಳು</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.03">ನನ್ನ ಕ್ಲಿಕ್</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮೂಡ್ನಾಕೂಡು ಚಿನ್ನಸ್ವಾಮಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.04">ಸಂಕಟದ ಪ್ರೇಮಿ</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಹೇಮಲತಾ ಮೂರ್ತಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.05">ವಿಷ ಕುಡಿದ ಮಕ್ಕಳು</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮ.ಶ್ರೀ.ಮುರಳಿ ಕೃಷ್ಣ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.06">ಸಂಬಂಧಗಳ ನವಿರು ನಿರೂಪಣೆ ದಿ ಕೇಕ್‍ಮೇಕರ್</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
+			<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author">ಡಾ.ಮ್ಯಾಥ್ಯೂ ಕೆ.ಎಮ್.</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.05.01">ನಾಗಚಂದ್ರನ ರಾಮಚಂದ್ರ ಚರಿತ ಪುರಾಣಂ</a></h5>
 			<p class="date english red"><i class="fa fa-book"></i> May 2018</p>

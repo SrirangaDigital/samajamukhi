@@ -6,6 +6,27 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">ಡಾ.ರಾಕೇಶ್ ಬಟಬ್ಯಾಲ್ </p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.01">ಜೆ.ಎನ್.ಯು ದ ಮೇಕಿಂಗ್ ಆಫ್ ಎ ಯೂನಿವರ್ಸಿಟಿ</a></h5>
+			<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಎಸ್.ಆರ್.ವಿಜಯಶಂಕರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.02">ಮೊಗಳ್ಳಿ ಗಣೇಶ್ ಹೊಸ ಕಥಾ ಸಂಕಲನ ದೇವರ ದಾರಿ</a></h5>
+			<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮಂಜುನಾಥ ಡಿ.ಎಸ್.</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.03">ಅಹಿಂಸಾತ್ಮಕ ಸಂವಹನ</a></h5>
+			<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.01">ಕರ್ನಾಟಕದ ರಾಜಕಾರಣ ಹೇಗೆ ಬದಲಾಗಿದೆ?</a></h5>
 			<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
