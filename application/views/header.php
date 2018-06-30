@@ -39,7 +39,7 @@
 
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png">
+    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png?v=2.0">
 </head>
 <body>
 
