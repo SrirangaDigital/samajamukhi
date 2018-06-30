@@ -6,50 +6,67 @@
 		</div>
 	</div> -->
 	<div class="row justify-content-between introduction">
-		<div class="col-md-6">
+		<div class="col-md-6 align-self-center">
 			<div class="card card-big">
 				<div class="card-body">
-					<h1 class="card-title-big orange">ಚುನಾವಣೆ: ಯಾರ ಹೊಣೆ?</h1>
+					<h1 class="card-title-big orange">ಉನ್ನತ ಶಿಕ್ಷಣ ಎತ್ತ ಸಾಗಿದೆ?</h1>
 				</div>
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/mukhyacharche/art8.jpg" />
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0023a.jpg" />
 				<div class="card-body">
-					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180402.02.02">ನಮ್ಮ ಬೆರಳ ತುದಿಯಲ್ಲಿ ನಾಡಿನ ಭವಿಷ್ಯ</a></h5>
-					<p class="card-text">ನಮ್ಮ ರಾಜಕೀಯ ವ್ಯವಸ್ಥೆ ಎಷ್ಟೇ ಹದಗೆಟ್ಟಿದ್ದರೂ, ನಮ್ಮ ರಾಜಕಾರಣಿಗಳು ಎಷ್ಟೇ ಭ್ರಷ್ಟರಾಗಿದ್ದರೂ, ನೋಟು ಪಡೆದು ವೋಟು ನೀಡುವ ಮನೋಭಾವ ಹೊಂದಿದ ಮತದಾರರು ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಗೇ ಮಾರಕ.</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180602.02.01">ಪ್ರವೇಶ</a></h5>
+					<p class="card-text">ಜ್ಞಾನಕೇಂದ್ರಿತ ನಾಗರಿಕತೆಯ ಸಮಯದಲ್ಲಿ ನಾವು ಬದುಕುತ್ತಿದ್ದೇವೆ. ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ಜ್ಞಾನಸೃಷ್ಟಿ ಮತ್ತು ಪ್ರಸರಣಗಳ ಪ್ರಕ್ರಿಯೆಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚು ಎಚ್ಚರದಿಂದ ಹೆಜ್ಜೆ ಹಾಕಬೇಕಾದ ಅನಿವಾರ್ಯತೆ ನಮಗಿದೆ.</p>
 					<p class="card-category"><strong class="orange">ಮುಖ್ಯಚರ್ಚೆ</strong></p>
 				</div>
 			</div>
-			<div class="card card-big">
+			<div class="row justify-content-start introduction" style="margin-right: 0px;margin-top: 20px;margin-bottom: 0px;">
+				<div class="col-md-6">
+					<div class="card card-medium card-overlay">
+						<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0078a.jpg" />
+						<div class="card-body">
+							<p class="card-author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
+							<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
+						</div>
+					</div>	
+				</div>
+				<div class="col-md-6">
+					<div class="card card-medium card-overlay">
+						<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0044a.jpg" />
+						<div class="card-body">
+							<p class="card-author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
+							<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.03.03">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</a></h5>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="card card-big">
 				Advertisement
 				<img class="card-img-top" src="http://via.placeholder.com/600x150" />
-			</div>
+			</div> -->
 		</div>
-		<div class="col-md-3 pl-0 pr-4">
+		<div class="col-md-3 pl-0 pr-5 align-self-center">
 			<div class="card card-medium card-overlay">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art2.jpg?v=1.0" />
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0012a.jpg" />
 				<div class="card-body">
-					<p class="card-author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
-					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></h5>
-					<!-- <p class="card-text">ಹಿಂದೊಮ್ಮೆ ನಾನು ಲಂಕೇಶ್ ಪತ್ರಿಕೆಯಲ್ಲಿದ್ದಾಗ ಮೇಷ್ಟ್ರು  ಲಂಕೇಶರ ಜೊತೆ ಚುನಾವಣಾ ವರದಿ ಮಾಡಲು ಕನಕಪುರದ  ಹಳ್ಳಿಗಳ ಕಡೆಗೆ ಹೋಗಿದ್ದೆ.</p> -->
+					<p class="card-author">&nbsp;</p>
+					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.04">ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
 				</div>
 			</div>
 			<div class="card card-medium card-overlay">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/samakalina/art1.jpg" />
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0017a.jpg" />
 				<div class="card-body">
-					<p class="card-author">ರಹಮತ್ ತರೀಕೆರೆ</p>
-					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180402.01.01">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</a></h5>
-					<!-- <p class="card-text">ಪ್ರತಿಮೆಗಳಿಗೆ ಅರ್ಥಬರುವುದು; ಅವು ಪ್ರತಿನಿಧಿಸುವ  ತತ್ವವನ್ನು ಸಮಾಜ  ಬದುಕುವುದರಲ್ಲಿ.</p> -->
+					<p class="card-author">&nbsp;</p>
+					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.06">ಮಹದಾಯಿಗೆ ಕಾವೇರಿ ಮಾದರಿ ಪರಿಹಾರ?</a></h5>
 				</div>
 			</div>
 			<div class="card card-medium card-overlay">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/jagadarivu/art1.jpg" />
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0019b.jpg" />
 				<div class="card-body">
-					<p class="card-author">ಪ್ರೊ. ಕ್ರಿಸ್ಟೋಫರ್ ಚೆಕೂರಿ</p>
-					<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180402.03.01">ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮತ್ತು ಅಮೆರಿಕಾದ ವರ್ಣೀಯ ರಾಜಕಾರಣ</a></h5>
-					<!-- <p class="card-text">ಅಮೆರಿಕಾದ ರಾಜಕಾರಣದಲ್ಲಿ ಶ್ವೇತವರ್ಣೀಯರ ಪ್ರಾಬಲ್ಯವೆನ್ನುವುದು ಒಂದು ಜೀವಂತ   ಚೇತನವಾಗಿ ಅದರ   ಇತಿಹಾಸದುದ್ದಕ್ಕೂ   ಉಳಿದುಬಂದಿದೆ.   ಟ್ರಂಪ್ ಅಂತಹ   ಚೇತನದಿಂದ   ಹೊರಹೊಮ್ಮಿರುವ   ರಾಜಕಾರಣಿ.</p> -->
+					<p class="card-author">ಪ್ರೊ. ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
+					<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ<br />ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
 				</div>
 			</div>
 		</div>
-		<div class="col-md-3 prastuta">
+		<div class="col-md-3 prastuta align-self-start">
 			<h2>ಅನಿಸಿಕೆ : ಪ್ರಸ್ತುತ</h2>
 			<div class="card card-medium">
 				<div class="card-body row align-items-center">
@@ -63,13 +80,6 @@
 					<h5 class="card-title col-md-10"><a href="<?=BASE_URL?>articles/article-20180501.12 01">ಚರ್ಚೆಯ ಮೂಲಕ ಮಹದಾಯಿಗೆ ಪರಿಹಾರ ಸಾಧ್ಯವೇ?</a></h5>
 				</div>
 			</div>
-			<div class="card card-medium">
-				<div class="card-body row align-items-center">
-					<iframe class="card-img-top" height="300" src="https://www.youtube.com/embed/Hkp2yvbubbw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					<p class="col-md-2 clock"><i class="fa fa-video-camera"></i><br />ಪ್ರಸ್ತುತ</p>
-					<h5 class="card-title col-md-10"><a href="#">ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h5>
-				</div>
-			</div>
 		</div>
 	</div>
 </div>
@@ -79,10 +89,10 @@
 			<h3>ಚಿಂತನಶೀಲ</h3>
 			<h1>ಸಮಾಜಮುಖಿ</h1>
 			<h2 class="orange">ಅನ್ನದ ಭಾಷೆಯ ಚಿನ್ನದ ಮಾಸಿಕ</h2>
-			<h3>ಮೇ 2018 | ಸಂಪುಟ 1 | ಸಂಚಿಕೆ 5</h3>
+			<h3>ಜೂನ್ 2018 | ಸಂಪುಟ 1 | ಸಂಚಿಕೆ 6</h3>
 		</div>
 		<div class="col-md-2">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/cover.jpg" />
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/jun2018.jpg" />
 		</div>
 		<div class="col-md-4 text-right">
 			<h1 class="english light">#samajamukhi</h1>
@@ -158,52 +168,52 @@
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
 		<div class="col-md-7 big">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samakalina/art3.jpg" />
-			<p class="author">ಡಿ.ಎಸ್.ನಾಗಭೂಷಣ</p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.03">ಉತ್ತರ ಪ್ರದೇಶ ಮತ್ತು ಬಿಹಾರದ ಫಲಿತಾಂಶಗಳು ಏನು ಹೇಳುತ್ತಿವೆ?</a></p>
-			<p class="description">ಇತ್ತೀಚಿಗೆ ಕಾಂಗ್ರೆಸ್ಸಿನ ಭ್ರಷ್ಟಾಚಾರಕ್ಕಿಂತ  ಬಿಜೆಪಿಯ ಕೋಮುವಾದ ಸಹನೀಯ  ಅನ್ನಿಸತೊಡಗಿದೆ ಎಂಬುದರಿಂದಲಾದರೂ  ಸೆಕ್ಯುಲರ್‍ವಾದಿಗಳು ಪಾಠ  ಕಲಿಯಬೇಡವೇ? ಆದರೆ ಪ್ರಜಾಪ್ರಭುತ್ವ,  ಧರ್ಮನಿರಪೇಕ್ಷತೆ ಮತ್ತು ಒಳಗೊಳ್ಳುವ  ರಾಜಕಾರಣದ ತತ್ವಗಳ ದೀರ್ಘ  ಪರಂಪರೆಯುಳ್ಳ ಕಾಂಗ್ರೆಸ್‍ನಂತಹ  ರಾಷ್ಟ್ರೀಯ ಪಕ್ಷವೊಂದು ಕೋಮುವಾದಿ  ವಿರೋಧಿ ಹೋರಾಟದ ಇಂತಹ  ಬೋಳೆತನಕ್ಕೆ ಸಿಕ್ಕಿ ನಿರ್ನಾಮವಾಗಲು  ಬಿಡಬೇಕೆ?</p>
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0005a.jpg" />
+			<p class="author">ಮೋಹನದಾಸ್</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.01">ಇವನಾರವ ಇವನಾರವ ಇವನಾರವ ಎನ್ನಬೇಡಿ...!</a></p>
+			<p class="description">2018ರ ಈ ಚುನಾವಣೆಯವರೆಗೆ ಯಾರೂ ಈ ಮಟ್ಟಕ್ಕೆ ಕರ್ನಾಟಕವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವ ಪ್ರಯತ್ನ ಮಾಡಿಲ್ಲ.</p>
 		</div>
 		<div class="col-md-4 list">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಸುಧಾ ಶೆಣೈ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.04">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</a></p>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಬಸವರಾಜ ಭೂಸಾರೆ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.02">ಉತ್ತಮ? ಮಧ್ಯಮ? ಅಧಮ?<br />ಡಾ.ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಸ್ಕೂಲ್ ಆಫ್ ಎಕನಾಮಿಕ್ಸ್</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ರಹಮತ್ ತರೀಕೆರೆ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.01">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</a></p>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಸುನಂದಾ ಕಡಮೆ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.03">ಸಾಹಿತ್ಯಮನೆಯ ಸೋದರಮಾವ ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></p>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.04">ಜನರ ಬೇಡಿಕೆಗೆ ಬಂದೂಕುಗಳ ಉತ್ತರ - ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಸುಧಾ ಶೆಣೈ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.04">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</a></p>
-					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="author">ಡಾ.ಡಿ.ಸಿ.ನಂಜುಂಡ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.05">ನಿಮ್ಮ ಆನ್‍ಲೈನ್ ಮಾಹಿತಿ ಎಷ್ಟು ಸುರಕ್ಷಿತ?</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ರಹಮತ್ ತರೀಕೆರೆ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.01">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</a></p>
-					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.06">ಮಹದಾಯಿಗೆ ಕಾವೇರಿ ಮಾದರಿ ಪರಿಹಾರ?</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಹನುಮಂತರೆಡ್ಡಿ ಶಿರೂರು</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.01.02">ಸಿದ್ದರಾಮಯ್ಯನವರ ಕಲ್ಯಾಣ ರಾಜ್ಯ !</a></p>
-					<p class="date english green">Posted: 2<sup>nd</sup> May 2018</p>
+					<p class="author">ಪ್ರೊ. ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ - ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 		</div>
@@ -217,58 +227,58 @@
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
 		<div class="col-md-7 big">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/mukhyacharche/art0.jpg" />
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.01">ಪರೀಕ್ಷೆ ಅಭ್ಯರ್ಥಿಗಳಿಗಲ್ಲ, ಮತದಾರರಿಗೆ !</a></p>
-			<p class="description">ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಪರೀಕ್ಷೆಯ ಕಾಲ. ವರ್ಷಪೂರ್ತಿ ಕಲಿತ ಪಾಠಗಳ  ಪರೀಕ್ಷೆ ಕೇವಲ ಮೂರು ಘಂಟೆಗಳಲ್ಲಿ ಆಗಲಿದೆ. ಈ ಮೂರು ಘಂಟೆಗಳಲ್ಲಿ  ಎಡವಿದರೆ ಅದರ ಫಲಿತಾಂಶವನ್ನು ಮುಂದಿನ ಹಲವಾರು ವರ್ಷ  ಅನುಭವಿಸಬೇಕಾಗಬಹುದು. ಅದೇ ಮೂರು ಘಂಟೆಗಳಲ್ಲಿ ಜಾಣತನ  ತೋರಿ ಮೌಲ್ಯಮಾಪಕರನ್ನು ಮೆಚ್ಚಿಸಿದರೆ ಗುರಿ ಮುಟ್ಟುವ ಹಾದಿ  ಸಲೀಸಾಗಬಹುದು.</p>
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0028a.jpg" />
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.01">ಉನ್ನತ ಶಿಕ್ಷಣ ಎತ್ತ ಸಾಗಿದೆ?</a></p>
+			<p class="description">ಜ್ಞಾನಕೇಂದ್ರಿತ ನಾಗರಿಕತೆಯ ಸಮಯದಲ್ಲಿ ನಾವು ಬದುಕುತ್ತಿದ್ದೇವೆ. ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ಜ್ಞಾನಸೃಷ್ಟಿ ಮತ್ತು ಪ್ರಸರಣಗಳ ಪ್ರಕ್ರಿಯೆಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚು ಎಚ್ಚರದಿಂದ ಹೆಜ್ಜೆ ಹಾಕಬೇಕಾದ ಅನಿವಾರ್ಯತೆ ನಮಗಿದೆ.</p>
 		</div>
 		<div class="col-md-4 list">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಡಾ.ಬಿ.ಎಲ್.ಶಂಕರ್</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.03">ಆಡಿದ ಮಾತಿಗೂ ಆತ್ಮದ ಮಾತಿಗೂ ಅಜಗಜಾಂತರ!</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.02">ಉನ್ನತ ಶಿಕ್ಷಣದ ಭರವಸೆಯೇನು?</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಹರೀಶ್ ನರಸಪ್ಪ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.04">ಚುನಾವಣಾ ಆಯೋಗದ ಮಿತಿ ಮತ್ತು ವೈಫಲ್ಯ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.03">ಉನ್ನತ ಶಿಕ್ಷಣ ಕ್ಷೇತ್ರ ಎದುರಿಸುತ್ತಿರುವ ಮೂರು ಬಿಕ್ಕಟ್ಟುಗಳು</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಬಿ.ಎನ್.ವಿಜಯಕುಮಾರ್</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.05">ಭ್ರಷ್ಟತೆಗೆ ರಾಜಕೀಯ ಪಕ್ಷಗಳೇ ಕಾರಣ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.04">ರಾಜ್ಯಮಟ್ಟದಲ್ಲಿ ಉನ್ನತ ಶಿಕ್ಷಣದ ಆಡಳಿತ</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಎ.ಟಿ.ರಾಮಸ್ವಾಮಿ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.06">ಭ್ರಷ್ಟಾಚಾರಿಗಳು ವೇಶ್ಯೆಯರಿಗಿಂತಲೂ ಕೀಳು</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.05">ಹಾಗಾದರೆ ಪರ್ಯಾಯ ಏನು?</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಡಾ. ಲೋಕೇಶ ಅಗಸನಕಟ್ಟೆ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.07">ಜಗಳೂರು ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರದ ಚುನಾವಣೆ ಸಿರಿಗೆರೆ ಮಠದ ಹೊಸ ಪ್ರಯೋಗ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಅರ್ಜುನ್ ರಾಮೇಗೌಡ ನಾರಾಯಣಸ್ವಾಮಿ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.06">ಆ ಬೆಂಕಿಯ ಕಿಡಿ ಹೊತ್ತಿಸುವವರು ಯಾರು?</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಬಿ. ಕೆ. ಚಂದ್ರಶೇಖರ್</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.08">ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಕಪ್ಪುಚುಕ್ಕೆ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.07">ಪೂರಕ ವಾತಾವರಣದ ಕೊರತೆ</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಜಿ. ಎನ್. ನಾಗರಾಜ್</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.02.09">ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯುತಲಿತ್ತಾ ಚುನಾವಣೆಗಳನ್ನು ಕೊಳ್ಳುತಲಿತ್ತಾ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.08">ಹಾರ್ವರ್ಡ್ ಗುಣಮಟ್ಟ:  ಕೈಗೂಡದ ಕನಸೇ?</a></h5>
+					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 		</div>
@@ -282,47 +292,44 @@
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
 		<div class="col-md-7 big">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/jagadarivu/art0.jpg" />
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.04">ಇಸ್ರೇಲ್ ಭಾರತ ಸಂಬಂಧಗಳ ಹೊಸ ಅಧ್ಯಾಯ</a></p>
-			<p class="description">ಪ್ಯಾಲೆಸ್ಟೀನ್ ಕಡೆಗಣಿಸುವ ಮೂಲಕ ಮೋದಿ ಸರಕಾರ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಕುರಿತಾದ ಸಾಂಪ್ರದಾಯಿಕ ವಿದೇಶಾಂಗ ನೀತಿಯಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಹೆಜ್ಜೆ ಇರಿಸಿದ್ದಾರೆಯೇ?</p>
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0041a.jpg" />
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.01">ಪೇಟೆಂಟ್ ನೀತಿಯಲ್ಲಿ ಅಮೆರಿಕ ಹಸ್ತಕ್ಷೇಪ</a></p>
+			<p class="description">ಅಮೆರಿಕದ ಪೇಟೆಂಟ್ ಮತ್ತು ಟ್ರೇಡ್‍ಮಾರ್ಕ್ ಕಚೇರಿ ಇತ್ತೀಚೆಗೆ ಪೇಟೆಂಟ್ ಕಾಯಿದೆಯ ಫಾರ್ಮ್ 27ನ್ನು ತೆಗೆದು ಹಾಕಬೇಕೆಂದು ಭಾರತ ಸರ್ಕಾರವನ್ನು ಒತ್ತಾಯಿಸಿದೆ. ಇದೊಂದು ಒಳಸಂಚು.</p>
 		</div>
 		<div class="col-md-4 list">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಪ್ರೊ. ಕ್ರಿಸ್ಟೋಫರ್ ಚೆಕೂರಿ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.01">ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮತ್ತು ಅಮೆರಿಕಾದ ವರ್ಣೀಯ ರಾಜಕಾರಣ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.02">ಹೊಸಪೇಟೆಯ ಐಎಎಸ್ ಸಾಧಕ ಕೀರ್ತಿಕಿರಣ್ ಪೂಜಾರ್</a></h5>
+					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.02">ಉತ್ತರ ಕೊರಿಯಾದಲ್ಲೊಬ್ಬ ಹುಚ್ಚು ದೊರೆ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.03">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</a></h5>
+					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.03">ಚೀನಾದ ಆಜೀವ ಅಧ್ಯಕ್ಷ! ಕ್ಸಿ ಜಿನ್‍ಪಿಂಗ್</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.04">12 ವರ್ಷದೊಳಗಿನ ಮಕ್ಕಳನ್ನು ಬಲಾತ್ಕಾರ ಮಾಡುವವರಿಗೆ ಗಲ್ಲುಶಿಕ್ಷೆ</a></h5>
+					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.05">ಆಂಧ್ರಪ್ರದೇಶ ಬೇಡುತ್ತಿರುವ ಸ್ಪೆಶಲ್ ಸ್ಟೇಟಸ್</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.05">ಮಲೇಶಿಯಾಗೆ ಮತ್ತೊಮ್ಮೆ ಮಹಾಥಿರ್ ಮಹಮದ್</a></h5>
+					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.06">ತಾಳಗುಂದ ಶಾಸನ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<p class="author">ಸುಧೀಂದ್ರ ಹಾಲ್ದೊಡ್ಡೇರಿ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.03.07">ಯಂತ್ರ ನೋಡಿರಣ್ಣ, ದೇಹದ ತಂತ್ರ ಕಾಣಿರಣ್ಣ!</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಭಾರತೀ ಮೈಸೂರು</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.06">ಜಪಾನ್ ಗಾತ್ರದಲ್ಲಿ ಮಾತ್ರ ಕರ್ನಾಟಕ!</a></h5>
+					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 		</div>
@@ -336,21 +343,45 @@
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
 		<div class="col-md-7 big">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/pustaka/art0.jpg" />
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.04.01">ಗುಜರಾತಿನ ನರೇಂದ್ರಭಾಯಿ</a></p>
-			<p class="description">ಪತ್ರಕರ್ತ ರಾಜದೀಪ್ ಸರ್ದೇಸಾಯಿ ಅವರ ‘2014: ಭಾರತವನ್ನು ಬದಲಿಸಿದ ಚುನಾವಣೆ’ ಕೃತಿಯ ನರೇಂದ್ರ ಮೋದಿಯವರನ್ನು ಕುರಿತಾದ ಎರಡನೆಯ ಅಧ್ಯಾಯದಿಂದ ಆಯ್ದ ಭಾಗಗಳನ್ನು ಇಲ್ಲಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇವೆ.</p>
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0051b.jpg" />
+			<h2 class="author">ಡಾ.ರಾಕೇಶ್ ಬಟಬ್ಯಾಲ್, ಅನುವಾದ: ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</h2>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.01">ಜೆ.ಎನ್.ಯು : ದ ಮೇಕಿಂಗ್ ಆಫ್ ಎ ಯೂನಿವರ್ಸಿಟಿ</a></p>
+			<p class="description">ನವದೆಹಲಿಯ ಜವಾಹರಲಾಲ್ ನೆಹ್ರೂ ವಿಶ್ವವಿದ್ಯಾ ನಿಲಯ (ಜೆ.ಎನ್.ಯು) ಭಾರತದ ಪ್ರತಿಷ್ಠಿತ ಉನ್ನತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಲ್ಲೊಂದು. 1969ರಲ್ಲಿ ಪಾರ್ಲಿಮೆಂಟಿನ ಕಾಯಿದೆಯ ಮೂಲಕ ಸ್ಥಾಪಿತವಾದ ಈ ವಿಶ್ವವಿದ್ಯಾನಿಲಯವು 1970ರ ದಶಕದ ಪ್ರಾರಂಭದಲ್ಲಿ ಶೈಕ್ಷಣಿಕ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ವಿವಿಧ ಜ್ಞಾನಶಿಸ್ತುಗಳಲ್ಲಿ ಆರಂಭಿಸಿತು. ಮೊದಲ ದಿನಗಳಿಂದಲೂ ಎಡಪಂಥೀಯ ಒಲವಿನ ಪ್ರಾಧ್ಯಾಪಕರೆ ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯಲ್ಲಿದ್ದ ಜೆ.ಎನ್.ಯು. ಆ ಕಾರಣದಿಂದಲೇ ಕಳೆದ ಐದು ದಶಕಗಳಲ್ಲಿ ಸಾಕಷ್ಟು ಟೀಕೆಗೂ ಗುರಿಯಾಗಿದೆ.</p>
 		</div>
 		<div class="col-md-4 list">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.04.02"><em>ನನ್ನ ಓದು:</em> ಉತ್ತರ ಕೊರಿಯಾದಲ್ಲೊಬ್ಬ ಹುಚ್ಚು ದೊರೆ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಎಸ್.ಆರ್.ವಿಜಯಶಂಕರ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.02">ಮೊಗಳ್ಳಿ ಗಣೇಶ್ ಹೊಸ ಕಥಾ ಸಂಕಲನ ದೇವರ ದಾರಿ</a></h5>
+					<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="#">ಹೊಸ ಪುಸ್ತಕ</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಮಂಜುನಾಥ ಡಿ.ಎಸ್.</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.03">ಅಹಿಂಸಾತ್ಮಕ ಸಂವಹನ</a></h5>
+					<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.01">ಕರ್ನಾಟಕದ ರಾಜಕಾರಣ ಹೇಗೆ ಬದಲಾಗಿದೆ?</a></h5>
+					<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.02">ಅವಲೋಕನ ಸಮಕಾಲೀನ ಚರ್ಚೆಗೆ ಹೆಚ್ಚು ಪ್ರಸ್ತುತ</a></h5>
+					<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ನಾಗೇಶ ಹೆಗಡೆ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.03">ಹವಾಮಾನ ವೈಪರೀತ್ಯ ಮತ್ತು ಸಾಹಿತ್ಯ: ಬೆಂಕಿ ಮತ್ತು ಹೆಪ್ಪುಹಿಮ</a></h5>
+					<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
 				</div>
 			</div>
 		</div>
@@ -364,51 +395,52 @@
 	</div>
 	<div class="row align-items-top justify-content-center article-list kannada">
 		<div class="col-md-7 big">
-			<img class="img-fluid" src="<?=PUBLIC_URL?>images/samskriti/art0.jpg" />
-			<p class="author">ಶ್ರೀದೇವಿ ಕಳಸದ</p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.02">‘ಗೋತ್ರಾನೂ ಒಂದ ಧೋತ್ರಾನೂ ಒಂದ...’</a></p>
-			<p class="description">ನನಗೂ ಅವರು ಹಾಗೆ ಕೇಳುವುದೇ ಬೇಕಿತ್ತು. ಏಕೆಂದರೆ ನಮ್ಮ ಒಂದು ಶಬ್ದ, ವಾಕ್ಯ, ಮಾತುಗಳು ಪೂರ್ಣಗೊಳ್ಳುವ ಮೊದಲೇ ಸಟಕ್ಕನೆ ಅದರ ನೆತ್ತಿಯ ಮೇಲೆ ಕುಕ್ಕಿ ಇದು ಹೀಗಲ್ಲ ಹೀಗೇ ಎಂದು ಕರಾರುವಕ್ಕಾಗಿ ಹೇಳಿಬಿಡುವಂಥ ಸೂಕ್ಷ್ಮ ಮತ್ತು ತೀಕ್ಷ್ಣಮತಿ ಅವರು.</p>
+			<img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0077a.jpg" />
+			<p class="author">ಮ.ಶ್ರೀ.ಮುರಳಿ ಕೃಷ್ಣ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.06">ಸಂಬಂಧಗಳ ನವಿರು ನಿರೂಪಣೆ : ದಿ ಕೇಕ್‍ಮೇಕರ್</a></p>
+			<p class="description">ಈ ಚಲನಚಿತ್ರದುದ್ದಕ್ಕೂ ನಿರ್ದೇಶಕ ಗ್ರ್ಯೆಝರ್ ನವಿರಾಗಿ ಪ್ರೇಮವನ್ನು ಬಿಂಬಿಸಿದ್ದಾರೆ. ಅದರಲ್ಲಿ ಸಹಜತೆ ಅಂತರ್ಗತವಾಗಿದೆ. ಒಂದೆಡೆ ಪ್ರಿಯಕರನನ್ನು ಕಳೆದುಕೊಂಡ ಥಾಮಸ್, ಇನ್ನೊಂದೆಡೆ ಪತಿವಿಯೋಗ ಹೊಂದಿದ ಅನತ್, ಇಬ್ಬರೂ ಸಮಾನದುಃಖಿಗಳೇ.</p>
 		</div>
 		<div class="col-md-4 list">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಪ್ರೊ. ಜಿ. ಎಚ್. ಹನ್ನೆರಡುಮಠ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.01">ಹೂವುಗಳ ನರಕ ಬೆಂಗಳೂರು !</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಡಾ.ವಿನಯಾ ಒಕ್ಕುಂದ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.01">ಲಕ್ಷ್ಮೀಶನ ಜೈಮಿನಿ ಭಾರತ ಸೀತಾ ಪರಿತ್ಯಾಗ</a></h5>
+					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಉಮಾ ಎಚ್. ಎಂ.</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.03">ರಾಘವಾಂಕನ ‘ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ’</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಪ್ರೊ.ಜಿ.ಎಚ್.ಹನ್ನೆರಡುಮಠ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.02">ಓಡಿ ಹೋದ ದ್ವೆವಗಳು</a></h5>
+					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಕೆ. ಸತ್ಯನಾರಾಯಣ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.04">ನಮ್ಮೂರಲ್ಲೇ ಕಳ್ಳರಿದ್ದರು</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author"></p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.03">ನನ್ನ ಕ್ಲಿಕ್</a></h5>
+					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ವೈಲೆಟ್ ಪಿಂಟೊ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.05">ಸ್ವಗತ (ಕವಿತೆ)</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಮೂಡ್ನಾಕೂಡು ಚಿನ್ನಸ್ವಾಮಿ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.04">ಸಂಕಟದ ಪ್ರೇಮಿ</a></h5>
+					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಅಮರಜಾ ಹೆಗಡೆ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180402.05.06">ಬುದ್ಧನ ನಾಡಿನಲ್ಲಿ...</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಹೇಮಲತಾ ಮೂರ್ತಿ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.05">ವಿಷ ಕುಡಿದ ಮಕ್ಕಳು</a></h5>
+					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="title"><a href="#">ನನ್ನ ಕ್ಲಿಕ್</a></h5>
-					<p class="date english"><i class="fa fa-book"></i> May 2018</p>
+					<p class="author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
+					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
 				</div>
 			</div>
 		</div>

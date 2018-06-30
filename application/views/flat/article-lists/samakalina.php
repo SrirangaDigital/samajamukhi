@@ -14,8 +14,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author">ಬಸವರಾಜ ಭೂಸಾರೆ</p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.02">ಉತ್ತಮ? ಮಧ್ಯಮ? ಅಧಮ?
-ಡಾ.ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಸ್ಕೂಲ್ ಆಫ್ ಎಕನಾಮಿಕ್ಸ್</a></h5>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.02">ಉತ್ತಮ? ಮಧ್ಯಮ? ಅಧಮ? ಡಾ.ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಸ್ಕೂಲ್ ಆಫ್ ಎಕನಾಮಿಕ್ಸ್</a></h5>
 			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
 		</div>
 	</div>
@@ -29,8 +28,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.04">ಜನರ ಬೇಡಿಕೆಗೆ ಬಂದೂಕುಗಳ ಉತ್ತರ 
-ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.04">ಜನರ ಬೇಡಿಕೆಗೆ ಬಂದೂಕುಗಳ ಉತ್ತರ - ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
 			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
 		</div>
 	</div>
@@ -50,8 +48,8 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
-			<p class="author">ಪ್ರೊ.ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
+			<p class="author">ಪ್ರೊ. ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ - ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
 			<p class="date english green"><i class="fa fa-book"></i> June 2018</p>
 		</div>
 	</div>

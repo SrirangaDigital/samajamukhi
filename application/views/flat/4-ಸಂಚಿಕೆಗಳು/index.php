@@ -46,7 +46,7 @@
 				<div class="col-md-10 text-center">
 					<h5>ಇತ್ತೀಚೆಗಿನ ಸಂಚಿಕೆ</h5>
 					<h4>ಜೂನ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 6</h4>
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/dec2017.jpg" />
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/jun2018.jpg" />
 				</div>
 			</div>
 		</a>
