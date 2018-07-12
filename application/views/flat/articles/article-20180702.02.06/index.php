@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> July 2018</p>
 			<h1 class="title">ಎಲ್ಲಾ ರಾಜ್ಯಗಳ ಹಣಕಾಸು ಸಚಿವರಿಗೆ <br />ಕೇರಳ ಹಣಕಾಸು <br />ಸಚಿವರ ಬಹಿರಂಗ ಪತ್ರ</h1>
 			<h2 class="author">ಟಿ.ಎಂ.ಥಾಮಸ್ ಐಸಾಕ್ <br /> ಕೇರಳದ ಹಣಕಾಸು ಸಚಿವರು</h2>
 			<h3>ನನ್ನ ಸಹ ಹಣಕಾಸು ಸಚಿವರೇ,</h3>

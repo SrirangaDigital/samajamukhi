@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> July 2018</p>
 			<h1 class="title">ಕೃಷಿ ಸಾಲ ಮನ್ನಾ:<br />ಸಾಧ್ಯವೇನಣ್ಣಾ?</h1>
 			<h2 class="author">ರಂಗಸ್ವಾಮಿ ಮೂಕನಹಳ್ಳಿ</h2>
 			<p class="description">ಪ್ರಸ್ತುತ ಕರ್ನಾಟಕ ರಾಜ್ಯದ ಹಣಕಾಸು ಸ್ಥಿತಿ ಹೇಗಿದೆ, ರಾಜ್ಯದ ಬೊಕ್ಕಸಕ್ಕೆ ಈ ವರ್ಷ ಎಷ್ಟು ಹಣ ಹರಿದು ಬರಲಿದೆ, ಎಷ್ಟು ಹಣ ಖರ್ಚಾಗಲಿದೆ, ಆಯ ಮತ್ತು ವ್ಯಯದ ನಡುವಿನ ಅಂತರವೇನು, ಕೃಷಿ ಸಾಲದ ಮೊತ್ತವೆಷ್ಟು, ಕೃಷಿ ಸಾಲ ಮನ್ನಾ ಸಾಧ್ಯವೇ? -ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಕಂಡುಕೊಳ್ಳುವ ಪ್ರಯತ್ನ ಇಲ್ಲಿದೆ.</p>
