@@ -86,7 +86,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<p class="author">ಬಿ. ಆರ್. ಜಯರಾಮರಾಜೇ ಅರಸ್, ಎನ್. ಹನುಮೇಗೌಡ,</p>
-							<p class="title"><a href="<?=BASE_URL?>articles/article-20180302.02.04">ಕಾರ್ಯಂಗ</a></p>
+							<p class="title"><a href="<?=BASE_URL?>articles/article-20180302.02.04">ಕಾರ್ಯಾಂಗ</a></p>
 						</div>
 					</div>
 					<div class="row">
