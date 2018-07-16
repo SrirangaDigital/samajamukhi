@@ -3,7 +3,7 @@
 		<div class="col-md-8 article">
 			<p class="date english">2<sup>nd</sup> March 2018</p>
 			<h1 class="title">ರಾಮಮಂದಿರದ ಕನಸು</h1>
-			<h2 class="author">-ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್</h2>
+			<h2 class="author">&#x2014;ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್</h2>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201803/0074a.jpg" /></figure>
 			<p>ಮತ್ತೊಮ್ಮೆ ಗುದ್ದಲಿ ಪೂಜೆ ರಾಮಮಂದಿರಕೆ ಮತ್ತೊಮ್ಮೆ ಘೋಷಣೆ, ಜಯಕಾರ ರಾಮಭದ್ರನಿಗೆ </p>
 			<p>ಮತ್ತದೇ</p>
