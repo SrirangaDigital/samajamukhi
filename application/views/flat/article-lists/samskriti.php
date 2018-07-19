@@ -238,7 +238,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180302.05.07"></a>ಸ್ಕೀಯಿಂಗ್ ಪಟು ಆಂಚಲ್ ಠಾಕೂರ್</h5>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180302.05.07">ಸ್ಕೀಯಿಂಗ್ ಪಟು ಆಂಚಲ್ ಠಾಕೂರ್</a></p>
 			<p class="date english red"><i class="fa fa-book"></i> March 2018</p>
 		</div>
 	</div>

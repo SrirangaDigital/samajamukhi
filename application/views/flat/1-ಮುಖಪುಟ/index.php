@@ -24,7 +24,7 @@
 						<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0078a.jpg" />
 						<div class="card-body">
 							<p class="card-author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
-							<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
+							<h5 class="card-title"><strong class="red">ಸಂಸ್ಕೃತಿ ಸಂಪದ</strong> <a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
 						</div>
 					</div>	
 				</div>
@@ -62,7 +62,7 @@
 				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0019b.jpg" />
 				<div class="card-body">
 					<p class="card-author">ಪ್ರೊ. ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
-					<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ<br />ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
+					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ<br />ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
 				</div>
 			</div>
 		</div>
@@ -104,7 +104,7 @@
 		<div class="col-md-6 videos">
 			<div class="row align-items-center">
 				<p class="col-md-4 clock"><i class="fa fa-video-camera"></i><br />ವೀಡಿಯೋಗಳು</p>
-				<h2 class="card-title col-md-8">ಕರ್ಯಕ್ರಮ : ಚರ್ಚೆ : ಸಂದರ್ಶನ</h2>
+				<h2 class="card-title col-md-8">ಕಾರ್ಯಕ್ರಮ : ಚರ್ಚೆ : ಸಂದರ್ಶನ</h2>
 			</div>
 			<div class="row align-items-top">
 				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/Hkp2yvbubbw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -237,21 +237,21 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.01"></a>ಮುಖ್ಯಚರ್ಚೆಗೆ ಪ್ರವೇಶ</h5>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.01">ಮುಖ್ಯಚರ್ಚೆಗೆ ಪ್ರವೇಶ</a></p>
 			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.02"></a>ಕುಡಿಯುವ ನೀರಿಗೆ 125 ಟಿ.ಎಮ್.ಸಿ. ನೀರು ಮೀಸಲಿಡುವುದು</h5>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.02">ಕುಡಿಯುವ ನೀರಿಗೆ 125 ಟಿ.ಎಮ್.ಸಿ. ನೀರು ಮೀಸಲಿಡುವುದು</a></p>
 			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
-			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.03"></a>ಹೋಬಳಿ ಕೇಂದ್ರಗಳಲ್ಲಿ ಎಲ್ಲ ಸರ್ಕಾರಿ ಸೇವೆಗಳು ಲಭ್ಯವಿರುವ ಸೇವಾಗ್ರಾಮ ಯೋಜನೆ</h5>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180202.02.03">ಹೋಬಳಿ ಕೇಂದ್ರಗಳಲ್ಲಿ ಎಲ್ಲ ಸರ್ಕಾರಿ ಸೇವೆಗಳು ಲಭ್ಯವಿರುವ ಸೇವಾಗ್ರಾಮ ಯೋಜನೆ</a></p>
 			<p class="date english orange"><i class="fa fa-book"></i> February 2018</p>
 		</div>
 	</div>
