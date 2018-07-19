@@ -51,8 +51,8 @@
 			<div class="row current-issue justify-content-center align-items-center kannada">
 				<div class="col-md-10 text-center">
 					<h5>ಇತ್ತೀಚೆಗಿನ ಸಂಚಿಕೆ</h5>
-					<h4>ಜುಲೈ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 7</h4>
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/july2017.jpg" />
+					<h4>ಜೂನ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 6</h4>
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/jun2018.jpg" />
 				</div>
 			</div>
 		</a>
