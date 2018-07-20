@@ -25,7 +25,7 @@
 						<div class="col-md-12">
 							<p class="title"><a href="<?=BASE_URL?>articles/article-20171202.xx.02">ಕನ್ನಡ ಸಂಶೋಧಕ ಷ.ಶೆಟ್ಟರ್</a></p>
 						</div>
-					</div>
+					</div> 
 					<div class="row">
 						<div class="col-md-12">
 							<p class="author">ಸಂದರ್ಶಕ: ಜೋಗಿ</p>
@@ -35,7 +35,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<p class="author">ಡಾ.ಎನ್.ಎಸ್.ಗುಂಡೂರ</p>
-							<p class="title"><a href=="<?=BASE_URL?>articles/article-20171202.xx.03">ಕನ್ನಡಕ್ಕೆ ಇನ್ನೊಂದು ‘ಕವಿರಾಜಮಾರ್ಗ’</a></p>
+							<p class="title"><a href="<?=BASE_URL?>articles/article-20171202.xx.03">ಕನ್ನಡಕ್ಕೆ ಇನ್ನೊಂದು ‘ಕವಿರಾಜಮಾರ್ಗ’</a></p>
 						</div>
 					</div>
 					<div class="row">
