@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ತಾಳಗುಂದ ಶಾಸನ</h1>
 			<p class="description">ಪುರಾತತ್ವ ಇಲಾಖೆ ಈಗ ತಾಳಗುಂದದ ಶಾಸನಗಳು ಕನ್ನಡದ ಮೊದಲ ಶಾಸನಗಳು ಎಂಬ ತೀರ್ಮಾನಕ್ಕೆ ಬಂದಿದೆ. ಹಾಗಾಗಿ ಇದುವರೆಗೆ ಕನ್ನಡದ ಮೊದಲ ಶಾಸನ ಎಂಬ ಖ್ಯಾತಿಗೆ ಪಾತ್ರವಾಗಿದ್ದ ಹಲ್ಮಿಡಿ ಶಾಸನ ಒಂದು ಹೆಜ್ಜೆ ಹಿಂದೆ ಸರಿಯಬೇಕಾಗಿದೆ.</p>
 

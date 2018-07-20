@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಹೂವುಗಳ ನರಕ ಬೆಂಗಳೂರು !</h1>
 			<h2 class="author">ಪ್ರೊ. ಜಿ. ಎಚ್. ಹನ್ನೆರಡುಮಠ</h2>
 			<p class="description">ಆ ವ್ಯಕ್ತಿ ಸತ್ತಾಗಲೂ ಆಡಂಬರದ ದುಬಾರಿ ಹೆಣವಾಗಿದ್ದ! ಆ ಒಂದು ಹೆಣಕ್ಕಾಗಿ ಲಕ್ಷಲಕ್ಷ ಹೂಗಳು ದಾರಿಗುಂಟ ಹೆಣವಾಗಿ ಬೀಳುತ್ತಿದ್ದರೂ ಯಾರಿಗೂ ಒಂಚೂರು ಮರುಕ ಕೂಡಾ ಇಲ್ಲ! ‘ಗಾರ್ಡನ್ ಸಿಟಿ’ಯ ಅರ್ಥ ಇದೇ ಇರಬಹುದೇ?</p>

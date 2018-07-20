@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಭ್ರಷ್ಟಾಚಾರಿಗಳು ವೇಶ್ಯೆಯರಿಗಿಂತಲೂ ಕೀಳು</h1>
 			<h2 class="author"> ಎ.ಟಿ.ರಾಮಸ್ವಾಮಿ </h2>
 			<p class="description">ಭ್ರಷ್ಟಾಚಾರ ಮತ್ತು ಖೋಟಾನೋಟು ಚಲಾವಣೆ ಚುನಾವಣಾ ಅಕ್ರಮದ ಮೂಲಗಳಾಗಿವೆ. </p>

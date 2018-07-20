@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಗುಜರಾತಿನ ನರೇಂದ್ರಭಾಯಿ</h1>
 			<h2 class="author">ರಾಜದೀಪ್ ಸರ್ದೇಸಾಯಿ</h2>
 			<figure class="float-md-right maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/articles/0051.jpg" /></figure>

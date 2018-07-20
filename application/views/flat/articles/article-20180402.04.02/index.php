@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಪಾಕಿಸ್ತಾನಿ ಕವಯಿತ್ರಿ ಸಾರಾ ಶಗುಫ್ತಾ<br />ಜೀವನ ಮತ್ತು ಕಾವ್ಯ</h1>
 			<h2 class="author">ಸ್ನೇಹಲತಾ ಎಸ್. ಗೌನಳ್ಳಿ</h2>
 			<p class="description">ಸಾರಾ ಶಗುಫ್ತಾ ಕೇವಲ ಒಬ್ಬ ಕವಯಿತ್ರಿಯಲ್ಲ; ಅವಳೊಂದು ಚಿಂತನಾ ಕ್ರಮ. ಬದುಕಿನಲ್ಲಿ ಅದೆಷ್ಟೋ ದುಃಖತಪ್ತ ನೋವುಗ ಳುಂಡು ಬರಹದಲ್ಲಿ ಚಿಗುರಿ ಚಿಕ್ಕ ವಯಸ್ಸಿಗೇ ಮಣ್ಣಾದಳು. ಮದುವೆ ಅನ್ನೋ ಸಾಂಸಾರಿಕ ಜಂಜಡದಲ್ಲಿ ಸುಮಾರು ನಾಲ್ಕು ಬಾರಿ ಮುಳುಗೆದ್ದ ಸಾರ ನಿಜಕ್ಕೂ ಅಸಾಮಾನ್ಯ ಮಹಿಳೆ.</p>

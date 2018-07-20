@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಜಗಳೂರು ವಿಧಾನಸಭಾ ಕ್ಷೇತ್ರದ ಚುನಾವಣೆ<br />ಸಿರಿಗೆರೆ ಮಠದ ಹೊಸ ಪ್ರಯೋಗ</h1>
 			<h2 class="author">ಡಾ. ಲೋಕೇಶ ಅಗಸನಕಟ್ಟೆ</h2>
 			<p class="description">ಸ್ಪರ್ಧೆಗಿಳಿಯಲಿರುವ ಇಬ್ಬರು ಅಭ್ಯರ್ಥಿಗಳೊಂದಿಗಿನ ಸಂವಾದದ ಫಲವಾಗಿ ‘ಚುನಾವಣೆ ಶುದ್ಧೀಕರಣ’ ಪ್ರಕ್ರಿಯೆಗೆ ಸಿರಿಗೆರೆ ಮಠದ ಸ್ವಾಮೀಜಿ ಮುಂದಾಗಿದ್ದಾರೆ. ಇದು ಕರ್ನಾಟಕದಲ್ಲಿ ಮಾತ್ರವಲ್ಲ. ಭಾರತೀಯ ರಾಜಕಾರಣದಲ್ಲೇ ಒಂದು ಹೊಸ ಅಧ್ಯಾಯ.</p>

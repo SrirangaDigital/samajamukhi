@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ನಮ್ಮ ಬೆರಳ ತುದಿಯಲ್ಲಿ ನಾಡಿನ ಭವಿಷ್ಯ </h1>
 			<figure class="mx-auto"><img class="img-fluid" src="<?=PUBLIC_URL?>images/articles/0020a.jpg" /></figure>
 			<p class="description">ನಮ್ಮ ರಾಜಕೀಯ ವ್ಯವಸ್ಥೆ ಎಷ್ಟೇ ಹದಗೆಟ್ಟಿದ್ದರೂ, ನಮ್ಮ ರಾಜಕಾರಣಿಗಳು ಎಷ್ಟೇ ಭ್ರಷ್ಟರಾಗಿದ್ದರೂ, ನೋಟು ಪಡೆದು ವೋಟು ನೀಡುವ ಮನೋಭಾವ ಹೊಂದಿದ ಮತದಾರರು ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಗೇ ಮಾರಕ.</p>

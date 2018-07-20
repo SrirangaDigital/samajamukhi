@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಉತ್ತರ ಪ್ರದೇಶ ಮತ್ತು ಬಿಹಾರದ ಫಲಿತಾಂಶಗಳು ಏನು ಹೇಳುತ್ತಿವೆ?</h1>
 			<h2 class="author">ಡಿ.ಎಸ್.ನಾಗಭೂಷಣ</h2>
 			<p class="description">ಇತ್ತೀಚಿಗೆ ಕಾಂಗ್ರೆಸ್ಸಿನ ಭ್ರಷ್ಟಾಚಾರಕ್ಕಿಂತ  ಬಿಜೆಪಿಯ ಕೋಮುವಾದ ಸಹನೀಯ  ಅನ್ನಿಸತೊಡಗಿದೆ ಎಂಬುದರಿಂದಲಾದರೂ  ಸೆಕ್ಯುಲರ್‍ವಾದಿಗಳು ಪಾಠ  ಕಲಿಯಬೇಡವೇ? ಆದರೆ ಪ್ರಜಾಪ್ರಭುತ್ವ,  ಧರ್ಮನಿರಪೇಕ್ಷತೆ ಮತ್ತು ಒಳಗೊಳ್ಳುವ  ರಾಜಕಾರಣದ ತತ್ವಗಳ ದೀರ್ಘ  ಪರಂಪರೆಯುಳ್ಳ ಕಾಂಗ್ರೆಸ್‍ನಂತಹ  ರಾಷ್ಟ್ರೀಯ ಪಕ್ಷವೊಂದು ಕೋಮುವಾದಿ  ವಿರೋಧಿ ಹೋರಾಟದ ಇಂತಹ  ಬೋಳೆತನಕ್ಕೆ ಸಿಕ್ಕಿ ನಿರ್ನಾಮವಾಗಲು  ಬಿಡಬೇಕೆ?</p>

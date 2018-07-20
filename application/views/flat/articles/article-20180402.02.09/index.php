@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯುತಲಿತ್ತಾ ಚುನಾವಣೆಗಳನ್ನು ಕೊಳ್ಳುತಲಿತ್ತಾ</h1>
 			<h2 class="author">ಜಿ. ಎನ್. ನಾಗರಾಜ್</h2>
 			<p class="description">ಚುನಾವಣೆಗಳಿಂದ ಚುನಾವಣೆಗೆ ಹಣದ   ಚೆಲ್ಲಾಟ ಹೆಚ್ಚುತ್ತಲೇ ಇದೆ. ಚುನಾವಣೆಗಳ   ಗೆಲುವಿನ ಹೆದ್ದಾರಿಗೆ ಇಂದು ಹಣವೇ ಜಲ್ಲಿ,   ಹಣವೇ ಟಾರು. ಹಳ್ಳಿಗಳಲ್ಲಿ ಹೇಳುವಂತೆ   ಚುನಾವಣೆಗಳ ಪ್ರಚಾರವೆಲ್ಲಾ ಮೇಲು ಮೇಲಿನ   ಅಬ್ಬರ ಮಾತ್ರ. ಚುನಾವಣೆಗಳ ಹಿಂದಿನ ಎರಡು   ಮೂರು ಕತ್ತಲರಾತ್ರಿಗಳಲ್ಲೇ ಚುನಾವಣೆಗಳ   ನಿಜವಾದ ಕೆಲಸ!</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಚೀನಾದ ಆಜೀವ ಅಧ್ಯಕ್ಷ!<br />ಕ್ಸಿ ಜಿನ್‍ಪಿಂಗ್</h1>
 			<p class="description">ಚೀನಾದ ಚಕ್ರವರ್ತಿಯಾಗಿ ಮುಕುಟ ಧರಿಸಿರುವ ಕ್ಸಿ ಜಿನ್‍ಪಿಂಗ್ ಮುಂದಿನ ವರ್ಷಗಳಲ್ಲಿ ತಮ್ಮ ಸರ್ವಾಧಿಕಾರಿ ಶಕ್ತಿಯಿಂದ ಹೇಗೆ ಜಾಗತಿಕ ಆರ್ಥಿಕ ಹಾಗೂ ರಾಜಕೀಯ ವ್ಯವಸ್ಥೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಾರೋ ಎಂದು ಕಾದುನೋಡಬೇಕಿದೆ.</p>
 

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title"> ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಕಪ್ಪುಚುಕ್ಕೆ</h1>
 			<h2 class="author">ಬಿ. ಕೆ. ಚಂದ್ರಶೇಖರ್</h2>
 			<p class="description">ಓಟಿಗಾಗಿ ಒಡ್ಡುವ ಆಸೆ ಆಮಿಷಗಳು ಕಳೆದ ಒಂದೆರಡು ದಶಕಗಳಿಂದ ರಾಜಾರೋಷವಾಗಿ ಎದ್ದು ಕಾಣುತ್ತಿವೆ. ಮುಖ್ಯವಾಗಿ ರಾಜಕೀಯ ಪಕ್ಷಗಳು, ಜೊತೆಗೆ ಅಭ್ಯರ್ಥಿಗಳು ಈ ಸಂವಿಧಾನ ವಿರೋಧಿ ವ್ಯವಹಾರಕ್ಕೆ ಹೊಣೆಗಾರರು.</p>

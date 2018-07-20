@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಯಂತ್ರ ನೋಡಿರಣ್ಣ, ದೇಹದ ತಂತ್ರ ಕಾಣಿರಣ್ಣ!</h1>
 			<h2 class="author">ಸುಧೀಂದ್ರ ಹಾಲ್ದೊಡ್ಡೇರಿ</h2>
 			<p class="description">ನಮ್ಮ ದೇಹವೂ ಒಂದು ಯಂತ್ರ. ಯಂತ್ರಗಳಿಗೆ   ಅನ್ವಯಿಸುವ ಎಲ್ಲ ತತ್ವಗಳ ಪ್ರಾತ್ಯಕ್ಷಿಕೆಗಳನ್ನು   ನಮ್ಮ ದೇಹದಲ್ಲಿಯೇ ಕಾಣಬಹುದು. ಸರಿಯಾಗಿ   ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಲು ನಮಗೆ ಹೆಚ್ಚಿನ ಜ್ಞಾನ   ಮತ್ತು ಪರಿಶ್ರಮ ಬೇಕಷ್ಟೇ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಉತ್ತರ ಕೊರಿಯಾದಲ್ಲೊಬ್ಬ ಹುಚ್ಚು ದೊರೆ</h1>
 			<p class="description">ಉತ್ತರ ಕೊರಿಯಾದಲ್ಲಿ ಕಿಮ್ ಜಾಂಗ್ ಉನ್   ಸರ್ವಾಧಿಕಾರಿ. ಇಲ್ಲಿ ಆತನ ನಿರ್ಧಾರವೇ ಅಂತಿಮವಾಗಿರುತ್ತದೆ. ಆದರೂ ಅಮೆರಿಕದ ಮೇಲೆ ದಾಳಿ ನಡೆಸಲು ತನ್ನ ಟೇಬಲ್ ಮೇಲಿರುವ `ಬಟನ್’ಒತ್ತಿದರೆ ಸಾಕೆಂಬ ಆತನ ಹೇಳಿಕೆಯನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವುದು ಕಷ್ಟ.</p>
 

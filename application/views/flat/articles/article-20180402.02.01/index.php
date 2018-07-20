@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಚುನಾವಣೆ: ಯಾರ ಹೊಣೆ?</h1>
 			<p class="description">ಚುನಾವಣೆಯೂ  ಒಂದು ಪರೀಕ್ಷೆಯೇ.  ಆದರೆ ಈ  ಪರೀಕ್ಷೆಯನ್ನು  ಎದುರಿಸುತ್ತಿರುವುದು  ಪಕ್ಷಗಳು ಮತ್ತು  ಪಕ್ಷದ ಅಭ್ಯರ್ಥಿಗಳಲ್ಲ. ಹಾಲ್ ಟಿಕೆಟ್ ಹಿಡಿದು  ಹೊರಟಿರುವವರು  ಮತದಾರರು.</p>
 

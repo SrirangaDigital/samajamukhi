@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಆಂಧ್ರಪ್ರದೇಶ ಬೇಡುತ್ತಿರುವ ಸ್ಪೆಶಲ್ ಸ್ಟೇಟಸ್’</h1>
 			<p class="description">ಆದಾಯ ತೆರಿಗೆ ಕಾನೂನಿನಲ್ಲಿಯ ಸೆಕ್ಷನ್ 80ಐಸಿ ಪ್ರಾವಿಧಾನವೇ ಈ ಸ್ಪೆಶಲ್ ಸ್ಟೇಟಸ್. ಈ ಕಾನೂನಿನಂತೆ ಹತ್ತು ವರ್ಷಗಳ ಕಾಲ ಈ ಸೆಕ್ಷನ್ ಅಡಿ ಗುರುತಿಸಲ್ಪಟ್ಟ ರಾಜ್ಯಗಳಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಯಾವುದೇ ಉದ್ದಿಮೆಯ ಲಾಭದ ಮೇಲೆ ಯಾವುದೇ ಆದಾಯ ತೆರಿಗೆಯಿರುವುದಿಲ್ಲ.</p>
 

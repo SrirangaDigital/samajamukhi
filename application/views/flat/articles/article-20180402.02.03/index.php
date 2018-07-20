@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> April 2018</p>
 			<h1 class="title">ಆಡಿದ ಮಾತಿಗೂ ಆತ್ಮದ ಮಾತಿಗೂ ಅಜಗಜಾಂತರ! </h1>
 			<h2 class="author"> ಡಾ.ಬಿ.ಎಲ್.ಶಂಕರ್</h2>
 			<p class="description">ಇಲ್ಲಿ ಹಣ ಪಡಕೊಂಡವನು ನೀಡಿದವನನ್ನೂ, ನೀಡಿದವನು ಪಡಕೊಂಡವನನ್ನೂ ಬಾಧ್ಯಸ್ಥನನ್ನಾಗಿಸಿ ತಮ್ಮನ್ನು ಸಮರ್ಥಿಸುವುದರಲ್ಲೇ ನಿಷ್ಣಾತರು.</p>
