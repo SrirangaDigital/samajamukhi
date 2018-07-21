@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> May 2018</p>
 			<h1 class="title">ವಿಜಯಪುರದಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ಸಂವಾದ</h1>
 			<p class="description">ಬಿಸಿಲನಾಡು ವಿಜಯಪುರದ ಅಕ್ಕಮಹಾದೇವಿ ಮಹಿಳಾ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಜ್ಞಾನಶಕ್ತಿ ಆವರಣದ ಡಾ.ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಸಭಾಭವನದಲ್ಲಿ 2018 ಏಪ್ರಿಲ್ 4ರಂದು ‘ಸಮಾಜಮುಖಿ’ ಮಾಸಪತ್ರಿಕೆಯ ನಾಲ್ಕನೇ ಸಂಚಿಕೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲಾಯಿತು. ಸಮಾಜಮುಖಿ ಮಾಸಪತ್ರಿಕೆ, ಮಹಿಳಾ ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ವಿದ್ಯಾರ್ಥಿ ಕ್ಷೇಮಪಾಲನಾ ನಿರ್ದೇಶನಾಲಯ, ರಾಜ್ಯಶಾಸ್ತ್ರ ವಿಭಾಗ, ವಿದ್ಯಾರ್ಥಿನಿಯರ ಒಕ್ಕೂಟ ಇವರ ಸಂಯುಕ್ತಾಶ್ರಯದಲ್ಲಿ ಏರ್ಪಡಿಸಿದ್ದ ಈ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ‘ಚುನಾವಣೆ ಯಾರ ಹೊಣೆ?’ ಕುರಿತ ಒಂದು ದಿನದ ವಿಚಾರ ಸಂಕಿರಣವನ್ನು ಹಮ್ಮಿಕೊಳ್ಳಲಾಗಿತ್ತು.</p>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201805/0004a.jpg" /></figure>

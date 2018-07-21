@@ -20,6 +20,6 @@
 			<p>ಇಂಥ ಬೆಳವಣಿಗೆಗೆಳ ನಡುವೆ ಕನ್ನಡದಂಥ ಭಾಷೆ, ದಲಿತರು, ಬಡವರು -ಇವರನ್ನೆಲ್ಲ ಯಾರು ಕೇಳಬೇಕು?</p>
 			<p class="text-right"><strong>-ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</strong><br />ಮುಖ್ಯಸ್ಥರು, ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆ,<br /> ಜವಾಹರಲಾಲ್ ನೆಹರೂ ವಿ.ವಿ., ನವದೆಹಲಿ.</p>
 		</div>
-		<?php require_once(PHY_FLAT_URL . 'article-lists/samskriti.php'); ?>
+		<?php require_once(PHY_FLAT_URL . 'article-lists/others.php'); ?>
 	</div>
 </div>
