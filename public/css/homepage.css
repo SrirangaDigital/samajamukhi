@@ -31,8 +31,8 @@
 }
 .introduction{
   /*padding-right: 30px;*/
-  margin-bottom: 80px;
-  margin-top: 70px;
+  margin-bottom: 30px;
+  margin-top: 40px;
 }
 .mainpage .card{
   border: none;
@@ -95,6 +95,7 @@
   line-height: 20px;
 }
 .mainpage .card.card-medium .card-body .card-title,
+.mainpage .card-list .card-title,
 .mainpage .card.card-small .card-body .card-title{
   font-size: 22px;
   font-weight: bold;
@@ -106,20 +107,38 @@
 .mainpage .card.card-small .card-body .card-title strong:after{
   content: ': ';
 }
+.mainpage .card-list{
+  padding-left: 0;
+  list-style-type: none;
+}
+.mainpage .card-list li{
+  margin-bottom: 30px;
+}
+.mainpage .card-list li .date{
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+.mainpage .card-list li h5.card-title{
+  margin-top: 0px;
+}
 .mainpage .prastuta{
   background-color: #EEE;
-  padding: 20px 40px 30px 40px;
+  padding: 40px 20px 20px 30px;
+  margin-top: 70px;
 }
 .mainpage .prastuta h2{
   font-size: 32px;
   font-weight: bold;
   text-align: center;
 }
+.mainpage .prastuta ul li{
+}
 .mainpage .clock{
   text-align: center;
   padding: 0;
+  font-size: 18px;
   color: #999;
-  line-height: 22px;
+  margin-bottom: 0;
 }
 .mainpage .clock i{
   font-size: 50px;
@@ -146,7 +165,7 @@
   color: #BBB;
 }
 .magazine {
-  background-color: #C62828;
+  background-color: #D84315;
   color: #FFF !important;
   padding: 40px;
   margin-bottom: 0px;

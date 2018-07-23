@@ -23,13 +23,13 @@
     
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css?v=2.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/fonts.css?v=2.1">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=2.1">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=2.1">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=2.2">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/homepage.css?v=2.2">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/profile.css?v=2.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=2.1">
 
@@ -45,23 +45,27 @@
 
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
+    <nav id="subNavBar" class="navbar navbar-light navbar-expand-lg">
+        <div class="container-fluid clear-paddings">
+            <div class="navbar-collapse" id="subNavbarNav">
+                <?php $this->printNavigation($navigation, ' class="subNav ml-auto"'); ?>
+            </div><!-- /.navbar-collapse -->
+        </div>
+    </nav>
+    <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg">
         <div class="container-fluid clear-paddings">
             <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png?v=1.0" alt="Logo" class="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <?php $this->printNavigation($navigation, ' class="navbar-nav nav ml-auto"'); ?>
+                <ul class="navbar-nav nav ml-auto">
+                    <li><a href="<?=BASE_URL?>#samakalina">ಸಮಕಾಲೀನ</a></li>
+                    <li><a href="<?=BASE_URL?>#mukhyacharche">ಮುಖ್ಯಚರ್ಚೆ</a></li>
+                    <li><a href="<?=BASE_URL?>#jagadarivu">ಜಗದರಿವು</a></li>
+                    <li><a href="<?=BASE_URL?>#pustaka">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+                    <li><a href="<?=BASE_URL?>#samskriti">ಸಂಸ್ಕೃತಿ ಸಂಪದ</a></li>
+                </ul>
             </div><!-- /.navbar-collapse -->
         </div>
     </nav>
-    <div class="container-fluid sec-nav">
-        <div class="row justify-content-around text-center kannada">
-            <div class="col-md pill back-green"><a href="<?=BASE_URL?>#samakalina">ಸಮಕಾಲೀನ</a></div>
-            <div class="col-md pill back-orange"><a href="<?=BASE_URL?>#mukhyacharche">ಮುಖ್ಯಚರ್ಚೆ</a></div>
-            <div class="col-md pill back-blue"><a href="<?=BASE_URL?>#jagadarivu">ಜಗದರಿವು</a></div>
-            <div class="col-md pill back-brown"><a href="<?=BASE_URL?>#pustaka">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></div>
-            <div class="col-md pill back-red"><a href="<?=BASE_URL?>#samskriti">ಸಂಸ್ಕೃತಿ ಸಂಪದ</a></div>
-        </div>
-    </div>
     <!-- End Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

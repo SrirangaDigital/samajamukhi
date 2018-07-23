@@ -5,7 +5,28 @@
 			<img class="card-img-top" src="http://via.placeholder.com/1000x100" />
 		</div>
 	</div> -->
-	<div class="row justify-content-between introduction">
+	<div class="row justify-content-around introduction">
+		<div class="col-md-3 prastuta align-self-start">
+			<div class="row align-items-center justify-content-center mb-4"><div class="col-md-1 clock"><i class="far fa-calendar-alt"></i></div> <h2 class="col-md-4 m-0">ಅನಿಸಿಕೆ</h2></div>
+			<ul class="card-list">
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+			</ul>
+		</div>
 		<div class="col-md-6 align-self-center">
 			<div class="card card-big">
 				<div class="card-body">
@@ -18,32 +39,52 @@
 					<p class="card-category"><strong class="orange">ಮುಖ್ಯಚರ್ಚೆ</strong></p>
 				</div>
 			</div>
-			<div class="row justify-content-start introduction" style="margin-right: 0px;margin-top: 20px;margin-bottom: 0px;">
-				<div class="col-md-6">
-					<div class="card card-medium card-overlay">
-						<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0078a.jpg" />
-						<div class="card-body">
-							<p class="card-author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
-							<h5 class="card-title"><strong class="red">ಸಂಸ್ಕೃತಿ ಸಂಪದ</strong> <a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
-						</div>
-					</div>	
+		</div>
+		<!-- <div class="col-md-3 pl-0 pr-5 align-self-center">
+			
+		</div> -->
+		<div class="col-md-3 prastuta align-self-start">
+			<div class="row align-items-center justify-content-center mb-4"><div class="col-md-1 clock"><i class="far fa-clock"></i></div> <h2 class="col-md-4 m-0">ಪ್ರಸ್ತುತ</h2></div>
+			<ul class="card-list">
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+				<li>
+					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="row justify-content-start introduction">
+		<div class="col-md-3">
+			<div class="card card-medium card-overlay">
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0078a.jpg" />
+				<div class="card-body">
+					<p class="card-author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
+					<h5 class="card-title"><strong class="red">ಸಂಸ್ಕೃತಿ ಸಂಪದ</strong> <a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
 				</div>
-				<div class="col-md-6">
-					<div class="card card-medium card-overlay">
-						<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0044a.jpg" />
-						<div class="card-body">
-							<p class="card-author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
-							<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.03.03">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</a></h5>
-						</div>
-					</div>
+			</div>	
+		</div>
+		<div class="col-md-3">
+			<div class="card card-medium card-overlay">
+				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0044a.jpg" />
+				<div class="card-body">
+					<p class="card-author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
+					<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180602.03.03">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</a></h5>
 				</div>
 			</div>
-			<!-- <div class="card card-big">
-				Advertisement
-				<img class="card-img-top" src="http://via.placeholder.com/600x150" />
-			</div> -->
 		</div>
-		<div class="col-md-3 pl-0 pr-5 align-self-center">
+		<div class="col-md-3">
 			<div class="card card-medium card-overlay">
 				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0012a.jpg" />
 				<div class="card-body">
@@ -51,33 +92,13 @@
 					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.04">ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
 				</div>
 			</div>
+		</div>
+		<div class="col-md-3">
 			<div class="card card-medium card-overlay">
 				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0017a.jpg" />
 				<div class="card-body">
 					<p class="card-author">&nbsp;</p>
 					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.06">ಮಹದಾಯಿಗೆ ಕಾವೇರಿ ಮಾದರಿ ಪರಿಹಾರ?</a></h5>
-				</div>
-			</div>
-			<div class="card card-medium card-overlay">
-				<img class="card-img-top" src="<?=PUBLIC_URL?>images/201806/0019b.jpg" />
-				<div class="card-body">
-					<p class="card-author">ಪ್ರೊ. ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
-					<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ<br />ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-3 prastuta align-self-start">
-			<h2>ಅನಿಸಿಕೆ : ಪ್ರಸ್ತುತ</h2>
-			<div class="card card-medium">
-				<div class="card-body row align-items-center">
-					<p class="col-md-2 clock"><i class="fa fa-clock-o"></i><br />ಪ್ರಸ್ತುತ</p>
-					<h5 class="card-title col-md-10"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
-				</div>
-			</div>
-			<div class="card card-medium">
-				<div class="card-body row align-items-center">
-					<p class="col-md-2 clock"><i class="fa fa-calendar "></i><br />ಅನಿಸಿಕೆ</p>
-					<h5 class="card-title col-md-10"><a href="<?=BASE_URL?>articles/article-20180501.12 01">ಚರ್ಚೆಯ ಮೂಲಕ ಮಹದಾಯಿಗೆ ಪರಿಹಾರ ಸಾಧ್ಯವೇ?</a></h5>
 				</div>
 			</div>
 		</div>
@@ -103,7 +124,8 @@
 	<div class="row my-5">
 		<div class="col-md-6 videos">
 			<div class="row align-items-center">
-				<p class="col-md-4 clock"><i class="fa fa-video-camera"></i><br />ವೀಡಿಯೋಗಳು</p>
+				<p class="col-md-2 clock"><i class="fa fa-video"></i><br />ವೀಡಿಯೋಗಳು</p>
+				<p class="col-md-2 clock"><i class="fa fa-podcast"></i><br />ಪಾಡ್&#8203;ಕಾಸ್ಟ್&#8203;ಗಳು</p>
 				<h2 class="card-title col-md-8">ಕಾರ್ಯಕ್ರಮ : ಚರ್ಚೆ : ಸಂದರ್ಶನ</h2>
 			</div>
 			<div class="row align-items-top">
@@ -130,11 +152,11 @@
 		</div>
 		<div class="col-md-6 podcasts">
 			<div class="row align-items-center">
-				<p class="col-md-4 clock"><i class="fa fa-podcast"></i><br />ಪಾಡ್&#8203;ಕಾಸ್ಟ್&#8203;ಗಳು</p>
-				<h2 class="card-title col-md-8">ಅನಿಸಿಕೆ : ಅಭಿಪ್ರಾಯ : ಅವಲೋಕನ</h2>
+				<p class="col-md-4 clock"><i class="fa fa-pencil-alt"></i><br />ಲೇಖನಗಳು</p>
+				<h2 class="card-title col-md-8">ಮುಖ್ಯ ಲೇಖನಗಳು</h2>
 			</div>
 			<div class="row align-items-top">
-				<p class="col-md-4 text-center"><i class="icon fa fa-file-audio-o"></i></p>
+				<p class="col-md-4 text-center"><i class="icon fa fa-user"></i></p>
 				<div class="card-body col-md-8">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<h4 class="title"><a href="#">ಧಾರ್ಮಿಕ ಸಮುದಾಯಗಳು ಹೇಗೆ ಹುಟ್ಟುತ್ತವೆ?</a></h4>
@@ -142,7 +164,7 @@
 				</div>
 			</div>
 			<div class="row align-items-top">
-				<p class="col-md-4 text-center"><i class="icon fa fa-file-audio-o"></i></p>
+				<p class="col-md-4 text-center"><i class="icon fa fa-user"></i></p>
 				<div class="card-body col-md-8">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<h4 class="title"><a href="#">ಲಿಂಗಾಯತ ಹಿಂದೂ ಧರ್ಮದ ಅಂಗವಲ್ಲ – ಎಸ್.ಎಮ್.ಜಾಮದಾರ್</a></h4>
@@ -150,7 +172,7 @@
 				</div>
 			</div>
 			<div class="row align-items-top">
-				<p class="col-md-4 text-center"><i class="icon fa fa-file-audio-o"></i></p>
+				<p class="col-md-4 text-center"><i class="icon fa fa-user"></i></p>
 				<div class="card-body col-md-8">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<h4 class="title"><a href="#">ಕನ್ನಡದ ಮನಸ್ಸು ಇಂದು ಮುಚ್ಚುತ್ತಿದೆಯೆ?</a></h4>
