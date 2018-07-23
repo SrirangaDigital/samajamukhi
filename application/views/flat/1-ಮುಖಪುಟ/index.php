@@ -10,20 +10,20 @@
 			<div class="row align-items-center justify-content-center mb-4"><div class="col-md-1 clock"><i class="far fa-calendar-alt"></i></div> <h2 class="col-md-4 m-0">ಅನಿಸಿಕೆ</h2></div>
 			<ul class="card-list">
 				<li>
-					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+					<p class="date">ಜುಲೈ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180702.06.01">ಉನ್ನತ ಶಿಕ್ಷಣ: ಮುಂದುವರಿದ ಚರ್ಚೆ</a></h5>
 				</li>
 				<li>
-					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+					<p class="date">ಜುಲೈ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180702.06.02">ಚಿಂತನೆಗೆ, ಚಿಂತೆಗೆ ಈಡುಮಾಡಿತು</a></h5>
 				</li>
 				<li>
-					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+					<p class="date">ಜೂನ್ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180602.06.01">ಪರ್ಯಾಯ ಪ್ರಜಾ ಪ್ರಣಾಳಿಕೆಗಳು</a></h5>
 				</li>
 				<li>
-					<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+					<p class="date">ಮೇ ೨೦೧೮</p>
+					<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180502.06.01">ವಿಜಯಪುರದಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ಸಂವಾದ</a></h5>
 				</li>
 			</ul>
 		</div>
