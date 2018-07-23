@@ -50,6 +50,6 @@
 				<p>ಬಿ.ಪರಶುರಾಮ ನಾಯಕ, ಮರಿಯಮ್ಮನಹಳ್ಳಿ.</p>
 			</div>
 		</div>
-		<?php require_once(PHY_FLAT_URL . 'article-lists/others.php'); ?>
+		<?php require_once(PHY_FLAT_URL . 'article-lists/pratibimba.php'); ?>
 	</div>
 </div>

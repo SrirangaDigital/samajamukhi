@@ -33,6 +33,6 @@
 				<h4>ಹುರುಕಡ್ಲಿ ಶಿವಕುಮಾರ, ಬಾಚಿಗೊಂಡನಹಳ್ಳಿ.</h4>
 			</div>
 		</div>
-		<?php require_once(PHY_FLAT_URL . 'article-lists/others.php'); ?>
+		<?php require_once(PHY_FLAT_URL . 'article-lists/pratibimba.php'); ?>
 	</div>
 </div>

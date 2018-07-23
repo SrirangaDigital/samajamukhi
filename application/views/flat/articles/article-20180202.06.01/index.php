@@ -26,6 +26,6 @@
 				<p class="text-right">- ಗುರುಪ್ರಸಾದ ಕುರ್ತಕೋಟಿ, ಬೆಂಗಳೂರು </p>
 			</div>
 		</div>
-		<?php require_once(PHY_FLAT_URL . 'article-lists/others.php'); ?>
+		<?php require_once(PHY_FLAT_URL . 'article-lists/pratibimba.php'); ?>
 	</div>
 </div>

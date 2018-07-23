@@ -25,6 +25,6 @@
 				<p class="text-right">ಬಸವರಾಜ ಹೊರಟ್ಟಿ</p>
 			</div>
 		</div>
-		<?php require_once(PHY_FLAT_URL . 'article-lists/others.php'); ?>
+		<?php require_once(PHY_FLAT_URL . 'article-lists/pratibimba.php'); ?>
 	</div>
 </div>

@@ -38,6 +38,6 @@
 			</ul>
 			<figure class="text-center"><img class="img-fluid" src="<?=PUBLIC_URL?>images/articles/0005c.jpg" /></figure>
 		</div>
-		<?php require_once(PHY_FLAT_URL . 'article-lists/others.php'); ?>
+		<?php require_once(PHY_FLAT_URL . 'article-lists/pratibimba.php'); ?>
 	</div>
 </div>
