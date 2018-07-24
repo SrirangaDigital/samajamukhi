@@ -7,7 +7,7 @@
 						<div class="col-md-8">
 							<figure>
 								<img class="img-fluid" src="<?=PUBLIC_URL?>images/april2018.jpg" />
-								<figcaption>ಏಪ್ರಿಲ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 4</figcaption>
+								<figcaption>ಎಪ್ರಿಲ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 4</figcaption>
 							</figure>
 						</div>
 					</div>
