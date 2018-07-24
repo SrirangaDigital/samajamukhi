@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">‘ಎಲ್ಲಾ ಬಿಡಿಸಿ ಹೇಳಾಕ ಬರಲ್ಲ’</h1>
 			<h2 class="author">&#x2014;ಶಾಮನೂರು ಶಿವಶಂಕರಪ್ಪ</h2>
 			<p><strong>ಲಿಂಗಾಯಿತ ಪ್ರತ್ಯೇಕ ಧರ್ಮದ ಬೇಡಿಕೆ ಬಗ್ಗೆ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವೇನು?</strong></p>

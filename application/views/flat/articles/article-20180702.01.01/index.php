@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ನೀಟ್ ಪರೀಕ್ಷೆ <br />ಒಕ್ಕೂಟ ವಿರೋಧಿ ಹೆಜ್ಜೆ !</h1>
 			<h2 class="author">ವಸಂತ ಶೆಟ್ಟಿ</h2>
 			<p class="description">ನೀಟ್ ತರಹದ ಪರೀಕ್ಷೆಗಳಲ್ಲಿ ಇರುವ ನಿಜವಾದ ತೊಂದರೆ ಆಳದಲ್ಲಿ ಅವು ಭಾರತದ ಒಕ್ಕೂಟ ವ್ಯವಸ್ಥೆಯನ್ನು ಇನ್ನಷ್ಟು ಶಿಥಿಲಗೊಳಿಸಿ ದೆಹಲಿಯಿಂದಲೇ ಎಲ್ಲವನ್ನೂ ನಿಯಂತ್ರಿಸಬೇಕು ಅನ್ನುವ ಶಕ್ತಿಗಳಿಗೆ ಬಲ ತುಂಬುತ್ತವೆ ಅನ್ನುವುದು. ನೀಟ್ ಮೂಲಕ ಕನ್ನಡಿಗರು ತಮ್ಮನ್ನು ತಾವೇ ಆಳಿಕೊಳ್ಳುವ ಸ್ವಾಯತ್ತೆಯಲ್ಲಿ ಒಂದಿಷ್ಟನ್ನು ಕಳೆದುಕೊಳ್ಳಲಿದ್ದಾರೆ ಅನ್ನುವುದನ್ನು ಗಮನಿಸಬೇಕಾದುದು ಈ ಹೊತ್ತಿನ ತುರ್ತಾಗಿದೆ.</p>

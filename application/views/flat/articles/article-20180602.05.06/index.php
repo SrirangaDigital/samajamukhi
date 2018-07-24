@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಸಂಬಂಧಗಳ ನವಿರು ನಿರೂಪಣೆ ದಿ ಕೇಕ್‍ಮೇಕರ್</h1>
 			<h2 class="author">ಮ.ಶ್ರೀ.ಮುರಳಿ ಕೃಷ್ಣ</h2>
 			<p class="description">ಈ ಚಲನಚಿತ್ರದುದ್ದಕ್ಕೂ ನಿರ್ದೇಶಕ ಗ್ರ್ಯೆಝರ್ ನವಿರಾಗಿ ಪ್ರೇಮವನ್ನು ಬಿಂಬಿಸಿದ್ದಾರೆ. ಅದರಲ್ಲಿ ಸಹಜತೆ ಅಂತರ್ಗತವಾಗಿದೆ. ಒಂದೆಡೆ ಪ್ರಿಯಕರನನ್ನು ಕಳೆದುಕೊಂಡ ಥಾಮಸ್, ಇನ್ನೊಂದೆಡೆ ಪತಿವಿಯೋಗ ಹೊಂದಿದ ಅನತ್, ಇಬ್ಬರೂ ಸಮಾನದುಃಖಿಗಳೇ.</p>

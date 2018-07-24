@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಪೆರಿಯಾರ್ ವಿವಾಹ ಪದ್ಧತಿ</h1>
 			<h2 class="author">ಅರುಣ್ ಜೋಳದಕೂಡ್ಲಿಗಿ</h2>
 			<p class="description">ಅದ್ದೂರಿ ಮದುವೆಯ ಕನಸು ಕಾಣುತ್ತಿರುವವರು, ಸಾಂಪ್ರದಾಯಿಕ ನಂಬಿಕೆಗಳ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕು ಉಸಿರುಗಟ್ಟಿದವರು ಈ ಕೃತಿಯನ್ನು ಅಗತ್ಯವಾಗಿ ಓದಬೇಕು.</p>

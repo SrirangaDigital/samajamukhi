@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">`ಲಿಂಗಾಯತ ಹಿಂದೂ ಧರ್ಮದ ಅಂಗವಲ್ಲ'</h1>
 			<h2 class="author">ಎಸ್.ಎಮ್.ಜಾಮದಾರ್</h2>
 			<p class="description">ಅವರು ಕರ್ನಾಟಕ ಕಂಡ ಅತ್ಯುತ್ತಮ ಐ.ಎ.ಎಸ್. ಅಧಿಕಾರಿಗಳಲ್ಲಿ ಒಬ್ಬರು. ವೀರಶೈವ&#x2014;ಲಿಂಗಾಯತ ಚರ್ಚೆಯಲ್ಲಿ ಅವರು ಲಿಂಗಾಯತ ಹಿಂದೂ ಧರ್ಮದ ಅಂಗವಲ್ಲ ಎಂದು ಬಲವಾಗಿ ಪ್ರತಿಪಾದಿಸಿದ್ದಾರೆ. ಅವರ ವಿಚಾರಗಳನ್ನು ಓದುಗರ ಮುಂದಿಡಲು ಸಮಾಜಮುಖಿಯು ಅವರೊಡನೆ ನಡೆಸಿದ ಚರ್ಚೆಯ ಆಯ್ದಭಾಗಗಳು ಇಲ್ಲಿವೆ. ಸಂದರ್ಶನದ ಪೂರ್ಣ ವಿಡಿಯೋ ಸಮಾಜಮುಖಿಯ ಅಂತರ್ಜಾಲತಾಣದಲ್ಲಿ ಲಭ್ಯವಿದೆ. </p>

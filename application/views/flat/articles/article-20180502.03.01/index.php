@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಹಣೆಬರಹವನ್ನೇ ಬದಲಿಸಲು ಹೊರಟ ಜೀನ್ ಎಡಿಟಿಂಗ್</h1>
 			<h2 class="author">ಟಿ.ಆರ್.ಅನಂತರಾಮು</h2>
 			<p class="description">ಜೀನ್ ಎಡಿಟಿಂಗ್  ಎಂಬುದು ಇತ್ತೀಚೆಗೆ  ಬಹಳ ಚರ್ಚೆಗೆ,  ಕುತೂಹಲಕ್ಕೆ, ಭರವಸೆಗೆ  ಕಾರಣವಾಗಿದೆ. ಈಗ  ನಿಮ್ಮ ದೇಹದಲ್ಲಿರುವ  ಯಾವ ಜೀನ್‍ಗಳು  ಚೆಲ್ಲಾಟವಾಡುತ್ತಿವೆ  ಎನ್ನುವುದನ್ನು  ಪತ್ತೆ ಹಚ್ಚಬಹುದು.  ಇವುಗಳನ್ನು ಮುಂದಿನ  ಪೀಳಿಗೆಗೆ ವರ್ಗಾವಣೆ  ಯಾಗದಂತೆ ನಿರ್ನಾಮ  ಮಾಡಲು ಸಾಧ್ಯ.  ಹಾಗೆಯೇ ಕಾಯಿಲೆ  ತರುವ ವಿಕೃತ  ಜೀನ್‍ಗಳ ಮೇಲೆ ದಾಳಿ  ಮಾಡಬಹುದು.</p>

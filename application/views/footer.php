@@ -11,5 +11,6 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js?v=1.0"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js?v=1.1"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 </body>
 </html>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ನಮ್ಮಟ್ಟೀಲಿ ಏನಾಯ್ತಂದ್ರ...</h1>
 			<h2 class="author">ಎಚ್.ಗೋಪಾಲಕೃಷ್ಣ</h2>
 			<p class="description">ನಮ್ಮಟ್ಟಿ ಕತೆ ನಿಮಗೆ ಈ ತಂಕ ಹೇಳಿಲ್ಲ ಅಂತ ಕಾಣುತ್ತೆ. ಈಗಾಗಲೇ ಹೇಳಿದ್ದರೆ ಗೊತ್ತಿರೋರು ಎರಡು ನಿಮ್ಸ ಆ ಕಡೆ ನೋಡ್ಕೊಳ್ಳಿ, ಮಿಕ್ಕೋರು ಇತ್ತ ಕಿವಿ ಕೊಡ್ರಿ.</p>

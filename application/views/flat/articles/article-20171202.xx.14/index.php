@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಕೆಂಪು ಗಣಿಗಳ ಸುತ್ತ ನೀಲಕುರಿಂಜಿ ಉತ್ಸವ</h1>
 			<h2 class="author">ಸಮದ್ ಕೊಟ್ಟೂರು</h2>
 			<p class="description">ಪಶ್ಚಿಮ ಘಟ್ಟದ ವಿದ್ಯಮಾನ ಬಯಲು ಸೀಮೆಯಲ್ಲಿ ಕಾಣಿಸಿದ ವಿಸ್ಮಯ</p>

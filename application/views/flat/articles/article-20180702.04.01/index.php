@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಪಾಪ ನಿವೇದನೆ</h1>
 			<h2 class="author">ಫ್ರ್ಯಾಂಕ್ ಓ’ಕಾನರ್ <br/> ಕನ್ನಡಕ್ಕೆ: ಡಾ.ಬಸು ಬೇವಿನಗಿಡದ</h2>
 			<p class="description">‘ದಿ ಫಸ್ಟ್ ಕನ್ಫೆಶನ್’ ಹೆಸರಿನ ಈ ಕತೆ ಜಾಕಿ ಎನ್ನುವ ಏಳು ವರ್ಷದ ಹುಡುಗನ ಪಾಪ ನಿವೇದನೆ ನಿರೂಪಿಸುತ್ತದೆ. ಎಳೆಯ ಮನಸ್ಸಿನ ತಾಕಲಾಟ, ಧಾರ್ಮಿಕ ಕಟ್ಟಳೆ, ನರಕ-ಸ್ವರ್ಗಗಳ ಕಲ್ಪನೆ, ಮನೆಯೊಳಗಿನ ವ್ಯಕ್ತಿಗತ ಸಂಬಂಧ ಮುಂತಾದ ಎಳೆಗಳನ್ನು ಬಳಸಿ ಕತೆ ಹೆಣೆಯಲಾಗಿದೆ. ಇಲ್ಲಿ ಕತೆಗಾರರ ಸಹಜ ಶೈಲಿಯ ಕುತೂಹಲಕಾರಿ ನಿರೂಪಣೆ ಹಾಗೂ ಕಟು ವ್ಯಂಗ್ಯ ಕಾಣಬಹುದು.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ವೈದ್ಯಕೀಯ ಲೋಕದ ಅಸ್ವಸ್ಥತೆ</h1>
 			<h2 class="author">ಡಾ.ಎನ್.ಎಸ್.ಗುಂಡೂರ</h2>
 			<p class="description">ವೈದ್ಯಕೀಯ ವೃತ್ತಿಯ ಬಗ್ಗೆ ನಮಗಿರುವ ಇಂದಿನ ಅನುಭವದ ಸ್ವರೂಪ ಎಂತಹದು? ಈ ವೃತ್ತಿಯ ನೈತಿಕ ಮತ್ತು ತಾರ್ಕಿಕ ಚೌಕಟ್ಟಿಗೇನಾಗಿದೆ? ಇದಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟ ಸಾಮಾಜಿಕ, ಶೈಕ್ಷಣಿಕ ಹಾಗೂ ಆರ್ಥಿಕ ನೆಲೆಗಟ್ಟುಗಳನ್ನು ಹೇಗೆ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು?</p>

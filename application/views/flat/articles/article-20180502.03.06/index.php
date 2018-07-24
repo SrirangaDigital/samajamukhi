@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title"> ನಾಲ್ಕನೇ ಅವಧಿಗೆ ರಷ್ಯಾ ಅಧ್ಯಕ್ಷರಾದ ವ್ಲಾದಿಮಿರ್ ಪುಟಿನ್</h1>
 			<p class="description">ವ್ಲಾದಿಮಿರ್ ಪುಟಿನ್‍ರವರ ಟೀಕಾಕಾರರು ಹಲವರಿದ್ದಾರೆ.  ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ಕೇವಲ ಕಾಗದದ ಮೇಲಷ್ಟೇ  ಜಾರಿಗೊಳಿಸಿ, ರಷ್ಯಾ ದೇಶವನ್ನು ವಿರೋಧಿಗಳಿಲ್ಲದ  ಸರ್ವಾಧಿಕಾರಿಯಂತೆ ಆಳುತ್ತಿದ್ದಾರೆಂದು ಟೀಕಿಸಲಾಗಿದೆ.  ಆದರೆ ಪುಟಿನ್‍ರವರ ಸಮರ್ಥಕರೂ ಹಲವರಿದ್ದಾರೆ.  ರಷ್ಯಾದಂತಹ ಬರ್ಬರ, ಅರಾಜಕ ಮತ್ತು ಊಳಿಗಮಾನ್ಯ  ದೇಶದಲ್ಲಿ ಪುಟಿನ್ ಅವರಂತಹ ಸರ್ವಾಧಿಕಾರಿ  ಆಡಳಿತವೇ ಸರಿಯೆಂದು ಹೇಳಲಾಗುತ್ತದೆ.</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201805/0049a.jpg" /></figure>

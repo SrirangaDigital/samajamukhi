@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಆಗುಹೋಗು</h1>
 			<h3>ಕರ್ನಾಟಕದ ಶಾಲೆಗಳಲ್ಲಿ ಕನ್ನಡ</h3>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0037a.jpg" /></figure>

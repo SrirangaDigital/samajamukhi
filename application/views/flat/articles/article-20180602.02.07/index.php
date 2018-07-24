@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಪೂರಕ ವಾತಾವರಣದ ಕೊರತೆ</h1>
 			<h2 class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</h2>
 			<p class="description">ಅಧ್ಯಾಪಕರ ಸಂಬಳವನ್ನು ಆತನ ವಯಸ್ಸು ಮತ್ತು ಸೇವಾ ಅವಧಿಯನ್ನು ಆಧರಿಸಿ ನಿಗದಿಪಡಿಸದೇ ಆತನ ಅಧ್ಯಯನ, ಸಂಶೋಧನೆ, ಬರವಣಿಗೆಯೊಂದಿಗೆ ಥಳಕು ಹಾಕಬೇಕು. ಇದಾಗದ ಹೊರತು ಗುಣಮಟ್ಟ ಸುಧಾರಣೆಯಾಗುವುದಿಲ್ಲ.</p>

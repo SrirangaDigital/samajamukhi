@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">12 ವರ್ಷದೊಳಗಿನ ಮಕ್ಕಳನ್ನು <br />ಬಲಾತ್ಕಾರ ಮಾಡುವವರಿಗೆ ಗಲ್ಲುಶಿಕ್ಷೆ</h1>
 			<p class="description">ಟೀಕೆಗಳು ಏನೇ ಇದ್ದರೂ ಮಕ್ಕಳ ಮೇಲೆ ನಡೆಯುವ ದೌರ್ಜನ್ಯಗಳನ್ನು ತಡೆಯಲಾಗದ ಸಮಾಜ ಆರೋಗ್ಯವಂತ ಸಮಾಜವಾಗಿ ಇರಲಾರದೆಂಬ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಈ ಸುಗ್ರೀವಾಜ್ಞೆಯನ್ನು ಸ್ವಾಗತಿಸಬೇಕಿದೆ.</p>
 			<figure class="float-md-left maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0046a.jpg" /></figure>

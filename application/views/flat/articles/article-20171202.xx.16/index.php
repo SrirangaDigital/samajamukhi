@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ</h1>
 			<h2 class="author">ಪ್ರೊ.ಹೆಚ್.ಜೆ.ಸರಸ್ವತಿ </h2>
 			<p class="description">ಹನ್ನೆರಡನೆಯ ಶತಮಾನದ ಶರಣ ಚಳವಳಿಯನ್ನು ಅಲ್ಲಮ ಕೇಂದ್ರಿತವಾಗಿ ನೋಡಿದರೆ ಹೇಗೆ ಕಾಣಿಸಬಹುದು ಎನ್ನುವುದನ್ನು ತೋರಿಸುವ ಕೃತಿ ಚಾಮರಸನ ’ಪ್ರಭುಲಿಂಗಲೀಲೆ’</p>

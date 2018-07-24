@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ಗುಜರಾತ್ ಚುನಾವಣಾ ಪಾಠಗಳು</h1>
 			<h2 class="author">&#x2014; ಚಾಣಕ್ಯ</h2>
 			<p class="description">ಗುಜರಾತ್ ಚುನಾವಣೆಯು ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷಕ್ಕೆ ಹೊಸ ಚೈತನ್ಯ ನೀಡಿರುವಂತೆ ಕಂಡುಬಂದರೂ ಅದಕ್ಕಿನ್ನೂ ಗಂಭೀರ ಆತ್ಮವಿಮರ್ಶೆ ಮಾಡಿಕೊಳ್ಳಬೇಕಾದ ಅವಶ್ಯಕತೆಯಿದೆ.</p>

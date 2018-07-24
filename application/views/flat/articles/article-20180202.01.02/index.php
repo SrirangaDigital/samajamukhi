@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಈ ಹೊತ್ತಿನ ಕರ್ನಾಟಕ: ಪರ್ಯಾಯ ರಾಜಕಾರಣ  </h1>
 			<h2 class="author">ಡಾ. ವಾಸು ಎಚ್. ವಿ</h2>
 			<p class="description">ಸಮಸ್ತ ಗ್ರಾಮೀಣ ಸಮುದಾಯದ ಸಮಸ್ಯೆಯನ್ನೂ ಕೃಷಿ ಬಿಕ್ಕಟ್ಟನ್ನೂ ಜೊತೆಯಾಗಿ ಅಡ್ರೆಸ್ ಮಾಡಬಲ್ಲ ಆಂದೋಲನ, ಎಲ್ಲಾ ಬಗೆಯ ಗುತ್ತಿಗೆ ಹಾಗೂ ಅಸಂಘಟಿತ ಕಾರ್ಮಿಕರನ್ನು ಜೊತೆಗೂಡಿಸಬಲ್ಲ ಚಳವಳಿ ಮತ್ತು ನಿರುದ್ಯೋಗದ ಸಮಸ್ಯೆಯನ್ನು ಇವೆರಡರ ಜೊತೆಗೆ ಬೆಸೆಯಬಲ್ಲ ಹೋರಾಟವೊಂದರ ಅಗತ್ಯ ಇಂದು ದೇಶಕ್ಕಿದೆ. </p>

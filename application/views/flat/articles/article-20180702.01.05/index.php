@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಹೋರಾಟಗಾರ ಅಭ್ಯರ್ಥಿ <br />ಚುನಾವಣಾ ಬವಣೆ</h1>
 			<h2 class="author">ಶಾಂತಲಾ ದಾಮ್ಲೆ</h2>
 			<p class="description">ಭ್ರಷ್ಟ ರಾಜಕಾರಣದ ಬಗ್ಗೆ ಜನರ ಕೋಪತಾಪಗಳಿಗೆ ಕೊರತೆಯೇನಿಲ್ಲ. ಆದಾಗ್ಯೂ ಈ ವ್ಯವಸ್ಥೆಗೆ ಪರ್ಯಾಯ ನೀಡಲು ಮುಂದಾಗುವ ಹೋರಾಟಗಾರ ಅಭ್ಯರ್ಥಿ-ಸಂಘಟನೆಗಳನ್ನು ಮತದಾರರು ಏಕೆ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ? ಕಳೆದ ಬಾರಿ ಸ್ವತಃ ಸೋಲುಂಡ ಅಭ್ಯರ್ಥಿಯ ಸ್ವಾನುಭವದ ಅವಲೋಕನ ಇಲ್ಲಿದೆ.	</p>

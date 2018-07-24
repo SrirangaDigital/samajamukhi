@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಬಿಟ್ ಬೈ ಬಿಟ್ ಕಾಯಿನ್ ಆದ ‘ತಂತ್ರಗುಪ್ತ ಹಣ’</h1>
 			<h2 class="author">&#x2014;ಮೋಹನದಾಸ</h2>
 			<p class="description">ಭಾರತದಲ್ಲಿ ಈ ಹಣದ ವಿನಿಮಯಕ್ಕೆ ತಾನು ಪರವಾನಗಿ ನೀಡಿಲ್ಲವೆಂದು ಹೇಳಿರುವ ಆರ್‍ಬಿಐ, ಈ ತಂತ್ರಗುಪ್ತ ಹಣದ ವಿನಿಮಯ ದೇಶದ ಕಾನೂನಿಗೆ ವಿರುದ್ಧವೆಂದೂ ಘೋಷಿಸಿದೆ.</p>

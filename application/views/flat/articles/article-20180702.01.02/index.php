@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಸರ್ಕಾರಿ ಉನ್ನತ ಹುದ್ದೆಗಳಿಗೆ ಖಾಸಗಿ ಆಡಳಿತಗಾರರ ನೇಮಕ<br />ಎಷ್ಟು ಸರಿ?</h1>
 			<h2 class="author">ರವಿ ಹಂಜ್</h2>
 			<p class="description">ಈ ರೀತಿಯ ಪ್ರಾಯೋಗಿಕ ಪ್ರಯತ್ನಗಳು ಖಂಡಿತವಾಗಿ ಫಲ ನೀಡುತ್ತವೆ. ವೈಯುಕ್ತಿಕವಾಗಿ ನಾನೂ ಕೂಡಾ ಅಮೆರಿಕಾದ ಫೆಡರಲ್ ಮತ್ತು ಹಲವು ರಾಜ್ಯಗಳ ಇಂತಹ ಹಲವಾರು ಸರ್ಕಾರಿ ಯೋಜನೆಗಳಲ್ಲಿ ಸಲಹೆಗಾರನಾಗಿ ಕೆಲಸ ಮಾಡಿ, ಆ ಯೋಜನೆಗಳು ಫಲಪ್ರದವಾಗುವುದಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗಿದ್ದೇನೆ.</p>

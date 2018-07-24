@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಐದು ವರ್ಷಗಳ ಸಾರ್ವಜನಿಕ ಬದುಕಿನ ಮೌಲ್ಯಮಾಪನ</h1>
 			<div class="inlay float-md-left maxw-300">
 				<h3>ಮುಖ್ಯಚರ್ಚೆಗೆ ಪ್ರವೇಶ</h3>

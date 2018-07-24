@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಮಾರಕ ಮಾಧ್ಯಮಗಳು!</h1>
 			<h2 class="author">ಪ್ರಸಾದ್ ನಾಯ್ಕ್</h2>
 			<p class="description">ನಮಗಿಂದು ಬೇಕಿರುವುದು ಎದೆಎದೆಗಳನ್ನು ಬೆಸೆಯುವ ಸೇತುವೆಯೇ ಹೊರತು ಗೆರೆ ಎಳೆದು ಬೇರ್ಪಡಿಸುವ ಗೋಡೆಗಳಲ್ಲ.</p>

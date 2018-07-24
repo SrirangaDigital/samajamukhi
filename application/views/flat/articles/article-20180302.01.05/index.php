@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಅಗಲಿದ ರೈತನಾಯಕ ಪುಟ್ಟಣ್ಣಯ್ಯ ಸಿಟ್ಟು ಬರಿಸಿದರು ಪ್ರೀತಿ ಹರಿಸಿದರು</h1>
 			<h2 class="author">ಚುಕ್ಕಿ ನಂಜುಂಡಸ್ವಾಮಿ</h2>
 			<p class="description">ರೈತ ಸಂಘಟನೆಯ ಎರಡೂ ಬಣಗಳು ವಿಲೀನವಾದರೆ ದೊಡ್ಡ ಶಕ್ತಿ ಬರುತ್ತದೆಂದು ಅನೇಕ ಹಿರಿಯರು ಬಯಸಲು ಇದ್ದ ಒಂದೇ ಭರವಸೆ ಪುಟ್ಟಣ್ಣಯ್ಯ. ಈಗ ಆ ‘ಪೈಲ್ವಾನ್’ ನಾಯಕತ್ವವೂ ನಿರ್ಗಮಿಸಿದ್ದು, ಚಳವಳಿಯಲ್ಲಿ ದೊಡ್ಡ ನಿರ್ವಾತ ಸೃಷ್ಟಿಯಾಗಿದೆ.</p>

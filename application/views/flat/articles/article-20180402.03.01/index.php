@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮತ್ತು ಅಮೆರಿಕಾದ ವರ್ಣೀಯ ರಾಜಕಾರಣ</h1>
 			<h2 class="author">ಪ್ರೊ. ಕ್ರಿಸ್ಟೋಫರ್ ಚೆಕೂರಿ</h2>
 			<p class="description">ಅಮೆರಿಕಾದ   ರಾಜಕಾರಣದಲ್ಲಿ   ಶ್ವೇತವರ್ಣೀಯರ   ಪ್ರಾಬಲ್ಯವೆನ್ನುವುದು   ಒಂದು ಜೀವಂತ   ಚೇತನವಾಗಿ ಅದರ   ಇತಿಹಾಸದುದ್ದಕ್ಕೂ   ಉಳಿದುಬಂದಿದೆ.   ಟ್ರಂಪ್ ಅಂತಹ   ಚೇತನದಿಂದ   ಹೊರಹೊಮ್ಮಿರುವ   ರಾಜಕಾರಣಿ.</p>

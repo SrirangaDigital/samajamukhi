@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ದೇಸಿ ಕನ್ನಡ ಪರಂಪರೆ</h1>
 			<h2 class="author"> ಪ್ರೊ.ಶಿವರಾಮಯ್ಯ</h2>
 			<p class="description">ದೇಸಿ ಪರಂಪರೆಯು ಕನ್ನಡದಲ್ಲಿ ಹುಟ್ಟಿ ಬೆಳೆದು  ವಿಕಾಸಗೊಂಡ ಬಗೆಯನ್ನು ಲೇಖಕರು ಈ  ಪುಸ್ತಕದಲ್ಲಿ ಒಪ್ಪವಾಗಿ ಕಟ್ಟಿಕೊಟ್ಟಿದ್ದಾರೆ.</p>

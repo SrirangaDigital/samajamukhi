@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ನಮ್ಮೂರು ಲಂಡನ್‍ಹಳ್ಳ!</h1>
 			<h2 class="author">ಹಜರತಅಲಿ ದೇಗಿನಾಳ</h2>
 			<p class="description">ಅತ್ಯಂತ ಏಕಾಂತ ಸುಖಾಂತ ಕ್ರಿಯೆಯಾದ ಮಲವಿಸರ್ಜನೆ ನಮ್ಮೂರ ಅಕ್ಕ, ತಂಗಿ, ತಾಯಿ, ಆಯಿಯರ ಪಾಲಿಗೆ ಬಟಾಬಹಿರಂಗ ಮತ್ತು ಅತ್ಯಂತ ಸಂಕಟಕಾರಿಯಾಗಿದೆ. ಹಗಲಿನ ಈ ಸಂಕಟವನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಸ್ತ್ರೀಯರು ರಾತ್ರಿಯಾಗುವವರೆಗೆ ಕಾಯುತ್ತಾರೆ!</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<div class="inlay">
 				<h1 class="title">ಮಾಲ್ಡೀವ್ಸ್ ಎಂಬ ಸ್ವರ್ಗದಲ್ಲಿ ಅರಾಜಕತೆಯ ಕಿಚ್ಚು</h1>
 				<p class="description">ಅಧ್ಯಕ್ಷ ಯಮೀನ್ ಸುಪ್ರೀಂಕೋರ್ಟಿನ ನ್ಯಾಯಾಧೀಶರನ್ನೇ ಬಂಧನಕ್ಕೆ ಒಳಪಡಿಸಿ ಸಂಸತ್ ಭವನಕ್ಕೆ ಬೀಗ ಹಾಕಿದ್ದಾರೆ. ಶಾಂತಿಪ್ರಿಯ ದ್ವೀಪಸಮೂಹಗಳ ಪ್ರವಾಸೀ ಸ್ವರ್ಗದಲ್ಲಿ ಅರಾಜಕತೆ ವ್ಯಾಪಿಸಿದೆ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಯುದ್ಧವಿಮಾನದ ಮಹಿಳಾ ಪೈಲಟ್ <br />ಮೇಘನಾ ಶಾನ್‍ಭೋಗ್</h1>
 			<p class="description">ತಾರುಣ್ಯದಲ್ಲಿ ಹೊಸ ಚಿಂತನೆ ಮತ್ತು ಸಾಧಿಸುವ ಛಲವಿದ್ದರೆ ಜೀವನದಲ್ಲಿ ಏನೆಲ್ಲ ಸಾಧಿಸಬಹುದು ಎಂಬುದಕ್ಕೆ ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆಯ ಮೇಘನಾ ಶಾನ್‍ಭೋಗ್ ತಾಜಾ ನಿದರ್ಶನ. ಸದಾ ಸಾಹಸಕ್ಕೆ ಹಾತೊರೆಯುವ ಮೇಘನಾ ಭಾರತೀಯ ವಾಯುಪಡೆ ಯುದ್ಧವಿಮಾನದ ದಕ್ಷಿಣ ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಪೈಲಟ್ ಆಗಿ ಆಯ್ಕೆಯಾಗಿದ್ದಾರೆ. ಇಡೀ ದೇಶದಲ್ಲಿ ಇದುವರೆಗೆ ಈ ಸಾಧನೆ ಮಾಡಿದ ಮಹಿಳೆಯರಲ್ಲಿ ಮೇಘನಾ ಆರನೆಯವರು. ಅವರು ಸಾಧನೆಗೆ ಅನುಸರಿಸಿದ ಮಾರ್ಗ, ಶ್ರಮ ಮತ್ತು ವೃತ್ತಿಯ ಸವಾಲುಗಳನ್ನು ಕುರಿತು ಇಲ್ಲಿ ಮಾತನಾಡಿದ್ದಾರೆ.</p>
 			<figure class="float-md-right maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201807/0042a.jpg" /></figure>

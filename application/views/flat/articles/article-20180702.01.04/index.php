@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಸರಕಾರಿ ಶಾಲೆಗಳಲ್ಲಿ ಎಲ್.ಕೆ.ಜಿ.: <br /> ಸಾಧ್ಯತೆ ಮತ್ತು ಸಮಸ್ಯೆ</h1>
 			<h2 class="author">ಡಾ.ರಂಗನಾಥ ಕಂಟನಕುಂಟೆ</h2>
 			<p class="description">ಪೂರ್ವ ಪ್ರಾಥಮಿಕ ತರಗತಿಗಳನ್ನು ಸರ್ಕಾರಿ ಶಾಲೆಗಳಲ್ಲಿ ತೆರೆಯುವ ಯೋಚನೆ ಸರಿಯಾಗಿಯೇ ಇದೆ. ಆದರೆ ಸರ್ಕಾರ ಸೂಕ್ತ ಸಿದ್ಧತೆಯೊಂದಿಗೆ, ಅಗತ್ಯವಿರುವ ಮೂಲಭೂತ ಸೌಕರ್ಯ ಕಲ್ಪಿಸಿ ಜಾರಿಗೊಳಿಸುವುದು ಉತ್ತಮ. ಅದಿಲ್ಲದೆ ಕೇವಲ ಬೋರ್ಡುಗಳನ್ನು ನೇತುಹಾಕುವುದರಿಂದ ಸರ್ಕಾರಿ ಶಾಲೆಗಳ ಗುಣಮಟ್ಟ ಸುಧಾರಿಸುವುದಿಲ್ಲ.</p>

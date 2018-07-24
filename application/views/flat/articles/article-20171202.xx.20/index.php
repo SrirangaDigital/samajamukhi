@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಚೆಂಗೀಸ್ ಖಾನ್<br /><small>ಕಳೆದು ಹೋದ ಆಕ್ರಮಣಕಾರ ಚೆಂಗೀಸ್ ಖಾನ್ ಅಂಡ್ ದ ಮೇಕಿಂಗ್ ಆಫ್ ಮಾಡರ್ನ್ ವರ್ಲ್ಡ್</small></h1>
 			<h2 class="author">ಮೂಲ: ಜಾಕ್ ವೆದರ್ ಫೋರ್ಡ್ | ಕನ್ನಡಕ್ಕೆ: ಎಸ್.ಸಿರಾಜ್ ಅಹಮದ್</h2>
 			<figure class="float-md-left maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0070a.jpg" /></figure>

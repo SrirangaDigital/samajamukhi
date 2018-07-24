@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಸ್ವಗತ</h1>
 			<h2 class="author">ವೈಲೆಟ್ ಪಿಂಟೊ</h2>
 

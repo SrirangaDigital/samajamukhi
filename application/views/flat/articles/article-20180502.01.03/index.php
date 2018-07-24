@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಭಾರತದಲ್ಲಿ ಬ್ಯಾಂಕಿಂಗ್ ಬುಡ ಗಡಗಡ!</h1>
 			<h2 class="author">ಡಾ.ಟಿ.ಆರ್.ಚಂದ್ರಶೇಖರ</h2>
 			<p class="description">ಖಾಸಗೀಕರಣವೇನೂ  ಬ್ಯಾಂಕಿಂಗ್ ಕ್ಷೇತ್ರಕ್ಕೆ  ಸಂಜೀವಿನಿಯಾಗಲಾರದು.  ಇದಕ್ಕೆ ಪ್ರತಿಯಾಗಿ ಅವುಗಳ  ನಿಯಂತ್ರಣ ವ್ಯವಸ್ಥೆಯನ್ನು  ಬಲಪಡಿಸಬೇಕು.  ಅವುಗಳ ಚಟುವಟಿಕೆಗಳ  ಮೇಲ್ವಿಚಾರಣೆ ವ್ಯವಸ್ಥೆಗೆ  ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಬೇಕು.</p>

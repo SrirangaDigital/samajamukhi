@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಬುದ್ಧನ ನಾಡಿನಲ್ಲಿ...</h1>
 			<h2 class="author">ಅಮರಜಾ ಹೆಗಡೆ</h2>
 			<p class="description">ವಿಶಾಲವಾದ ರಸ್ತೆಗಳು,   ಎಲ್ಲೆಡೆಯೂ ಹಸಿರಿನಿಂದ   ನಳನಳಿಸುತ್ತಿರುವ ಸ್ವಚ್ಛ,   ಸುಂದರ, ಶಾಂತ ಪರಿಸರ,   ಮೆಲುದನಿಯ ಅಸಂಖ್ಯಾತ   ದೇಶವಿದೇಶಗಳ ಪ್ರವಾಸಿಗರು,   ಸುಸಜ್ಜಿತ ಹೋಟೆಲ್ಲು&#x2014;  ಲಾಡ್ಜಿಂಗುಗಳು&#x2014;ಇವನ್ನೆಲ್ಲ   ನೋಡುತ್ತಿದ್ದರೆ ಮೈಮನಸ್ಸುಗಳು   ಪುಳಕಗೊಳ್ಳುತ್ತವೆ.</p>

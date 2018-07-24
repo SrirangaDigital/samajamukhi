@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಮಾತಿನ ಕಟ್ಟೆಗಳ ಮುಂದಿನ ಮೆಟ್ಟಿಲು</h1>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0080a.jpg" /></figure>
 			<p><strong>ಬೆಂಗಳೂರಿನ ಜಯನಗರ ಕಾಂಪ್ಲೆಕ್ಸ್ ಬಳಿ ಸಂಜೆ ಹೊತ್ತಿಗೆ ಹಿರಿಯ ನಾಗರಿಕರೆಲ್ಲಾ ಸಾಲಾಗಿ ಕೂತಿರುತ್ತಾರೆ. ಎಷ್ಟೋ ವರ್ಷಗಳಿಂದ ಅದೊಂದು ರೂಢಿ ನಡೆದುಬಂದಿದೆ. ಮಿತ್ರರಾದವರು ಭೇಟಿಯಾಗಿ ಮಾತಾಡುವುದಕ್ಕೆ, ಹೊಸ ಸ್ನೇಹ ಶುರುವಾಗುವುದಕ್ಕೆ, ಸುಖದುಃಖ ಹಂಚಿಕೊಂಡು ಹುರುಪುಗೊಳ್ಳುವುದಕ್ಕೆ, ಹಗುರಾಗುವುದಕ್ಕೆ ಅದೊಂದು ಪಾಯಿಂಟ್ ಅವರಿಗೆಲ್ಲ. ಅನೇಕ ಊರುಗಳಲ್ಲಿ ಇಂತಹ ಮಾತಿನಕಟ್ಟೆಗಳಿರುತ್ತವೆ. ಕೆಲವೆಡೆ ಬೆಳಗಿನಜಾವ ಬಾಗಿಲು ಮುಚ್ಚಿದ ಅಂಗಡಿಗಳ ಮೆಟ್ಟಿಲುಗಳೇ ಮೀಟಿಂಗ್ ಪಾಯಿಂಟ್.</strong></p>

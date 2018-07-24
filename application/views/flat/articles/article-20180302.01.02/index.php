@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಒಳ ಮೀಸಲಾತಿ ಏಕೆ ಬೇಕು?</h1>
 			<h2 class="author">ದಾಸನೂರು ಕೂಸಣ್ಣ</h2>
 			<p class="description">ಸದ್ಯದ ಸಾಮಾಜಿಕ ಸ್ಥಿತಿಯಲ್ಲಿ ಒಳ ಮೀಸಲಾತಿಯನ್ನು ಅನುಷ್ಠಾನಮಾಡದಿದ್ದರೆ ಹೊಲೆಯ&#x2014;ಮಾದಿಗರಲ್ಲಿರುವ ಕನಿಷ್ಠ ಪ್ರಮಾಣದ ಸಾಮಾಜಿಕ ಸೌಹಾರ್ದ ಮುರಿದುಬೀಳುತ್ತದೆ. ಆಮೇಲೆ ಎಷ್ಟೇ ಪುಂಗಿ ಊದಿದರೂ ಮೈತ್ರಿ ಸಮುದಾಯಗಳಾಗಿ ಉಳಿಯಲಾರವು.</p>

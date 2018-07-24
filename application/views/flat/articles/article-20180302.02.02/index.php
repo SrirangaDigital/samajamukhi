@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ನ್ಯಾಯಾಂಗ <br />ನ್ಯಾಯಾಧೀಶರ ಕೊರತೆ: ನ್ಯಾಯದಾನಕ್ಕೆ ಪೆಟ್ಟು </h1>
 			<h2 class="author">ಅಲೋಕ್ ಪ್ರಸನ್ನ</h2>
 			<p class="description">ಕಳೆದ ಐದು ವರ್ಷಗಳಿಂದ ಕರ್ನಾಟಕ ನ್ಯಾಯಾಂಗ ಎದುರಿಸಿದ ಸಮಸ್ಯೆಗಳು ಇನ್ನಷ್ಟು ಕಾಲ ಹಾಗೆಯೇ ಮುಂದುವರಿಯಲಿವೆ.</p>

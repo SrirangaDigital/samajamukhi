@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ಧಾರವಾಡದ ಒಡಲಕುಡಿ ಸಂಗೀತಾ ಕಟ್ಟಿ</h1>
 			<h2 class="author">ಶಶಿ ಸಾಲಿ</h2>
 			<p class="description">ಸಂಗೀತ ಕ್ಷೇತ್ರದಲ್ಲಿ ದಟ್ಟವಾಗಿ ಹರಡಿಕೊಂಡ ಕನ್ನಡತಿ ಸಂಗೀತಾ ಕಟ್ಟಿ ಅವರ ಬಾಲ್ಯ, ಬೆಳವಣಿಗೆ ಕುರಿತ ಅಪರೂಪದ ಸಂಗತಿಗಳನ್ನು ಅನಾವರಣಗೊಳಿಸುವ ಚಿತ್ರಸಂಪುಟ, ಬರವಣಿಗೆ.</p>

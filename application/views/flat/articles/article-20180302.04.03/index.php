@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ರಾಮಾಯಣಕ್ಕೆ ಸೃಜನಶೀಲ ಸ್ಪಂದನ: ‘ಉತ್ತರಕಾಂಡ’</h1>
 			<h2 class="author">ಜಿ. ಬಿ. ಹರೀಶ್</h2>
 			<p class="description">ಮುಖ್ಯವಾಗಿ ಈ ಕಾದಂಬರಿಯಲ್ಲಿ ಸ್ತ್ರೀಪ್ರಧಾನ ಕಥನ ಕಂಡು ಬರುತ್ತದೆ. ಊರ್ಮಿಳೆ, ಸೀತೆ ಇವರು ಕೇಂದ್ರದಲ್ಲಿದ್ದಾರೆ. ಆದರೆ ರಾಮನ ಪಾತ್ರ ಪೂರ್ಣವಾಗಿ ಮೂಲರಾಮಾಯಣಕ್ಕಿಂತ ವ್ಯತಿರಿಕ್ತವಾಗಿ ಚಿತ್ರವಾಗಿಲ್ಲ.</p>

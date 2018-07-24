@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಹವಾಮಾನ ವೈಪರೀತ್ಯ ಮತ್ತು ಸಾಹಿತ್ಯ: ಬೆಂಕಿ ಮತ್ತು ಹೆಪ್ಪುಹಿಮ</h1>
 			<h2 class="author">ನಾಗೇಶ ಹೆಗಡೆ </h2>
 			<p class="description">ಪರಮಾಣು ಬಾಂಬ್ ಸಿಡಿದರೆ ಅಥವಾ ಕ್ಷುದ್ರಗ್ರಹವೊಂದು  ಭೂಮಿಗೆ ಢಿಕ್ಕಿ ಹೊಡೆದರೆ ಎಲ್ಲರ ಬದುಕೂ ಎರ್ರಾಬಿರ್ರಿ  ಆಗುವಂತೆ ಇಡೀ ಜೀವಸಂಕುಲಕ್ಕೇ ಅಂಥದ್ದೊಂದು  ಆತಂಕ ಎದುರಾಗಿದೆ. ‘ಯಾಕೆ ಸೃಜನಶೀಲ ಚಿಂತಕರು  ಅದರ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತಿಲ್ಲ, ಬರೆಯುತ್ತಿಲ್ಲ, ನಾಟಕ&#x2014; ಸಿನೆಮಾ ಮಾಡುತ್ತಿಲ್ಲ?’ &#x2014;ಇದು ಘೋಷ್ ಕೇಳುವ ಪ್ರಶ್ನೆ.</p>

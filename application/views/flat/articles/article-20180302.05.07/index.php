@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಸ್ಕೀಯಿಂಗ್ ಪಟು ಆಂಚಲ್ ಠಾಕೂರ್</h1>
 			<p class="description">ಕಂಚಿನ ಪದಕವನ್ನು ಹೆಗಲಿಗೆ ಏರಿಸಿಕೊಂಡಿರುವ ಆಂಚಲ್‍ರ ಮುಂದಿನ ಗುರಿ, ದಕ್ಷಿಣ ಕೊರಿಯಾದ ಪ್ಯಾಂಗ್‍ಚಾಂಗ್‍ನಲ್ಲಿ ನಡೆಯಲಿರುವ ಚಳಿಗಾಲದ ಒಲಿಂಪಿಕ್ಸ್.</p>
 			<figure class="float-md-right maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201803/0078a.jpg" /></figure>

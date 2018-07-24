@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ರೈತರೇಕೆ ಸಾಲಗಾರರಾದರು?</h1>
 			<h2 class="author">ಚಂಸು ಪಾಟೀಲ</h2>
 			<p class="description">ಪ್ರಸ್ತುತ ರೈತರ ಆತ್ಮಹತ್ಯೆ ಮತ್ತು ಸಾಲಮನ್ನಾ ಬಹುಚರ್ಚಿತ ವಿಷಯವಾಗಿವೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ನಿಜಕ್ಕೂ ರೈತರನ್ನು ಸಾಲದ ಸುಳಿಗೆ ಸಿಲುಕಿಸಿದ ಕಾರಣಗಳನ್ನು ಕುರಿತು ಸಾಹಿತಿ-ಪತ್ರಕರ್ತ ಹಾಗೂ ಸ್ವತಃ ರೈತರಾದ ಲೇಖಕರು ಇಲ್ಲಿ ಒಳನೋಟ ಬೀರಿದ್ದಾರೆ.</p>

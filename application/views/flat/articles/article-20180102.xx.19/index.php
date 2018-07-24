@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ವಚನಗಳಸಂಕಲನದ ಕಥನ </h1>
 			<h2 class="author">ಪೃಥ್ವಿ ದತ್ತ ಚಂದ್ರ ಶೋಭಿ</h2>
 			<p class="description">ವಚನಗಳು ಯಾವ ಬಗೆಯ ಪಠ್ಯಗಳು? ಅವು ಇಪ್ಪತ್ತೊಂದನೆಯ ಶತಮಾನದ ಆಧುನಿಕ ಓದುಗರಿಗೆ ತಲುಪಿದ್ದು ಹೇಗೆ? ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ತಾತ್ವಿಕ ಒಳನೋಟಗಳು ಮತ್ತು ಐತಿಹಾಸಿಕ ಮಾಹಿತಿಗಳಿರುವ ಬರವಣಿಗೆ ಇಲ್ಲಿದೆ. ಮುಖ್ಯವಾಗಿ 15ನೆಯ ಶತಮಾನದ ವಿರಕ್ತರ ವಚನಪಠ್ಯಕೇಂದ್ರಿತ ಚಟುವಟಿಕೆಗಳನ್ನು ಅವಲೋಕಿಸುತ್ತ, ಈ ಪ್ರಬಂಧವು ಇಂದಿನ ವೀರಶೈವ&#x2014;ಲಿಂಗಾಯತ ಚರ್ಚೆಗೆ ಹೊಸ ಆಯಾಮಗಳನ್ನು ನೀಡುತ್ತದೆ. </p>

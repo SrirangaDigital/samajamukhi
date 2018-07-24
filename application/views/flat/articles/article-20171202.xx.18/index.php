@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ವ್ಯಕ್ತಿಗಳ ತಲ್ಲಣಗಳ ಮೂಲಕ ರಾಜಕೀಯ ಸಾಮಾಜಿಕ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳುವ ಇಷಿಗುರೊ</h1>
 			<h2 class="author">ಎಸ್. ಸಿರಾಜ್ ಅಹಮದ್</h2>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0062a.jpg" /></figure>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಅನ್ಯ ಭಾಷೆಗಳಿಗೆ ಇಲ್ಲದ ಆತಂಕ ಕನ್ನಡಕ್ಕೇಕೆ?</h1>
 			<h2 class="author">ಶ್ರೀಹರ್ಷ ಸಾಲಿಮಠ</h2>
 			<p class="description">ನನ್ನ ಜೊತೆ ಕೆಲಸ ಮಾಡುವವರಲ್ಲಿ ಮುಕ್ಕಾಲು ಪಾಲು ಜನರಿಗೆ ಇಂಗ್ಲೀಷ್ ಬರುವುದಿಲ್ಲ. ಬಂದರೂ ಹರುಕು ಮುರುಕು ಇಂಗ್ಲೀಷ್. ಚೀನೀಯರು ಇಂಗ್ಲೀಷ್ ಅನ್ನು ತಾವು ತಿನ್ನುವ ಹಾವಿನ ಮಾಂಸಕ್ಕಿಂತ ದಾರುಣವಾಗಿ ಕೊಲೆಗೈದು ಹುರಿದು ಮುಕ್ಕುತ್ತಾರೆ.</p>

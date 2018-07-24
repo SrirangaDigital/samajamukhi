@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಧಾರವಾಡದಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ವಿಚಾರ ಸಂಕಿರಣ</h1>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201803/0004b.jpg" /></figure>
 			<p>2018 ರ ಜನವರಿ 26 ರಂದು ಧಾರವಾಡದ ಅಂಬೇಡ್ಕರ್ ಭವನದಲ್ಲಿ  ಕಲಾವಿದೆ ಸುನಂದಾ ನಿಮ್ಮನಗೌಡರ್  ಹಾಡಿದ ನಾಡೋಜ ಚೆನ್ನವೀರ ಕಣವಿ ಅವರ ‘ಯುಗ ಯುಗಕು ಉರುಳುತಿಹದು ಜಗದ ರಥದ ಗಾಲಿ’ ಗೀತೆಯೊಂದಿಗೆ ‘ಸಮಾಜಮುಖಿ’ ಎರಡನೇ ಸಂಚಿಕೆ ಬಿಡುಗಡೆ ಕಾರ್ಯಕ್ರಮ ಆರಂಭಗೊಂಡಿತು. ಈ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ‘ಭವಿಷ್ಯದ ಕರ್ನಾಟಕ: ಐದು ವರ್ಷಗಳ ಹಾದಿ’ ಎಂಬ ವಿಷಯದ ಮೇಲೆ ವಿಚಾರ ಸಂಕಿರಣ ಹಮ್ಮಿಕೊಳ್ಳಲಾಗಿತ್ತು.</p>

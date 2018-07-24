@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಕರುನಾಡ ಕದನ</h1>
 			<h2 class="author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</h2>
 			<h3>ದೃಶ್ಯ 1 ಸಮರತಂತ್ರ ನಿಪುಣ ಗೌಡೇಂದ್ರ</h3>

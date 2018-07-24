@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಕಟ್ಟ ಕಡೆಯ ಗೆರೆಯ ಮೇಲೆ</h1>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201802/0072a.jpg" /></figure>
 			<p>ಅಜ್ಜ ಸತ್ತ ದಿನ ಅಜ್ಜಿಯ ಕಣ್ಣಲ್ಲಿ ಕಂಡ ನೀರಸದಂತೆ ಅನಂತದ</p>

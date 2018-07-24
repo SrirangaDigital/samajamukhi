@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಮೈಸೂರಿನಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ಸಂವಾದ</h1>
 			<p class="description">ಮಾರ್ಚ್ 3, 2018ರಂದು ಮೈಸೂರಿನ ಮಾನಸಗಂಗೋತ್ರಿಯ ಮಾನವಿಕ ಸಭಾಂಗಣದಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ಮೂರನೆಯ ಸಂಚಿಕೆ ಅನಾವರಣವಾಯಿತು. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ರಾಜಕೀಯಶಾಸ್ತ್ರ ವಿಭಾಗ, ಮೈಸೂರಿನ ಸಕ್ರಿಯ ರಂಗತಂಡ ‘ನಿರಂತರ’ ಮತ್ತು ಫೋ಼ಕಸ್ ಟಿವಿ ಸಹಭಾಗಿತ್ವದಲ್ಲಿ ‘ಕರ್ನಾಟಕದ ಕಳೆದ ಐದು ವರ್ಷಗಳ ಸಾರ್ವಜನಿಕ ಜೀವನ’ದ ಎಲ್ಲ ಆಯಾಮಗಳ ಕುರಿತಾದ ಸಂವಾದ ಕಾರ್ಯಕ್ರಮವನ್ನು ಆಯೋಜಿಸಲಾಗಿತ್ತು.</p>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/articles/0004a.jpg" /></figure>

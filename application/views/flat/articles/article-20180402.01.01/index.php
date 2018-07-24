@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಪ್ರತಿಮೆಗಳ ರಾಜಕಾರಣ</h1>
 			<h2 class="author">ರಹಮತ್ ತರೀಕೆರೆ </h2>
 			<p class="description"> ಪ್ರತಿಮೆಗಳಿಗೆ  ಅರ್ಥಬರುವುದು;  ಅವು ಪ್ರತಿನಿಧಿಸುವ  ತತ್ವವನ್ನು ಸಮಾಜ  ಬದುಕುವುದರಲ್ಲಿ.  ಈ ತತ್ವಬದುಕುವಿಕೆ  ಪ್ರತಿಮೆಗಳಿಲ್ಲದೆಯೂ  ಸಾಧ್ಯವಾಗಬೇಕು.  ತತ್ವಾಚರಣೆಯಿಲ್ಲದ  ಪ್ರತಿಮಾ  ಆರಾಧನೆಯನ್ನು  ಝೆನ್ ಮುಂತಾದ  ಬೌದ್ಧ ದಾರ್ಶನಿಕ  ಶಾಖೆಗಳು ತೀವ್ರವಾಗಿ  ನಿರಾಕರಿಸಿದವು.</p>

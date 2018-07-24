@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ನಾಗಚಂದ್ರನ ರಾಮಚಂದ್ರ ಚರಿತ ಪುರಾಣಂ</h1>
 			<h2 class="author">ಡಾ.ಮ್ಯಾಥ್ಯೂ ಕೆ.ಎಮ್.</h2>
 			<p class="description">ನಾಗಚಂದ್ರನ ಕಾವ್ಯದಲ್ಲಿ  ಬರುವ ರಾಮಚಂದ್ರ  ಏಕಪತ್ನೀವ್ರತಸ್ಥನಲ್ಲ;  ಆತನಿಗೆ ನಾಲ್ವರು  ಪಟ್ಟಮಹಿಷಿಯರೂ,  ಎಂಟು ಸಾವಿರ  ಸಂಖ್ಯೆಯ ಅಂತಃಪುರ  ವಾಸಿಗಳೂ ಉಂಟು!</p>

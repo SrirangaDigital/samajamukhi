@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಗುಣಮಟ್ಟಕ್ಕೆ ಮನ್ನಣೆ 	</h1>
 			<h2 class="author">ಮಾಲತಿ ಪಟ್ಟಣಶೆಟ್ಟಿ ಧಾರವಾಡ</h2>
 			<p class="description">ರಾಜ್ಯದ ಪ್ರಗತಿ ಮತ್ತು ಅಧೋಗತಿ ಕುರಿತು ಚುನಾವಣಾ ಪೂರ್ವದಲ್ಲಿ ಚರ್ಚೆ ಏರ್ಪಡಿಸುವುದು ಒಳ್ಳೆಯ ನಡೆ.</p>

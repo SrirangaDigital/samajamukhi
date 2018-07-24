@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title"> ಕ್ವೀನ್ ಆಫ್ ಕಟ್ವೆ  ಕೊಂಪೆಯಲ್ಲರಳಿದ ಕಮಲ</h1>
 			<h2 class="author">ಪ್ರಸಾದ್ ನಾಯ್ಕ್</h2>
 			<p class="description">‘ಈ ಟ್ರೋಫಿಗಳನ್ನು  ತಿನ್ನುವಂತಿದ್ದರೆ ಎಷ್ಟು  ಚೆನ್ನಾಗಿರುತ್ತಿತ್ತಲ್ವಾ?’  ಅನ್ನುತ್ತಿದ್ದಾಳೆ ಆ  ತಾಯಿ. ಮಗಳು ಚೆಸ್  ಕ್ರೀಡಾಕೂಟವೊಂದನ್ನು ಗೆದ್ದು  ಬಂದಿದ್ದಾಳೆ. ಈ ಬಗ್ಗೆ ಆ  ತಾಯಿಗೆ ಸಂತಸವಿಲ್ಲವೆಂದಲ್ಲ.  ಆದರೆ ಯೋಚಿಸಲು  ಅದಕ್ಕಿಂತಲೂ ಮುಖ್ಯವಾದ  ಸಂಗತಿಗಳು ಅವಳಿಗೆ  ಸಾಕಷ್ಟಿವೆ. ಅಲೆಮಾರಿ ಜೀವನ,  ಕಿತ್ತುತಿನ್ನುವ ಬಡತನಗಳು  ಕಂಗೆಡಿಸುತ್ತಿರುವಾಗ ಈ  ಲೋಹದ ಟ್ರೋಫಿಗಳು  ಅವಳನ್ನು ಹೇಗೆ ತಾನೇ  ಸಂತೈಸಬಲ್ಲವು?</p>

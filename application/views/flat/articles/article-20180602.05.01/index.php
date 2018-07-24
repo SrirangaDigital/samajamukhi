@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಲಕ್ಷ್ಮೀಶನ ಜೈಮಿನಿ ಭಾರತ ಸೀತಾ ಪರಿತ್ಯಾಗ</h1>
 			<h2 class="author">ಡಾ.ವಿನಯಾ ಒಕ್ಕುಂದ</h2>
 			<p class="description">ಕವಿ ಈ ಕಥೆಯನ್ನು ಆರಂಭಿಸುವುದು, ಹೆಣ್ಣಿನ ಬಾಳಿನಲ್ಲಿ ಕಷ್ಟ ಪರಂಪರೆಗಳಿಗೊಂದು ಮುಕ್ತಾಯ ಎಂಬುದಿದೆಯೇ? ಎಂಬ ಅನಾದಿ ಪ್ರಶ್ನೆಯನ್ನು ಮುಂದಿಟ್ಟುಕೊಂಡು. ನೆಲಕುರುಳುವ ಸೀತೆ, ಎದ್ದಾಗ ಹೊಸ ನೋವಿನ ನೇಗಿಲಲಿ ಉತ್ತ ಹೊಸ ಹೆಣ್ಣಾಗಿದ್ದಳು. ಇಲ್ಲಿ ಕವಿ ವ್ಯವಸ್ಥೆಯ ನಿರಂತರ ದೌರ್ಜನ್ಯವನ್ನು ತಾಳುವ ಹೆಣ್ತನದ ತ್ರಾಣಕ್ಕೆ ಸೀತೆಯನ್ನು ಪ್ರತಿಮೆಯಾಗಿಸುತ್ತಾನೆ.</p>

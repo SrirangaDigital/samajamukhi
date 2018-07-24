@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಬೆಳ್ಳಂದೂರಿನಲ್ಲಿ ನೊರೆ ಹೊತ್ತಿ ಉರಿದೊಡೆ...!</h1>
 			<h2 class="author">ಸುಧೀಂದ್ರ ಹಾಲ್ದೊಡ್ಡೇರಿ</h2>
 			<p class="description">ಕಲುಷಿತ ಕೆರೆಯಿಂದ ನೊರೆಯ ರಾಶಿ ರಸ್ತೆಗೆ ಬಂದ  ಕೆಲ ದಿನಗಳಲ್ಲೇ ನೀರಿನೊಂದಿಗೆ ಹರಿಯುತ್ತಿದ್ದ  ನೊರೆಗೇ ಬೆಂಕಿ ತಗಲುತ್ತಿದೆ!</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ನೆಟ್ ನ್ಯೂಟ್ರಲಿಟಿ ಹಾಗಂದರೇನು?</h1>
 			<h2 class="author">ಶ್ರೀಹರ್ಷ ಸಾಲಿಮಠ</h2>
 			<p class="description">ಇದು ರಾಜಕೀಯ, ಸಾಹಿತ್ಯ ಮತ್ತು ಶಿಕ್ಷಣವಲಯಕ್ಕೂ ವಿಸ್ತರಿಸುವ ಸಾಧ್ಯತೆಗಳನ್ನು ಅಲ್ಲಗಳೆಯುವಂತಿಲ್ಲ. ಅಲ್ಲಿಗೆ ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಯ ಆಶಯ ಸಿಥಿಲಗೊಳ್ಳುತ್ತದೆ; ಅಂತರ್ಜಾಲದ ಬಲಾಢ್ಯ ಕಂಪನಿಗಳ ಸರ್ವಾಧಿಕಾರ ಸ್ಥಾಪನೆಯಾಗುತ್ತದೆ.</p>

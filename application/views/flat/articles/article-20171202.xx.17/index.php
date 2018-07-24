@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಭಗೀರಥ ಪ್ರಾರ್ಥನೆ</h1>
 			<h2 class="author">ಎಚ್ ಎಸ್ ಶಿವಪ್ರಕಾಶ್ </h2>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0060a.jpg" /></figure>

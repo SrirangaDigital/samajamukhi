@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ನಾಗರಿಕ ಸಮಾಜ<br />ಸರ್ಕಾರಕ್ಕೆ ಬಿಸಿತುಪ್ಪ</h1>
 			<h2 class="author">ವಾಸುದೇವ ಶರ್ಮಾ ಎನ್. ವಿ.</h2>
 			<p class="description">ಹಲವು ವೈರುಧ್ಯಗಳ ಮಧ್ಯೆಯೂ ರಾಜ್ಯದಲ್ಲಿ ನಾಗರಿಕ ಸಮಾಜ, ಮಕ್ಕಳ  ಹಕ್ಕುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಲವು ಪ್ರಥಮಗಳನ್ನು ಸಾಧಿಸಿದೆ.</p>

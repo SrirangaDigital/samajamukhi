@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ದಿ ಪೋಸ್ಟ್: ಮಾಧ್ಯಮದ ಹೊಸ ಭರವಸೆ</h1>
 			<h2 class="author">ಗುರುಪ್ರಸಾದ್ ಡಿ. ಎನ್.</h2>
 			<p class="description">ಈ ಸಿನಿಮಾ ಒಂದು ಕಡೆ ಪ್ರಭುತ್ವಕ್ಕೆ ಸವಾಲಾಗಿ ನಿಲ್ಲುವ ಮಾಧ್ಯಮದ ಕಥೆಯನ್ನು ಹೇಳಿ, ಪ್ರಭುತ್ವಕ್ಕೆ ತನ್ನ ಎಲ್ಲೆ ಮೀರದಂತೆ ಎಚ್ಚರಿಕೆಯನ್ನು ನೀಡಿದೆ; ಮತ್ತೊಂದು ಕಡೆ ಪ್ರಭುತ್ವದ ಮುಂದೆ ತಲೆಬಾಗಿ, ಮಾಡಬೇಕಿರುವ ಕೆಲಸವನ್ನು ಮಾಡದೆ ಸೋತು ಕೂತಿರುವ ಅಥವಾ ಬದ್ಧತೆ ಮರೆತಿರುವ ಪತ್ರಿಕಾ ಮಾಧ್ಯಮವನ್ನು (ಇದು ಸಿನಿಮಾ ಅಥವಾ ಸಾಹಿತ್ಯ ಮಾಧ್ಯಮ ಕೂಡ ಆಗಿರಬಹುದು) ಎಚ್ಚರಿಸಿದೆ.</p>

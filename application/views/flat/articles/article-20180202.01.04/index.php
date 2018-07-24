@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಬೆಳಗಾವಿ ಜಿಲ್ಲಾ ವಿಭಜನೆ: ಸರಕಾರಕ್ಕೆ ಬಿಸಿತುಪ್ಪ </h1>
 			<h2 class="author">&#x2014;ಬಸವರಾಜ ಬಿ.</h2>
 			<p class="description">ಮೇಲ್ನೋಟಕ್ಕೆ, ಜನರ ಬಯಕೆಯಂತೆಜಿಲ್ಲಾ ವಿಭಜನೆ ಮಾಡುವುದು ಒಳಿತುಎನಿಸುತ್ತದೆ. ಆದರೆ ಮಹಾರಾಷ್ಟ್ರಜೊತೆಗಿನ ಗಡಿ ವಿವಾದದಕೇಂದ್ರವಾಗಿರುವ ಈ ಜಿಲ್ಲೆಯವಿಭಜನೆ ವಿಚಾರಕ್ಕೆ ತಳಕುಹಾಕಿಕೊಂಡಸಂಗತಿಗಳು ಒಂದೆರಡಲ್ಲ !</p>

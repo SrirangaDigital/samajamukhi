@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಮಹದಾಯಿ ನದಿ ಯೋಜನೆ ಪಕ್ಷ ರಾಜಕಾರಣಕ್ಕೆ ಮಾನವೀಯತೆಯ ಬಲಿ!</h1>
 			<h2 class="author">ಬಸವರಾಜ ಭೂಸಾರೆ</h2>
 			<p class="description">ಈ ವಿವಾದ ಮಾತುಕತೆ ಮೂಲಕ ಇತ್ಯರ್ಥವಾಗುವುದು ಕನಸಿನ ಮಾತು. ನ್ಯಾಯಮಂಡಳಿ ನೀಡಲಿರುವ ತೀರ್ಪಿಗೆ ಕಾಯುವುದು ಅನಿವಾರ್ಯ. ಸರಕಾರ ರಾಜ್ಯಕ್ಕೆ ಅನ್ಯಾಯ ಆಗದಂತೆ ಸಮರ್ಥ ವಾದ ಮಂಡಿಸಬೇಕಷ್ಟೇ.</p>

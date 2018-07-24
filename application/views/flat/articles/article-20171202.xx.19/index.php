@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಮುಸ್ಲಿಂ ರಾಷ್ಟ್ರದಲ್ಲೊಂದು ಪ್ರಸಿದ್ಧ ಹಿಂದೂ ಗುಹಾಲಯ</h1>
 			<h2 class="author">ಅಮರಜಾ ಹೆಗಡೆ</h2>
 			<p class="description">ಶತಶತಮಾನಗಳಿಂದ ಮಳೆ ಗಾಳಿ ಬಿಸಿಲಿನ ಹೊಡೆತಕ್ಕೆ ಸಿಲುಕಿ ಉಂಟಾದ ಗುಹೆಯ ಒಳಗಿನ ನೀರ್ಗಲ್ಲುಗಳ ಹಾಗೂ ಗವಿಗಂಭಗಳ ನಿಸರ್ಗನಿರ್ಮಿತ ವೈವಿಧ್ಯಮಯ ಬೆಡಗಿನ ರಚನೆಗೆ ವಿಸ್ಮಯದಿಂದ ನಾವು ತಲೆಬಾಗಲೇಬೇಕಾಗುತ್ತದೆ.</p>

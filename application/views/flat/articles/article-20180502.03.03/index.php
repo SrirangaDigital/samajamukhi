@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದ ಅಮ್ಮ <br />ವಿನ್ನಿ ಮಂಡೇಲಾ</h1>
 			<p class="description">ವಿನ್ನಿ ದಕ್ಷಿಣ ಆಫ್ರಿಕದ  ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದಲ್ಲಿ  ಪಾಲ್ಗೊಂಡಿದ್ದರು ಎನ್ನುವುದು  ನಿಜ. ಆದರೆ, ಅವರ ಮಾರ್ಗ  ಹಿಂಸಾತ್ಮಕವಾಗಿತ್ತು.  ಭ್ರಷ್ಟಾಚಾರ, ಹತ್ಯೆ,  ಬೆದರಿಕೆಯ ದಾರಿ ಅದು.  ಹೀಗಿದ್ದರೂ, ಆಫ್ರಿಕದ  ಇತಿಹಾಸದ ಪುಟಗಳಲ್ಲಿ ಅವರ  ಹೆಜ್ಜೆಗುರುತು ಇದ್ದೇ ಇರಲಿದೆ.</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201805/0044a.jpg" /></figure>

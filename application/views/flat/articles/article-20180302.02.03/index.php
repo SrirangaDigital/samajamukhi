@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಶಾಸಕಾಂಗ<br />ಕುಸಿತ ಕಂಡ ಶಾಸಕಾಂಗ</h1>
 			<h2 class="author">ಎ. ನಾರಾಯಣ</h2>
 			<p class="description">ಐದು ವರ್ಷಗಳ ಅವಧಿಯಲ್ಲಿ ಚರಿತ್ರೆಯಲ್ಲಿ ದಾಖಲಾಗಬಹುದಾದ ಒಂದೇ ಒಂದು ಸಂಸದೀಯ ನಿರ್ಣಯ, ನಡವಳಿಕೆ ಇದೆಯೇ?</p>

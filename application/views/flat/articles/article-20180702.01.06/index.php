@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಸಂಡೂರು ಕುಮಾರಸ್ವಾಮಿ ಬೆಟ್ಟಕ್ಕೆ <br />ಗಣಿ ಕಂಟಕ!</h1>
 			<h2 class="author">ಶ್ರೀಶೈಲ ಆಲದಹಳ್ಳಿ</h2>
 			<p class="description">ಮುಖ್ಯಮಂತ್ರಿ ಎಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ ಪ್ರಮಾಣವಚನ ಸ್ವೀಕರಿಸಿದ ಒಂದೇ ವಾರದಲ್ಲಿ ತಮ್ಮದೇ ಹೆಸರಿನ ದೇಗುಲಕ್ಕೆ ಧಕ್ಕೆ ತರುವ ಗಣಿಗಾರಿಕೆಗೆ ಪರವಾನಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ. ವಿಪರ್ಯಾಸವೆಂದರೆ, ತಮ್ಮ ಪಕ್ಷ ಅಧಿಕಾರಕ್ಕೆ ಬಂದರೆ ದೇವಸ್ಥಾನದ ಸುತ್ತ ಗಣಿಗಾರಿಕೆ ನಿಷೇಧಿಸುತ್ತೇನೆಂದು ಇದೇ ದೇವಸ್ಥಾನದ ಆವರಣದಲ್ಲಿ ಶಾಸಕ ಕುಮಾರಸ್ವಾಮಿ ವಚನ ನೀಡಿದ್ದರು! ಮತ್ತೊಮ್ಮೆ ವಚನ ಭ್ರಷ್ಟರಾದರೇ?</p>

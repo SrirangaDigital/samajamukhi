@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಕನ್ನಡ ಸಿನಿಮಾ: ಹೊಸ ಹರಿವು, ಅರಿವು</h1>
 			<h2 class="author">ಮಂಜುನಾಥ್ ಲತಾ</h2>
 			<p class="description">ಮಾಮೂಲಿ ಸೂತ್ರಗಳನ್ನಿಟ್ಟುಕೊಂಡು ಬಾಕ್ಸ್ ಆಫೀಸ್ ಹಿಟ್ ಕೊಟ್ಟ ಹೊಸಬರ ಚಿತ್ರಗಳಿಗಿಂತ ಸಿದ್ಧಸೂತ್ರಗಳನ್ನು ಹರಿದು ಹೊಸ ಚಿಂತನೆಗಳ ಮೂಲಕ ಕಟ್ಟಿದ ಹೊಸಬರ ಸಿನಿಮಾಗಳ ಚರ್ಚೆ ಕನ್ನಡ ಚಿತ್ರರಂಗದ ಪ್ರಸ್ತುತ ಸಂದರ್ಭದಲ್ಲಿ ಮುಖ್ಯ.</p>

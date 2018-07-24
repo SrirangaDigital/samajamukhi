@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ವೆನ್ ಬ್ರೆತ್ ಬಿಕಮ್ಸ್ ಏರ್</h1>
 			<h2 class="author">&#x2014;ಮಂಜುನಾಥ ಡಿ.ಎಸ್.</h2>
 			<p class="description">ಸ್ವತಃ ವೈದ್ಯರೇ ರೋಗಿಯಾಗಿ ಮರಣ ಎದುರಿಸಬೇಕಾದ ವಿಚಿತ್ರ ಸಂದರ್ಭ.</p>

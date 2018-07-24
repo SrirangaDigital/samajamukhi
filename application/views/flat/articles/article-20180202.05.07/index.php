@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಬಣ್ಣ ಬದಲಿಸುವ ಹೂವು</h1>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201802/0080a.jpg" /></figure>
 			<p>ಹೂವಿನ ಬಣ್ಣ ಬದಲಿಸಬಹುದು ಗೊತ್ತಾ? ಬಿಳಿ ಹೂವೊಂದು ಕಣ್ಣೆದುರಿಗೆ ಬೇರೆಬೇರೆ ಬಣ್ಣ ಪಡೆದರೆ ಅದನ್ನು ನೋಡೋದೇ ಖುಷಿ. ಆದರೆ, ಆ ಬಣ್ಣ ಬದಲಾಗಲು ನೀವೇ ಕಾರಣರಾದರೆ ಖುಷಿ ಇನ್ನಷ್ಟಾಗೋದು ಸಹಜ. ಹಾಗಾದರೆ ನೀವೂ ಒಮ್ಮೆ ಬಿಳಿ ಹೂವಿನ ಬಣ್ಣ ಬದಲಿಸಲು ಪ್ರಯತ್ನ ಮಾಡಿಬಿಡಿ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಟೆಕ್ ಡ್ರೀಮರ್ಸ್ ಓದಲೇಬೇಕಾದ <br />‘ಹಿಟ್ ರಿಫ್ರೆಶ್’</h1>
 			<h2 class="author">ಮೋಹನದಾಸ್</h2>
 			<p class="description">ಭಾರತದಲ್ಲಿ ಹುಟ್ಟಿ, ಬೆಳೆದು, ಓದಿ ನಂತರ ಅಮೆರಿಕೆಯ ವಾತಾವರಣಕ್ಕೆ ಒಗ್ಗಿಕೊಂಡು ಯಶಸ್ಸು ಕಂಡ ಸತ್ಯ ನದೆಲ್ಲ ತಮ್ಮ ಬದುಕಿನ ಪಯಣವನ್ನು ಈ ಪುಸ್ತಕದಲ್ಲಿ ಅತ್ಯಂತ ವಿಶಾದವಾಗಿ ತೆರೆದಿಟ್ಟಿದ್ದಾರೆ.</p>

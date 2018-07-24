@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಜಮ್ಮು-ಕಾಶ್ಮೀರ ಮೈತ್ರಿ ಆಟ ಅಂತ್ಯ</h1>
 			<h2 class="author">ಮಾಧವ</h2>
 			<p class="description">ಜಮ್ಮು-ಕಾಶ್ಮೀರದಲ್ಲಿ ಮೈತ್ರಿಸರ್ಕಾರದಿಂದ ಬಿಜೆಪಿ ಹೊರನಡೆಯಲು ಇದ್ದದ್ದು ರಾಜಕೀಯ ಕಾರಣ. 2019ರ ಲೋಕಸಭೆ ಹಾಗೂ ಸನಿಹದಲ್ಲೇ ಇರುವ ಮೂರು ರಾಜ್ಯಗಳ ವಿಧಾನಸಭೆ ಚುನಾವಣೆಗೆ ಹಿಂದೂ ಮತಗಳ ಕ್ರೋಡೀಕರಣ. ಇದಕ್ಕಾಗಿ ಜಮ್ಮು-ಕಾಶ್ಮೀರದ ನಾಲ್ಕು ಸಂಸದರ ಸ್ಥಾನಗಳು ಹಾಗೂ ಅಧಿಕಾರವನ್ನೇ ಬಿಟ್ಟುಕೊಡಲು ಮುಂದಾಗಿದೆ.</p>

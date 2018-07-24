@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ಹೇಳುವವರು ಕೇಳುವವರು ಇಲ್ಲದ ದೇಶ !</h1>
 			<h2 class="author">ರವಿ ಹಂಜ್</h2>
 			<p class="description">ಇವು ಒಬ್ಬ ಶ್ರೀಸಾಮಾನ್ಯನಾಗಿ ನಾನು ಕಂಡುಕೊಂಡ ಸಂಗತಿಗಳು. ಈ ಸಾಮಾನ್ಯ ಸಂಗತಿಗಳಲ್ಲೇ ಇಷ್ಟೋಂದು ವಿಪರ್ಯಾಸಗಳಿರಬೇಕಿದ್ದರೆ, ಇನ್ನು ದೇಶ/ರಾಜ್ಯವನ್ನು ಜ್ವಲಂತವಾಗಿ ಕಾಡುತ್ತಿರುವ ನೋಟ್ ಬ್ಯಾನ್, ಜಿ.ಸ್.ಟಿ, ಜಯಂತಿಗಳು, ಹಿಂದೂ ಭಯೋತ್ಪಾದನೆ, ಗೋಮಾಂಸ, ವೀರಶೈವ/ಲಿಂಗಾಯತ, ರಾಮ ರಹೀಮ...! </p>

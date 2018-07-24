@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಕನ್ನಡದ ಮನಸ್ಸು ಇಂದು ಮುಚ್ಚುತ್ತಿದೆಯೆ?</h1>
 			<h2 class="author">ಟಿ ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</h2>
 			<p class="description">ಮನುಷ್ಯ ಜಗತ್ತಿನಲ್ಲಿರುವುದು, ತನ್ನ ಪ್ರಪಂಚವನ್ನು ಸಂಘಟಿಸಿಕೊಳ್ಳುವುದು ಮೂಲಭೂತವಾಗಿ (Primordially) ಭಾಷೆಯ ಮೂಲಕ. ಹಾಗಾದರೆ ಕನ್ನಡವು ತನ್ನ ಪ್ರಪಂಚವನ್ನು ಇಂದು ಹೇಗೆ ಕಟ್ಟಿಕೊಳ್ಳುತ್ತಿದೆ? ಹೊರಗಿನ ಪ್ರಪಂಚದೊಡನೆ ಅದರ ಸಂಬಂಧ, ಅನುಸಂಧಾನ ಹೇಗಿದೆ? ಕನ್ನಡದ ಮನಸ್ಸು ಇಂದು ಜಗತ್ತನ್ನು ಅರಿಯುವುದರಲ್ಲಿ ಎಷ್ಟರ ಮಟ್ಟಿಗೆ ಯಶಸ್ವಿಯಾಗುತ್ತಿದೆ?</p>

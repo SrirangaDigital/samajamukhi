@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ಆದಿಪುರಾಣ</h1>
 			<h2 class="author">ಡಾ. ಜ್ಯೋತಿ ಶಂಕರ್</h2>
 			<p class="description">ಕನ್ನಡ ಸಾರಸ್ವತ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅಗ್ರಪಂಕ್ತಿಯಲ್ಲಿ ನಿಲ್ಲುವ ಹೆಸರು ಮಹಾಕವಿ ಪಂಪನದು. ಕಾಲ ಮತ್ತು ಕಾವ್ಯಗಳೆರಡರ ದೃಷ್ಟಿಯಿಂದಲೂ ಆದಿಕವಿ ಎನಿಸಿಕೊಂಡವನು. “ಪಸರಿಪ ಕನ್ನಡಕ್ಕೊಡೆಯನೊರ್ವನೆ ಸತ್ಕವಿಪಂಪನ್’’ ಎಂಬ ಗೌರವಕ್ಕೆ ಪಾತ್ರನಾದ ‘ಸರಸ್ವತಿಯ ಮಣಿಹಾರ’</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಇಸ್ರೇಲ್ ಭಾರತ ಸಂಬಂಧಗಳ ಹೊಸ ಅಧ್ಯಾಯ</h1>
 			<p class="description">ಪ್ಯಾಲೆಸ್ಟೀನ್ ಕಡೆಗಣಿಸುವ ಮೂಲಕ ಮೋದಿ ಸರಕಾರ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಕುರಿತಾದ ಸಾಂಪ್ರದಾಯಿಕ ವಿದೇಶಾಂಗ ನೀತಿಯಲ್ಲಿ ಕ್ರಾಂತಿಕಾರಿ ಹೆಜ್ಜೆ ಇರಿಸಿದ್ದಾರೆಯೇ?</p>
 			<figure class="text-center"><img class="img-fluid" src="<?=PUBLIC_URL?>images/articles/0044a.jpg" /></figure>

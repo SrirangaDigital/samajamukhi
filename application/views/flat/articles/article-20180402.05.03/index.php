@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ರಾಘವಾಂಕನ ‘ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ’</h1>
 			<h2 class="author">ಉಮಾ ಎಚ್. ಎಂ.</h2>
 			<p class="description">“ಸತ್ಯವೆಂಬುದೇ ಹರ ಹರನೆಂಬುದೇ ಸತ್ಯ” ಎನ್ನುವ ಸಾರ್ವತ್ರಿಕ ಮೌಲ್ಯವನ್ನು ನಿರೂಪಿಸುವ ರಾಘವಾಂಕನ ‘ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ’ ಕನ್ನಡ ಕಾವ್ಯ ಪರಂಪರೆಯಲ್ಲಿ ವಿನೂತನ ಸೃಷ್ಟಿಯೇ ಆಗಿದೆ. ವ್ಯಕ್ತಿಗತ ಮತ್ತು ಸಾಮಾಜಿಕ ನೆಲೆಯಲ್ಲಿ ಅಗತ್ಯವಿರುವ ನ್ಯಾಯಪರತೆ, ಸತ್ಯ, ನಿಷ್ಠೆಯಂತಹ ಮೌಲ್ಯಗಳ ತಿಳಿವಳಿಕೆಗೆ ಈ ಕೃತಿಯ ಓದು ಸರ್ವಕಾಲಕ್ಕೂ ಅಗತ್ಯವೆನಿಸುತ್ತದೆ.</p>

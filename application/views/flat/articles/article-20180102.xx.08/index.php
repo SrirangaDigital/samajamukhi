@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">‘ದಾಖಲೆಗಳೇ ಆಧಾರ, ಪುರಾಣಗಳಲ್ಲ!’</h1>
 			<h2 class="author">&#x2014;ಸಚಿವ ಎಂ.ಬಿ.ಪಾಟೀಲ್</h2>
 			<p><strong>ವೀರಶೈವ ಬಣದ ನಿಲುವಿನ ಬಗ್ಗೆ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ಏನು?</strong></p>

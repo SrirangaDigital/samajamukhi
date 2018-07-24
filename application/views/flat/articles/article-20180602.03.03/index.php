@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ <br />ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</h1>
 			<h2 class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</h2>
 			<p class="description">ಇನ್ನು ಕೆಲವೇ ವರ್ಷಗಳಲ್ಲಿ ಬಡಬೋರೇಗೌಡನೂ ತನ್ನೆಲ್ಲಾ ಖರೀದಿಯನ್ನು ತನ್ನ ಮೊಬೈಲ್ ಫೋನ್ ಮುಖಾಂತರ ಅಮೆಝಾನ್ ಅಥವಾ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್‍ನಲ್ಲಿಯೇ ಮಾಡಿದರೆ ಆಶ್ಚರ್ಯಪಡಬೇಕಿಲ್ಲ.</p>

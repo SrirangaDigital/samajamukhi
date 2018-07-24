@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ದಾಂಪತ್ಯ ಮೀರಿದ ಬೌದ್ಧಿಕ ಸಾಂಗತ್ಯ</h1>
 			<h2 class="author">ಪರಮೇಶ್ವರ ಗುರುಸ್ವಾಮಿ</h2>
 			<p class="description">ಗೌರಿ ಲಂಕೇಶ್ ಸಾವು ಅವರ ಹತ್ತಿರದವರಲ್ಲಿ ಹುಟ್ಟು ಹಾಕಿದ ಎರಡು ಪ್ರತಿಕ್ರಿಯೆಗಳು ಬಹಳ ಮುಖ್ಯ: ಒಂದು, ಪ್ರಕಾಶ್ ರೈ ಅವರ ‘ಜಸ್ಟ್ ಆಸ್ಕಿಂಗ್’ ಚಳವಳಿ. ಇನ್ನೊಂದು, ಈ ಪುಸ್ತಕ.</p>

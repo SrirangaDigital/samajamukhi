@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಪಿ. ವಿ. ನರಸಿಂಹರಾವ್ ಜೀವನಚರಿತ್ರೆ ಹಾಫ್ ಲಯನ್</h1>
 			<h2 class="author">ವಿನಯ್ ಸೀತಾಪತಿ</h2>
 			<p class="description">ಬಹಳ ಪ್ರಶಂಸೆಗೆ ಒಳಗಾದ, ವಿನಯ್ ಸೀತಾಪತಿ ರಚಿಸಿದ ಈ ಕೃತಿಯು ಮಾಜಿ ಪ್ರಧಾನಿ ನರಸಿಂಹರಾವ್ ಅವರ ಸುದೀರ್ಘ ರಾಜಕೀಯ ಜೀವನವನ್ನು ಕಟ್ಟಿಕೊಡುತ್ತದೆ. ‘ಹಾಫ್ ಲಯನ್’ ಕೃತಿಯ ಏಳನೆಯ ಅಧ್ಯಾಯದ ಆಯ್ದ ಭಾಗಗಳು ನಿಮಗಾಗಿ.</p>

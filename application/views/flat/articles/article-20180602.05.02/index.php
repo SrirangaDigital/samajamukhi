@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಓಡಿ ಹೋದ ದ್ವೆವಗಳು</h1>
 			<h2 class="author">ಪ್ರೊ.ಜಿ.ಎಚ್.ಹನ್ನೆರಡುಮಠ</h2>
 			<p class="description">ಚೇಳು ಕಚ್ಚದ ಮನುಷ್ಯ ಮನುಷ್ಯನೇ ಅಲ್ಲ. ಚೇಳು ಕಚ್ಚಿದರೆ ಮುಂದೆ ಹತ್ತುವರ್ಷ ರೋಗ ಬರುವದಿಲ್ಲ ಅಂತ ಅಜ್ಜ ಹೇಳುತ್ತಿದ್ದ. ನಮ್ಮ ಹಿತ್ತಲಿನ ಕುಳಬಾನ, ವಡಕಟ್ಟಿಗಿ ರಾಶಿಯಲ್ಲಿ ಚೇಳುಗಳು ಆಯ್ತಾರ ಸಂತಿ ಮಾಡುತ್ತಿದ್ದವು.</p>

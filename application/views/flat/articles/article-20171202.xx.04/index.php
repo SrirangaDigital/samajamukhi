@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಒಡೆದ ಮನದಲಿ ಉರಿವ ಕೋಮುಕೆಂಡ!</h1>
 			<h2 class="author">ಗೋವಿಂದ ಬೆಳಗಾಂವ್ಕರ್</h2>
 			<p class="description">ನಿನ್ನೆ ಮೊನ್ನೆಯ ಸಹಪಾಠಿಗಳು, ಒಡನಾಡಿಗಳು ಇಂದು ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಬದ್ಧ ವೈರಿಗ ಳಾದ ವೈಚಿತ್ರ್ಯವಿದು. ಹಾಗಾದರೆ ವಿದ್ಯಾವಂತರ ನಾಡಿನ ಮನದೊಳಗೆ ವಿಷದ ಬೀಜ ಬಿತ್ತಿ ದ್ವೇಷದ ಬೆಳೆ ತೆಗೆಯುವ ಹುನ್ನಾರ ಯಾರದು? ಈ ಕುರಿತ ಸಮತೂಕದ ಅವಲೋಕನ ಇಲ್ಲಿದೆ.</p>

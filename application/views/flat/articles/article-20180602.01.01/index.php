@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಇವನಾರವ ಇವನಾರವ ಇವನಾರವ ಎನ್ನಬೇಡಿ...!</h1>
 			<h2 class="author">ಮೋಹನದಾಸ್</h2>
 			<p class="description">2018ರ ಈ ಚುನಾವಣೆಯವರೆಗೆ ಯಾರೂ ಈ ಮಟ್ಟಕ್ಕೆ ಕರ್ನಾಟಕವನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವ ಪ್ರಯತ್ನ ಮಾಡಿಲ್ಲ.</p>

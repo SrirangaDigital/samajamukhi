@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಗಂಗೆಗನ್ನಡಿಯಲ್ಲಿ ಗಾಲಿಬ್ ಬಿಂಬ</h1>
 			<h2 class="title">ಬಿದರಹಳ್ಳಿ ನರಸಿಂಹಮೂರ್ತಿ</h2>
 			<p class="description">ಅಮರ ಕವಿ ಗಾಲಿಬ್‍ನ ಕವಿತೆಯೊಂದರ ವಿಶ್ಲೇಷಣೆ ಮುಖೇನ ಇವತ್ತಿನ ಅನೇಕ ಸಾಮಾಜಿಕ ಸಾಂಸ್ಕೃತಿಕ ರಾಜಕೀಯ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಹುಡುಕುವ ಯತ್ನ ಇದರಲ್ಲಿದೆ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಗಿರಿಜನರೆಂದರೆ ಕಾಡಿನಲ್ಲಿ ಸಂರಕ್ಷಿಸುವ ಪ್ರಾಣಿಗಳೇ?</h1>
 			<h2 class="author">ಚಂದ್ರಗಿರಿ</h2>
 			<p class="description">ನರ್ಮದಾ ನದಿಗೆ ಅಡ್ಡಲಾಗಿ ಕಟ್ಟಿರುವ ಸರ್ದಾರ್ ಸರೋವರ್ ಯೋಜನೆಯನ್ನು ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಇತ್ತೀಚೆಗಷ್ಟೇ ದೇಶಕ್ಕೆ ಅರ್ಪಿಸಿದ್ದಾರೆ. ಈ ಹಿನ್ನೆಲೆಯಲ್ಲಿ, ಬೇರೆಯದೇ ಬೆಳಕಿನಲ್ಲಿ ಗಿರಿಜನರ ವಿಚಾರವನ್ನಿಟ್ಟು ನೋಡುವ ಸ್ವಾಮಿನಾಥನ್ ವಿಚಾರಗಳು ಹೊಸ ಚರ್ಚೆಯೊಂದನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತವೆ. </p>

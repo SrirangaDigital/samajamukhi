@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ಭ್ರಷ್ಟತೆಗೆ ರಾಜಕೀಯ ಪಕ್ಷಗಳೇ ಕಾರಣ </h1>
 			<h2 class="author"> ಬಿ.ಎನ್.ವಿಜಯಕುಮಾರ್ </h2>
 			<p class="description">ಸುಶಿಕ್ಷಿತ ಮತದಾರರು ಮೊದಲು ಮನೆಯಿಂದ ಹೊರಬಂದು ಮತ ಚಲಾಯಿಸುವುದನ್ನು ಕಲಿಯಬೇಕು. ವಿದ್ಯೆ ಬಲ್ಲವರು ಜಾಗೃತರಾಗಿ ಮತದಾನದಲ್ಲಿ ತೊಡಗಿಕೊಂಡರೆ ಜನಪ್ರತಿನಿಧಿಗಳಿಗೆ ಮೋಸ ಮಾಡುವುದು ಕಷ್ಟವಾಗಲಿದೆ. </p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಪ್ರಸಕ್ತ ಕಾನೂನು ಶಿಕ್ಷಣ ಮತ್ತು ವೃತ್ತಿ ಅವಕಾಶ</h1>
 			<h2 class="author"> ಪ್ರೊ.ಚಿದಾನಂದ ಎಸ್.ಪಾಟೀಲ</h2>
 			<p class="description">ಇತರೆಲ್ಲ ಕ್ಷೇತ್ರಗಳಂತೆ ಶಿಕ್ಷಣವೂ ಬಹುದೊಡ್ಡ ಬದಲಾವಣೆಗೆ ತೆರೆದುಕೊಂಡಿರುವ ದಿನಮಾನ ಇದು. ಕಾನೂನು ಶಿಕ್ಷಣ ಕೂಡಅಂಥ ವಿಸ್ತಾರಕ್ಕೆ ಚಾಚಿಕೊಂಡಿದೆ. ಇತ್ತೀಚಿನ ಕೆಲವು ವರ್ಷಗಳಲ್ಲಿ ಕಾನೂನು ಶಿಕ್ಷಣ ಪಡೆದಿರುವ ಆಯಾಮಗಳು, ಅದಕ್ಕೆ ದಕ್ಕಿರುವ ಅಗಾಧ ಸಾಧ್ಯತೆ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ವಿಶೇಷವಾಗಿ ಆಕರ್ಷಿಸುವ ಮಟ್ಟದಲ್ಲಿದೆ. </p>

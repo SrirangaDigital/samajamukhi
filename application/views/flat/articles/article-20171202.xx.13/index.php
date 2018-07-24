@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ನನ್ನ ಕ್ಲಿಕ್</h1>
 			<h3>ನಿರ್ಲಿಪ್ತತೆಗೆ ಉಪಮೆ</h3>
 			<figure class="float-md-right maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0050a.jpg" /></figure>

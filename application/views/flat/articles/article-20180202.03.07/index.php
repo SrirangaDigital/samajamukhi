@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಎಂಗೈತೆ ಮಗಾ, ಸಾಫ್ಟ್ ‌ವೇರ್ ಬ್ಯಾಂಗ್‍ಲೂರು?</h1>
 			<h2 class="author">ಸುಧೀಂದ್ರ ಹಾಲ್ದೊಡ್ಡೇರಿ</h2>
 			<p class="description">ನಮ್ಮ ಐ.ಟಿ. ನಗರಿಗರ ಇಂಗ್ಲಿಷ್ ಭಾಷೆಗೆ ಥೇಮ್ಸ್ ನದಿ ನೀರು ಕುಡಿದವನೂ ತಲೆದೂಗಬೇಕು. ಸದ್ಯಕ್ಕೆ ನಮ್ಮ ಕಾಲ್‍ಸೆಂಟರ್ ಹುಡುಗ ಹುಡುಗಿಯರ ಬಾಯಲ್ಲಿ ‘ನಾವ್ ಕುಡಿಯುವ ನೀರ್’ ಕ್ಯಾವೇರಿಯಾಗಿದೆ!</p>

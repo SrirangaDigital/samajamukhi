@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಭಾರತದ ವಿದೇಶಾಂಗ ನೀತಿಯ ಶಾಂಗ್ರಿ-ಲಾ ತಿರುವು</h1>
 			<h2 class="author">ಮೋಹನದಾಸ್</h2>
 			<p class="description">ವಿದೇಶಾಂಗ ನೀತಿಯ ಈ ‘ತಿರುವು’ ತುಸು ಅನಿರೀಕ್ಷಿತವೂ, ಆದರೆ ಅಪೇಕ್ಷಣೀಯವೂ ಆಗಿದೆಯೆಂದು ವಿದೇಶಾಂಗ ನೀತಿಯ ಪಂಡಿತರು ಅಭಿಪ್ರಾಯಪಟ್ಟಿದ್ದಾರೆ.</p>

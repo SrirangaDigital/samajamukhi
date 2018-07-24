@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಜಪಾನ್ ಗಾತ್ರದಲ್ಲಿ ಮಾತ್ರ ಕರ್ನಾಟಕ!</h1>
 			<h2 class="author">ಭಾರತೀ ಮೈಸೂರು</h2>
 			<p class="description">ಪ್ರಾಕೃತಿಕ ಸಂಪನ್ಮೂಲಗಳು ಹೇರಳವಾಗಿದ್ದರೂ ನಮ್ಮ ಕನ್ನಡ ನೆಲದಲ್ಲಿ ನಮ್ಮನ್ನು ನಾವೇ ಹಾಳುಮಾಡಿಕೊಳ್ಳುತ್ತಿರುವುದು ಅಕ್ಷರಶಃ ಸತ್ಯ. ನಾವು ಮತ ನೀಡಿ ಗೆಲ್ಲಿಸಿದವರೇ ಎಲ್ಲಾ ಮಾಡಬೇಕೆಂದು ನಾವೇಕೆ ಅಂದುಕೊಳ್ಳುಬೇಕು?</p>

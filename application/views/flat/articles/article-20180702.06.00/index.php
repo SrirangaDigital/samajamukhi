@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<div id="201807.01">
 				<h1>ಶಿಕ್ಷಣ ಪ್ರಾದೇಶಿಕ ಭಾಷೆಯಲ್ಲಿರಲಿ</h1>
 				<p>‘ಪಾಲಕರು ಬಯಸುವ ಮಾಧ್ಯಮದಲ್ಲಿ ಮಕ್ಕಳ ಕಲಿಕೆ ಇರಲಿ’ ಎಂಬುದು ಕನ್ನಡಿಗರನ್ನು ನಿದ್ದೆಗೆಡಿಸಿದ ಸುಪ್ರೀಂ ಕೋರ್ಟಿನ ತೀರ್ಪು. ಇದು ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ತೀರ್ಪೇನೋ ಹೌದು. ಆದರೆ ಸಂವಿಧಾನದಲ್ಲಿ ಗುರುತಿಸಲ್ಪಟ್ಟ 22 ಭಾರತೀಯ ಭಾಷೆಗಳ ಅಭಿಮಾನಕ್ಕೆ ಮತ್ತು ವೃದ್ಧಿಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟಿನ ತೀರ್ಪು ಕೊಡಲಿಯೇಟು ಹಾಕಿದ್ದಂತೂ ಸತ್ಯ.</p>

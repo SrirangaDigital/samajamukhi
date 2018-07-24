@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಕರ್ನಾಟಕ ಸಾರ್ವಜನಿಕ ವಿನ್ಯಾಸ ಸಂಸ್ಥೆ</h1>
 			<p class="description">ಸವಾಲು: ಕರ್ನಾಟಕದ ಸಾರ್ವಜನಿಕ ಸ್ಥಳಗಳು (ಕಟ್ಟಡಗಳು, ಉದ್ಯಾನಗಳು ಮತ್ತು ರಸ್ತೆಗಳು ಸೇರಿದಂತೆ) ಸುಂದರವಾಗಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು.</p>
 			<figure class="float-md-left maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201802/0027a.jpg" /></figure>

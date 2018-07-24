@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">‘ಪಾದುಕಾ ಕಿರೀಟಿ’</h1>
 			<h2 class="author">ಡಾ.ಧರಣಿದೇವಿ ಮಾಲಗತ್ತಿ</h2>
 			<p class="description">‘ಪಾದುಕಾ ಕಿರೀಟಿ’ ಶಂಕರಗೌಡರ ಯಶಸ್ವೀ ನಾಟಕ. 1962ರಲ್ಲಿ ರಚಿಸಿದ ಈ ನಾಟಕ ಮುಂದಿನ ಮೂರು ದಶಕಗಳಲ್ಲಿ ಎಪ್ಪತ್ತೆಂಬತ್ತು ಪ್ರಯೋಗ ಕಂಡಿದೆ.</p>

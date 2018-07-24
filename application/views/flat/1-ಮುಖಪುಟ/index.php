@@ -132,21 +132,21 @@
 				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/Hkp2yvbubbw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				<div class="card-body col-md-8">
 					<h4 class="title"><a href="#">ಎನ್ ಆರ್ ನಾರಾಯಣಮೂರ್ತಿ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
-					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
+					<p class="date english gray">Posted: ೨ ಜನವರಿ  ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row align-items-top">
 				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/qIkRSFpijLM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				<div class="card-body col-md-8">
 					<h4 class="title"><a href="#">ಎಸ್ ಎಂ ಕೃಷ್ಣ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
-					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
+					<p class="date english gray">Posted: ೨ ಜನವರಿ  ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row align-items-top">
 				<iframe class="col-md-4" width="100" height="100" src="https://www.youtube.com/embed/LIV7xlY02G8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				<div class="card-body col-md-8">
 					<h4 class="title"><a href="#">ಅರವಿಂದ ಮಾಲಗತ್ತಿ<br />ಉದ್ಘಾಟನಾ ಸಮಾರಂಭದ ವೀಡಿಯೊಗಳು</a></h4>
-					<p class="date english gray">Posted: 2<sup>nd</sup> Jan 2018</p>
+					<p class="date english gray">Posted: ೨ ಜನವರಿ  ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
@@ -160,7 +160,7 @@
 				<div class="card-body col-md-8">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<h4 class="title"><a href="#">ಧಾರ್ಮಿಕ ಸಮುದಾಯಗಳು ಹೇಗೆ ಹುಟ್ಟುತ್ತವೆ?</a></h4>
-					<p class="date english gray">Posted: 5<sup>th</sup> May 2018</p>
+					<p class="date english gray">Posted: ೫ ಮೇ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row align-items-top">
@@ -168,7 +168,7 @@
 				<div class="card-body col-md-8">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<h4 class="title"><a href="#">ಲಿಂಗಾಯತ ಹಿಂದೂ ಧರ್ಮದ ಅಂಗವಲ್ಲ – ಎಸ್.ಎಮ್.ಜಾಮದಾರ್</a></h4>
-					<p class="date english gray">Posted: 23<sup>rd</sup> April 2018</p>
+					<p class="date english gray">Posted: ೨೩ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row align-items-top">
@@ -176,7 +176,7 @@
 				<div class="card-body col-md-8">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<h4 class="title"><a href="#">ಕನ್ನಡದ ಮನಸ್ಸು ಇಂದು ಮುಚ್ಚುತ್ತಿದೆಯೆ?</a></h4>
-					<p class="date english gray">Posted: 14<sup>th</sup> April 2018</p>
+					<p class="date english gray">Posted: ೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
@@ -200,42 +200,42 @@
 				<div class="col-md-12">
 					<p class="author">ಬಸವರಾಜ ಭೂಸಾರೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.02">ಉತ್ತಮ? ಮಧ್ಯಮ? ಅಧಮ?<br />ಡಾ.ಬಿ.ಆರ್.ಅಂಬೇಡ್ಕರ್ ಸ್ಕೂಲ್ ಆಫ್ ಎಕನಾಮಿಕ್ಸ್</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಸುನಂದಾ ಕಡಮೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.03">ಸಾಹಿತ್ಯಮನೆಯ ಸೋದರಮಾವ ಗಿರಡ್ಡಿ ಗೋವಿಂದರಾಜ</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.04">ಜನರ ಬೇಡಿಕೆಗೆ ಬಂದೂಕುಗಳ ಉತ್ತರ - ತತ್ತರಿಸಿದ ತೂತುಕುಡಿ</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಡಾ.ಡಿ.ಸಿ.ನಂಜುಂಡ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.05">ನಿಮ್ಮ ಆನ್‍ಲೈನ್ ಮಾಹಿತಿ ಎಷ್ಟು ಸುರಕ್ಷಿತ?</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.06">ಮಹದಾಯಿಗೆ ಕಾವೇರಿ ಮಾದರಿ ಪರಿಹಾರ?</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಪ್ರೊ. ರವೀಂದ್ರ ರೇಷ್ಮೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.01.07">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ - ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
@@ -258,49 +258,49 @@
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.02">ಉನ್ನತ ಶಿಕ್ಷಣದ ಭರವಸೆಯೇನು?</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.03">ಉನ್ನತ ಶಿಕ್ಷಣ ಕ್ಷೇತ್ರ ಎದುರಿಸುತ್ತಿರುವ ಮೂರು ಬಿಕ್ಕಟ್ಟುಗಳು</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.04">ರಾಜ್ಯಮಟ್ಟದಲ್ಲಿ ಉನ್ನತ ಶಿಕ್ಷಣದ ಆಡಳಿತ</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.05">ಹಾಗಾದರೆ ಪರ್ಯಾಯ ಏನು?</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಅರ್ಜುನ್ ರಾಮೇಗೌಡ ನಾರಾಯಣಸ್ವಾಮಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.06">ಆ ಬೆಂಕಿಯ ಕಿಡಿ ಹೊತ್ತಿಸುವವರು ಯಾರು?</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.07">ಪೂರಕ ವಾತಾವರಣದ ಕೊರತೆ</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.02.08">ಹಾರ್ವರ್ಡ್ ಗುಣಮಟ್ಟ:  ಕೈಗೂಡದ ಕನಸೇ?</a></h5>
-					<p class="date english orange"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english orange"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
@@ -323,35 +323,35 @@
 				<div class="col-md-12">
 					<p class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.02">ಹೊಸಪೇಟೆಯ ಐಎಎಸ್ ಸಾಧಕ ಕೀರ್ತಿಕಿರಣ್ ಪೂಜಾರ್</a></h5>
-					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english blue"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.03">ಒಂದು ಆನ್‍ಲೈನ್ ಕ್ರಾಂತಿ ಫ್ಲಿಪ್‍ಕಾರ್ಟ್</a></h5>
-					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english blue"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.04">12 ವರ್ಷದೊಳಗಿನ ಮಕ್ಕಳನ್ನು ಬಲಾತ್ಕಾರ ಮಾಡುವವರಿಗೆ ಗಲ್ಲುಶಿಕ್ಷೆ</a></h5>
-					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english blue"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.05">ಮಲೇಶಿಯಾಗೆ ಮತ್ತೊಮ್ಮೆ ಮಹಾಥಿರ್ ಮಹಮದ್</a></h5>
-					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english blue"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಭಾರತೀ ಮೈಸೂರು</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.03.06">ಜಪಾನ್ ಗಾತ್ರದಲ್ಲಿ ಮಾತ್ರ ಕರ್ನಾಟಕ!</a></h5>
-					<p class="date english blue"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english blue"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
@@ -375,35 +375,35 @@
 				<div class="col-md-12">
 					<p class="author">ಎಸ್.ಆರ್.ವಿಜಯಶಂಕರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.02">ಮೊಗಳ್ಳಿ ಗಣೇಶ್ ಹೊಸ ಕಥಾ ಸಂಕಲನ ದೇವರ ದಾರಿ</a></h5>
-					<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಮಂಜುನಾಥ ಡಿ.ಎಸ್.</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.04.03">ಅಹಿಂಸಾತ್ಮಕ ಸಂವಹನ</a></h5>
-					<p class="date english brown"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.01">ಕರ್ನಾಟಕದ ರಾಜಕಾರಣ ಹೇಗೆ ಬದಲಾಗಿದೆ?</a></h5>
-					<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಮೇ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಪುರುಷೋತ್ತಮ ಬಿಳಿಮಲೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.02">ಅವಲೋಕನ ಸಮಕಾಲೀನ ಚರ್ಚೆಗೆ ಹೆಚ್ಚು ಪ್ರಸ್ತುತ</a></h5>
-					<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಮೇ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ನಾಗೇಶ ಹೆಗಡೆ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180502.04.03">ಹವಾಮಾನ ವೈಪರೀತ್ಯ ಮತ್ತು ಸಾಹಿತ್ಯ: ಬೆಂಕಿ ಮತ್ತು ಹೆಪ್ಪುಹಿಮ</a></h5>
-					<p class="date english brown"><i class="fa fa-book"></i> May 2018</p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಮೇ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
@@ -427,42 +427,42 @@
 				<div class="col-md-12">
 					<p class="author">ಡಾ.ವಿನಯಾ ಒಕ್ಕುಂದ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.01">ಲಕ್ಷ್ಮೀಶನ ಜೈಮಿನಿ ಭಾರತ ಸೀತಾ ಪರಿತ್ಯಾಗ</a></h5>
-					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english red"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಪ್ರೊ.ಜಿ.ಎಚ್.ಹನ್ನೆರಡುಮಠ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.02">ಓಡಿ ಹೋದ ದ್ವೆವಗಳು</a></h5>
-					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english red"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author"></p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.03">ನನ್ನ ಕ್ಲಿಕ್</a></h5>
-					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english red"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಮೂಡ್ನಾಕೂಡು ಚಿನ್ನಸ್ವಾಮಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.04">ಸಂಕಟದ ಪ್ರೇಮಿ</a></h5>
-					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english red"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಹೇಮಲತಾ ಮೂರ್ತಿ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.05">ವಿಷ ಕುಡಿದ ಮಕ್ಕಳು</a></h5>
-					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english red"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<p class="author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180602.05.07">ಕರುನಾಡ ಕದನ</a></h5>
-					<p class="date english red"><i class="fa fa-book"></i> June 2018</p>
+					<p class="date english red"><i class="fa fa-book"></i> ಜೂನ್ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>

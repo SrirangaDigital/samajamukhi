@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಹಿಜಾಬ್: ಹಲವು ಅರ್ಥಛಾಯೆಗಳನ್ನು ಶೋಧಿಸುವ ಕೃತಿ</h1>
 			<h2 class="author">&#x2014;ಶಶಿಕುಮಾರ್</h2>
 			<p>ಹಿಜಾಬ್’ನಲ್ಲಿ ನಾವು ಒಂದು ಟಿಪಿಕಲ್ ಕನ್ನಡ ಕಾದಂಬರಿಯಿಂದ ನಿರೀಕ್ಷಿಸಬಹುದಾದಂಥದ್ದೇನೂ ಇಲ್ಲ!</p>

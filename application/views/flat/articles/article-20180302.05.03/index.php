@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಜನ್ನನ ಯಶೋಧರ ಚರಿತೆ</h1>
 			<h2 class="author">ಡಾ. ಜಾಜಿ ದೇವೇಂದ್ರಪ್ಪ</h2>
 			<p class="description">ಇದು ಅಹಿಂಸೆಯನ್ನು ಸಾರುವ ಕಾವ್ಯವಾಗಿದೆ. ಈ ಕಾಲದ ಸ್ತ್ರೀವಾದದ ನೆಲೆಯಲ್ಲಿಯೂ ವಿಮರ್ಶಿಸಲು, ಮನಶಾಸ್ತ್ರೀಯ ಚೌಕಟ್ಟಿನಲ್ಲಿಟ್ಟು ಓದಲು ಸಹಜವಾಗಿ ಒಗ್ಗುತ್ತದೆ.</p>

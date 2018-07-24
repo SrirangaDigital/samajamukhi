@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಬೂದಿ ಒಳಗಣ ಕೆಂಡ ಚಿಕ್ಕಲ್ಲೂರು ಜಾತ್ರೆ</h1>
 			<h2 class="author">ಸಂತೋಷ್ ನಾಯಕ್ ಆರ್.ಚಿತ್ರಗಳು: ದಿನೇಶ್ ಹೆಗಡೆ</h2>
 			<p class="description">ಭಾರತೀಯ ಸಮಾಜದ ಬಹುತ್ವವನ್ನು, ಸಾಮಾಜಿಕ ಆಚರಣೆಗಳ ಹಿಂದಿನ ಜನಸಮುದಾಯಗಳ ಸಾಂಸ್ಕೃತಿಕ ಲೋಕವನ್ನು, ಅದರ ಆಧ್ಯಾತ್ಮವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳದಿದ್ದರೆ... ಆಹಾರ ಅಸಹ್ಯವಾಗಿ, ಹಾಡು ಅರಚುವಿಕೆಯಾಗಿ ಕೇಳುತ್ತದೆ.</p>

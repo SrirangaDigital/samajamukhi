@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಪೇಟೆಂಟ್ ನೀತಿಯಲ್ಲಿ ಅಮೆರಿಕ ಹಸ್ತಕ್ಷೇಪ</h1>
 			<h2 class="author">ಮಾಧವ ಐತಾಳ</h2>
 			<p class="description">ಅಮೆರಿಕದ ಪೇಟೆಂಟ್ ಮತ್ತು ಟ್ರೇಡ್‍ಮಾರ್ಕ್ ಕಚೇರಿ ಇತ್ತೀಚೆಗೆ ಪೇಟೆಂಟ್ ಕಾಯಿದೆಯ ಫಾರ್ಮ್ 27ನ್ನು ತೆಗೆದು ಹಾಕಬೇಕೆಂದು ಭಾರತ ಸರ್ಕಾರವನ್ನು ಒತ್ತಾಯಿಸಿದೆ. ಇದೊಂದು ಒಳಸಂಚು.</p>

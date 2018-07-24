@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಮೊಗಳ್ಳಿ ಗಣೇಶ್ ಹೊಸ ಕಥಾ ಸಂಕಲನ<br /> ದೇವರ ದಾರಿ</h1>
 			<h2 class="author">ಎಸ್.ಆರ್.ವಿಜಯಶಂಕರ</h2>
 			<p class="description">ಮೊಗಳ್ಳಿ ಗಣೇಶ್ ಅವರು ತಮ್ಮ ‘ಬುಗುರಿ’ ಸಂಕಲನದಲ್ಲಿ ವಿಶೇಷ ಎತ್ತರವನ್ನು ಏರಿದವರು. ಮುಂದೆ ನಿರೂಪಣಾ ಪ್ರಧಾನ ಗುಣದಿಂದಾಗಿ ತಮ್ಮ ಸಮಕಾಲೀನ ಕತೆಗಾರರಿಂದ ತಮ್ಮದೇ ಆದ ರೀತಿಯಲ್ಲಿ ಭಿನ್ನವಾಗಿ ಕಾಣುತ್ತಿರುವವರು. ಮೊದಲ ಸಂಕಲನದಲ್ಲೇ ಉನ್ನತ ಸಾಧನೆಯನ್ನು ಮಾಡಿದ ಕೃತಿಯೊಂದರ ನೆರಳು ಆ ಲೇಖಕನ ಇತರ ಕೃತಿಗಳ ಮೇಲೆ ಬೀಳುವುದು ಸಹಜವಾಗಿದೆ.</p>

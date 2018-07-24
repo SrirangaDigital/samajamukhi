@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಟ್ರಂಪ್-ಕಿಮ್ ಪ್ರಹಸನದ <br />‘ಶೃಂಗ’ ಸುಖಾಂತ್ಯ</h1>
 			<p class="description">ಕಿಮ್ ಹಾಗೂ ಟ್ರಂಪ್‍ರವರ ಸ್ವಘೋಷಿತ ಶಾಂತಿಸಾಧನೆಯೇನಿದ್ದರೂ, ಸದ್ಯಕ್ಕೆ ವಿಶ್ವಕ್ಕೆ ಅಣ್ವಸ್ತ್ರಯುದ್ಧದ ಅಪಾಯವೊಂದು ತೊಲಗಿದೆ. ಇವರಿಬ್ಬರ ನಡುವಿನ ಅಸಂಬದ್ಧ, ಅವಿವೇಕದ ಮತ್ತು ಕ್ಷುಲ್ಲಕ ಮಾತುಗಳ ಸಮರವೂ ನಿಂತಿದೆ.</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201807/0047a.jpg" /></figure>

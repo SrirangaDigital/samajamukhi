@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ನನ್ನ ಕ್ಲಿಕ್</h1>
 			<figure class="float-md-left maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201807/0072a.jpg" /></figure>
 			<h3>ದಕ್ಕಿದ್ದು ಇಷ್ಟು</h3>

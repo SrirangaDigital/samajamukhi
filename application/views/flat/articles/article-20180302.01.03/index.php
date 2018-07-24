@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಮೊಲೆ ಕತ್ತರಿಸಿಕೊಟ್ಟ ನಂಗೇಲಿ ನೆನಪು!</h1>
 			<h2 class="author">ರೇಣುಕಾ ನಿಡಗುಂದಿ</h2>
 			<p class="description">ಮಾರ್ಚ್ ಎಂಟನೇ ತಾರೀಖು ವಿಶ್ವ ಮಹಿಳಾ ದಿನ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಇತಿಹಾಸದ ಗರ್ಭದಿಂದ ಹೆಕ್ಕಿತೆಗೆದ ದಾರುಣ ಘಟನೆ ಇಲ್ಲಿದೆ.</p>

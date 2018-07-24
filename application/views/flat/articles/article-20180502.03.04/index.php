@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಫೇಸ್‍ಬುಕ್‍ನ ಫೇಸ್‍ಲೆಸ್ ಚಟುವಟಿಕೆಗಳು</h1>
 			<p class="description">ಗೂಗಲ್, ಫೇಸ್‍ಬುಕ್,  ಟ್ವಿಟ್ಟರ್‍ನಂತಹ ಸಂಸ್ಥೆಗಳು  ಬಳಕೆದಾರರಿಗೆ ಉಚಿತ ಸೇವೆ  ನೀಡುತ್ತಿವೆಯೆಂದು ನಾವು  ಭಾವಿಸುತ್ತೇವೆ. ಆದರೆ ಈ  ಉಚಿತ ಸೇವೆಗಳು ತಮ್ಮ  ಬಳಕೆದಾರರನ್ನೇ ಮಾರಾಟದ  ವಸ್ತುವನ್ನಾಗಿ ಮಾಡಿವೆ!</p>
 			<figure class="text-center"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201805/0046a.jpg" /></figure>

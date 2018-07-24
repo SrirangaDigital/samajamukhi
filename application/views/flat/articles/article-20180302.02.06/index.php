@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಮಾಧ್ಯಮ<br />ಗೇಟ್ ಕೀಪರ್ಸ್ ಯಾರು?</h1>
 			<h2 class="author">ಈಶ್ವರ ದೈತೋಟ</h2>
 			<p class="description">ಮಾದ್ಯಮವಿಂದು ಅವಸರದಲ್ಲಿ ಸುದ್ದಿ ಕೊಡಿತ್ತಿದೆಯೇ? ಗಾಳಿಸುದ್ದಿ ಹರಡುತ್ತಿದೆಯೇ? ಸುದ್ದಿಯನ್ನು ಮನರಂಜನೆ ಮಟ್ಟಕ್ಕಿಳಿಸಿದೆಯೇ?</p>

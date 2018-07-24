@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಮಕ್ಕಳ ಶಿಕ್ಷಣದ ಹೊರೆ</h1>
 			<h2 class="title">ಸಂಜೋತಾ ಪುರೋಹಿತ್</h2>
 			<p class="description">ಅಮೆರಿಕನ್ ಶಾಲೆಗಳಲ್ಲಿರುವ ಸೌಲಭ್ಯಗಳು ಭಾರತದ ಶಾಲೆಗಳಿಗಿಂತ ನಿಸ್ಸಂದೇಹವಾಗಿಯೂ ಬಹುಪಾಲು ಅಧಿಕ. ಕ್ರೀಡೆಗಂತೂ ಅಮೆರಿಕೆಯಲ್ಲಿ ಎಲ್ಲಿಲ್ಲದ ಪ್ರಾಮುಖ್ಯ. ಎರಡೂ ದೇಶಗಳ ಶಿಕ್ಷಣ ಪದ್ಧತಿಯಲ್ಲಿರುವ ಸಾಮಾನ್ಯ ಸಂಗತಿಯೆಂದರೆ ಮಕ್ಕಳ ಮೇಲಿನ ಒತ್ತಡ!</p>

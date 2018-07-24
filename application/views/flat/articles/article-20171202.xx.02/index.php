@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಕನ್ನಡ ಸಂಶೋಧಕ ಷ.ಶೆಟ್ಟರ್</h1>
 			<p class="description">ಪ್ರೊ.ಷ.ಶೆಟ್ಟರ್ ಅವರು ಕನ್ನಡ ಮತ್ತು ಕನ್ನಡನಾಡುಗಳ ಬಗ್ಗೆ ಬರೆದ ಅತ್ಯುತ್ತಮ ಇತಿಹಾಸಕಾರರು. ಕಲಾ ಇತಿಹಾಸ ಮತ್ತು ಜೈನ ಚಿಂತನೆ ಹಾಗೂ ಆಚರಣೆಗಳ ಬಗ್ಗೆ ಆಳವಾದ ಅಧ್ಯಯನ ಮಾಡಿರುವ ಪ್ರೊ.ಶೆಟ್ಟರ್ ಅವರು ಕಳೆದ ಹದಿನೈದು ವರ್ಷಗಳಿಂದ ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಲಿಪಿಗಳ ಪ್ರಾರಂಭದ ದಿನಗಳ ಬಗ್ಗೆ ಸಂಶೋಧನೆ ಮಾಡಿದ್ದಾರೆ. ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ ಸಂದರ್ಭದಲ್ಲಿ ಅವರ ಇತ್ತೀಚಿನ ಸಂಶೋಧನೆಗಳ ಬಗ್ಗೆ ಮತ್ತು ಕನ್ನಡದ ಸಂಶೋಧನಾ ಸಂಸ್ಕೃತಿಯ ಬಗ್ಗೆ <strong>ಪೃಥ್ವಿ ದತ್ತ ಚಂದ್ರ ಶೋಭಿ</strong> ಅವರ ಜೊತೆಗೆ ಅವರು ಹಂಚಿಕೊಂಡ ವಿಚಾರಗಳ ಸಂಕ್ಷಿಪ್ತರೂಪ ಇಲ್ಲಿದೆ. ಪೂರ್ಣಪಾಠ ಸಮಾಜಮುಖಿಯ ಅಂತರ್ಜಾಲ ತಾಣದಲ್ಲಿ ಲಭ್ಯವಾಗಲಿದೆ.</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201712/0012a.jpg" /></figure>

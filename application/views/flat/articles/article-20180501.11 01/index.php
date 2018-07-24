@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">1<sup>st</sup> May 2018</p>
+			<p class="date english">೧ ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</h1>
 			<h2 class="author">ಪ್ರಸ್ತುತ</h2>
 

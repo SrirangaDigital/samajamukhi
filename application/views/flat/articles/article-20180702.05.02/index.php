@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಹಾಲುಂಡ ತವರೀಗಿ ಏನೆಂದು ಹಾಡಲೆ</h1>
 			<h2 class="author">ರೇಣುಕಾ ನಿಡಗುಂದಿ</h2>
 			<p>ಪ್ರತಿ ಸಲವೂ ರಮಜಾನ್, ಮೊಹರಮ್ ಹಬ್ಬಗಳು ಬಂದಾಗೆಲ್ಲ ನನ್ನೂರಿನ ಬೂಬುಗಳು ನೆನೆಪಾಗುತ್ತಾರೆ. ಬಾಲ್ಯದಲ್ಲಿ ನಮ್ಮ ಹಬ್ಬಗಳಿಗಿಂತ ಈ ಹಬ್ಬಗಳೇ ನಮ್ಮನ್ನು ಹೆಚ್ಚು ಆಕರ್ಷಿಸುತ್ತಿದ್ದವು. ಬಾಲ್ಯಕ್ಕೆ-ಹಸಿವಿಗೆ ಜಾತಿಮತಗಳ ಹಂಗಿರುವುದಿಲ್ಲ. ಬೂಬು ನಮ್ಮ ಕಟ್ಟೆಯ ಮೇಲೆ ಕೂತು ಮೆಹಂದಿ ಎಲೆಗಳನ್ನು ಅರೆಯತೊಡಗಿದಳೆಂದರೆ ಏನೋ ವಿಶೇಷ ಹಬ್ಬ ಬಂದಿದೆಯಂದರ್ಥ.</p>

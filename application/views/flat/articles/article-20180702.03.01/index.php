@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ವಿಶ್ವಕಪ್  ಫುಟ್‍ಬಾಲ್‍ಗೆ ಭ್ರಷ್ಟತೆ ಲೇಪ!</h1>
 			<p class="description">ಫೀಫಾದ ಭ್ರಷ್ಟತೆಗೆ ತಡೆಹಾಕಲು ಅಮೆರಿಕಾದ ತನಿಖಾ ಏಜೆನ್ಸಿ ಎ¥sóï.ಬಿ.ಐ. ಕೈಹಾಕಿದೆ. ಇಲ್ಲಿ ತಮಾಷೆಯೆಂದರೆ ತನಿಖೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿರುವವರು ಸಹ ಇಂತಹ ಭ್ರಷ್ಟರೆ. ಇದು ಸುಂದರ ಕ್ರೀಡೆಯೊಂದರ ಕೊಳಕು ಮುಖ.</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201807/0039a.jpg" /></figure>

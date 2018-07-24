@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಸಂಕಟದ ಪ್ರೇಮಿ</h1>
 			<h2 class="author">ಮೂಡ್ನಾಕೂಡು ಚಿನ್ನಸ್ವಾಮಿ</h2>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0075	a.jpg" /></figure>

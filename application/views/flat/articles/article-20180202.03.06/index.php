@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> February 2018</p>
+			<p class="date english">2<sup>nd</sup> ಫೆಬ್ರವರಿ ೨೦೧೮</p>
 			<h1 class="title">ಚೀನಾ ದೇಶವು ಭಾರತವನ್ನು ಸುತ್ತುವರಿಯಲು ಹವಣಿಸುತ್ತಿದೆಯೇ?</h1>
 			<p class="description">ಚೀನಾ ದೇಶ ಭಾರತವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸುತ್ತುವರಿದು ದೇಶದ ಒಟ್ಟಾರೆ ರಕ್ಷಣೆಗೇ ಕುತ್ತು ತರುವ ಸ್ಥಿತಿ ನಿರ್ಮಿಸಿದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಭಾರತದ ಸಾಮಥ್ರ್ಯ ಮತ್ತು ತಯ್ಯಾರಿಯ ಕೊರತೆ ಮತ್ತು ಎದ್ದು ಕಾಣುತ್ತದೆ.</p>
 			<figure class="float-md-left maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201802/0044a.jpg" /></figure>

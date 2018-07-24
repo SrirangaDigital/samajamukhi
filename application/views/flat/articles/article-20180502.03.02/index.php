@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಅಪರಿಚಿತರ ಆತಿಥ್ಯ ಕೌಚ್ ಸರ್ಫಿಂಗ್</h1>
 			<h2 class="author">ಸಹನಾ ಸಿ.ಜಿ</h2>
 			<p class="description">ಇದೊಂದು ರೀತಿಯ ಉಚಿತ ಆತಿಥ್ಯ  ವ್ಯವಸ್ಥೆ. ಜಗತ್ತಿನ ಬಹುತೇಕ ದೇಶಗಳಲ್ಲಿ ಈ  ಆತಿಥ್ಯ ವ್ಯವಸ್ಥೆ ಇದೆ. ಅಲ್ಪ ಹಣದಲ್ಲಿ ಎಲ್ಲ  ಖರ್ಚು ನಿಭಾಯಿಸಿ ದೇಶ ಸುತ್ತ ಬಯಸುವ  ವಿದ್ಯಾರ್ಥಿಗಳ ಪಾಲಿಗಂತೂ ಇದು  ವರದಾನವೇ ಸರಿ.</p>

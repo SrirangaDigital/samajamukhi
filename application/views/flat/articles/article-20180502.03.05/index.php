@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">‘ಬ್ಲೇಡ್ ಕಂಪೆನಿ’ <br />ನಿಷೇಧಕ್ಕೆ ನಿರ್ದಿಷ್ಟ ಕಾನೂನು</h1>
 			<p class="description">ಬಹಳಷ್ಟು ಜನರಿಗೆ ಹಣ ಕಳೆದುಕೊಂಡ  ಎರಡು&#x2014;ಮೂರು ತಿಂಗಳಲ್ಲಿ ಬುದ್ದಿ ಬಂದರೆ,  ಹಲವರಿಗೆ ವರ್ಷಾನುಗಟ್ಟಲೆ ಬೇಕಾಗುತ್ತದೆ. ಈ  ಸ್ಕೀಮಿನಲ್ಲಿ ಹಣ ಹೂಡಿದವರಲ್ಲಿ ಶೇ.99.99ರಷ್ಟು  ಜನ ಹಣ ಕಳೆದುಕೊಳ್ಳುವುದು ಶತಸಿದ್ಧ. </p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201805/0047a.jpg" /></figure>

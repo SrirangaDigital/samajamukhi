@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> April 2018</p>
+			<p class="date english">2<sup>nd</sup> ಎಪ್ರಿಲ್ ೨೦೧೮</p>
 			<h1 class="title">ರೂಪಕಗಳ ಪರಿಧಿಯನ್ನು ಮೀರಿದ ಚೈತನ್ಯ<br />ಸ್ಟೀಫನ್ ಹಾಕಿಂಗ್</h1>
 			<h2 class="author"> ಸುಧಾ ಶೆಣೈ</h2>
 			<p class="description">ಹಾಕಿಂಗ್‍ರ ಕರ್ಮಭೂಮಿ ಕೇಂಬ್ರಿಡ್ಜ್ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲೇ ಸಂಶೋಧನೆ ಮಾಡಿದ,  ಅವರನ್ನು ಸ್ವತಃ ಕಂಡು ರೋಮಾಂಚನಗೊಂಡ ಸಹಾಯಕ ಪ್ರಾಧ್ಯಾಪಕಿ ಸುಧಾ ಶೆಣೈ  ಅವರು ಅಗಲಿದ ಚೇತನದ ಜೀವನ, ವ್ಯಕ್ತಿತ್ವ ಹಾಗೂ ಸಾಧನೆಗಳನ್ನಿಲ್ಲಿ ಬಿಚ್ಚಿಟ್ಟಿದ್ದಾರೆ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ನಿಮ್ಮ ಆನ್‍ಲೈನ್ ಮಾಹಿತಿ ಎಷ್ಟು ಸುರಕ್ಷಿತ?</h1>
 			<h2 class="author">ಡಾ.ಡಿ.ಸಿ.ನಂಜುಂಡ</h2>
 			<p class="description">ಎಷ್ಟೇ ಕಾಯ್ದೆ ಕಾನೂನುಗಳು ಇದ್ದರೂ, ವಿವಿಧ ರೀತಿಯ ವೈಜ್ಞಾನಿಕ ಸಂರಕ್ಷಣಾ ವಿಧಾನಗಳು ಲಭ್ಯವಿದ್ದರೂ ಮುಖ್ಯವಾಗಿ ಸಾರ್ವಜನಿಕರು ಎಚ್ಚರಿಕೆಯಿಂದ ಇರಬೇಕಾಗುತ್ತದೆ. ತಮ್ಮ ಖಾಸಗಿ ಮಾಹಿತಿಗಳು ಅನ್ಯರ ಪಾಲಾಗದಂತೆ ವ್ಯವಹರಿಸಬೇಕಾಗುತ್ತದೆ.</p>

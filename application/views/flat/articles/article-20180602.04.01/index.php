@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಜೆ.ಎನ್.ಯು<br />ದ ಮೇಕಿಂಗ್ ಆಫ್ ಎ ಯೂನಿವರ್ಸಿಟಿ</h1>
 			<h2 class="author">ಡಾ.ರಾಕೇಶ್ ಬಟಬ್ಯಾಲ್ <br />ಅನುವಾದ: ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</h2>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0051a.jpg" /></figure>

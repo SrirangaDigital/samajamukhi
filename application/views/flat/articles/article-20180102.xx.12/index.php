@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">‘ಕೇಂದ್ರದ ಉದ್ಯೋಗಾವಕಾಶ ಬಳಸಿಕೊಳ್ಳುವಲ್ಲಿ ಕನ್ನಡಿಗರ ಹಿನ್ನೆಡೆ!’ <br /><small>ಐಎಎಸ್ ಅಧಿಕಾರಿ ವಿಜಯಲಕ್ಷ್ಮೀ ಬಿದರಿ</small></h1>
 			<h2 class="author">ಅಭಿಮನ್ಯು ಭೂಪತಿ</h2>
 			<p class="description">ಸ್ಪರ್ಧಾತ್ಮಕ ಪರೀಕ್ಷೆ ಎದುರಿಸಲು ಬೇಕಾದ ಸಿದ್ಧತೆ, ಆತ್ಮವಿಶ್ವಾಸ, ವಿಷಯಗಳ ಆಯ್ಕೆ, ತರಬೇತಿ ಕೇಂದ್ರಗಳ ಪಾತ್ರ, ವಿವಿಧ ಅವಕಾಶಗಳ ಮಾಹಿತಿ ಕುರಿತು ಸ್ಪರ್ಧಾರ್ಥಿಗಳಿಗೆ ನೆರವಾಗಬಲ್ಲ ಹಲವಾರು ಸಂಗತಿಗಳನ್ನು ವಿಜಯಲಕ್ಷ್ಮೀ ಬಿದರಿ ಇಲ್ಲಿ ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ. ‘ಸಮಾಜಮುಖಿ’ಗಾಗಿ ಅವರ ವಿಶೇಷ ಸಂದರ್ಶನ ಮಾಡಿದವರು ಸ್ವತಃ ನಾಗರಿಕ ಸೇವಾ ಪರೀಕ್ಷೆಗೆ ಸಿದ್ಧಗೊಳ್ಳುತ್ತಿರುವ ಅಭ್ಯರ್ಥಿ.</p>

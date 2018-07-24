@@ -1,7 +1,7 @@
 \<div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಕಾವೇರಿವಿವಾದದ ತಾತ್ಕಾಲಿಕ ಅಂತ್ಯ</h1>
 			<h2 class="author">ಚಾಣಕ್ಯ</h2>
 			<p class="description"> ಸರ್ವೋಚ್ಚ ನ್ಯಾಯಾಲಯದ ತೀರ್ಪಿನ ನಂತರವೂ ಕಾವೇರಿ ವಿವಾದ ಬಗೆಹರಿದಿದೆ ಹಾಗೂ ಮುಂದೊಂದು ವರ್ಷ ಕಡಿಮೆ ಮಳೆಯಾದಾಗ ಹಿಂದೆ ನಾವು ನೋಡಿರುವ ರೀತಿಯ ಬಿಕ್ಕಟ್ಟು ಸೃಷ್ಟಿಯಾಗದಿರದು ಎಂದು ಖಾತ್ರಿಯಿಂದ ಹೇಳಲು ಸಾಧ್ಯವಿಲ್ಲ.</p>

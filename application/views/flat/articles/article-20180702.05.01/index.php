@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ಜನ್ನನ ಯಶೋಧರ ಚರಿತೆಯಲ್ಲಿ ಪರಿಸರ ವರ್ಣನೆ</h1>
 			<h2 class="author">ಡಾ.ಜಗದೀಶ ಕೆರೆನಳ್ಳಿ</h2>
 			<p class="description">ಜನ್ನನ ಕಾವ್ಯ ನಿರ್ಮಿತಿಯಲ್ಲಿ ಪರಿಸರ ಸಂಬಂಧ ಕಾವ್ಯಕ್ಕೆ ಪೋಷಣೆಯಾಗಿ, ಒಂದು ಪಾತ್ರವಾಗಿ ವಿಶೇಷವಾಗಿ ಮೂಡಿಬಂದಿದೆ. ಅವನನ್ನು ಮಹಾಕವಿಯಾಗಿ, ರೂಪಕ ಚಕ್ರವರ್ತಿಯಾಗಿ ಕಡೆದು ನಿಲ್ಲಿಸಿದೆ.</p>

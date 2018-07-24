@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಸುಳ್ಳುಸುದ್ದಿಗಳ ನಿಜಬಣ್ಣ ಮತ್ತು ನಿಯಂತ್ರಣ</h1>
 			<h2 class="author">ಮಾಧವ ಐತಾಳ</h2>
 			<p class="description">ಸುಳ್ಳು ಸುದ್ದಿಯನ್ನು  ನಿಯಂತ್ರಿಸುತ್ತೇನೆ ಎಂದು  ಸರ್ಕಾರ ಹೇಳಿದರೆ, ಯಾರು  ಬೇಡ ಎನ್ನುತ್ತಾರೆ ಹೇಳಿ?  ಆದರೆ, ಇದು ಮುಕ್ತ  ಹಾಗೂ ಪಾರದರ್ಶಕ  ಪತ್ರಿಕೋದ್ಯಮಕ್ಕೆ ದಾರಿ  ಮಾಡಿಕೊಡುವುದೇ  ಎನ್ನುವುದು ಪ್ರಶ್ನೆ.</p>

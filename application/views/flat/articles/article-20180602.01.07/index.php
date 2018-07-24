@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಅಸೆಂಬ್ಲಿ ಫಲಿತಾಂಶ ಪಕ್ಷ ರಾಜಕಾರಣದ ಪತನ</h1>
 			<h2 class="author">ಪ್ರೊ.ರವೀಂದ್ರ ರೇಷ್ಮೆ</h2>
 			<p class="description">ಸಮಯ&#x2014;ಸಂದರ್ಭಕ್ಕೆತಕ್ಕಂತೆ ತಮ್ಮರಾಜೀ&#x2014;ಕಬೂಲಿರಾಜಕಾರಣಕ್ಕೆ ಸಮರ್ಥನೆ ನೀಡುತ್ತಾಸಾಗಿರುವ ರಾಜ್ಯದ ಮೂರೂ ಪಕ್ಷಗಳುಅಸಲಿಗೆ ತಮ್ಮ ಮೂಲ ಸಿದ್ಧಾಂತ, ತತ್ವಮತ್ತು ಘೋಷಣೆಗಳನ್ನು ಮರೆತು ಪಕ್ಷರಾಜಕಾರಣದ ಚೌಕಟ್ಟನ್ನೇ ಶಿಥಿಲಗೊಳಿಸುತ್ತಾ ಸಾಗಿರುವುದು ನಮ್ಮಪ್ರಜಾಪ್ರಭುತ್ವದ ಅವನತಿಗೆ ಭಾಷ್ಯಬರೆದಂತಿದೆ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಕಾರ್ಯಾಂಗ<br />ಸಂಕ್ರಮಣ ಕಾಲ</h1>
 			<h2 class="author">ಬಿ. ಆರ್. ಜಯರಾಮರಾಜೇ ಅರಸ್</h2>
 			<p class="description">ಶಾಸಕಾಂಗ ಶಾಸನಗಳನ್ನು ರಚಿಸಬೇಕಾದ ಜವಾಬ್ದಾರಿಯನ್ನು ಮಾತ್ರ ನಿರ್ವಹಿಸಬೇಕು. ಆದರೆ ಶಾಸಕಾಂಗ ಕಾರ್ಯಂಗದ ಕೆಲಸವನ್ನು ಮಾಡಲು ಹೊರಟಿದೆ. ಇದು ಸಂವಿಧಾನದ ಆಶಯಕ್ಕೆ ವಿರುದ್ಧ.</p>

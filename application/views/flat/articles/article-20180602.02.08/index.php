@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಹಾರ್ವರ್ಡ್ ಗುಣಮಟ್ಟ: <br />ಕೈಗೂಡದ ಕನಸೇ?</h1>
 			<h2 class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</h2>
 			<p class="description">ಗುಣಮಟ್ಟದ ಶಿಕ್ಷಣ ಮತ್ತು ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತದ ಸ್ಥಾನ ಏನು? ನಮ್ಮದೇ ಆದ ಹಾರ್ವರ್ಡ್‍ನ್ನು ನಾವು ಹೊಂದುವುದು ಯಾವಾಗ?</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ಸಂಸದೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಗೆ ಗುಡ್ ಬೈ?</h1>
 			<h2 class="author">ಮೋಹನದಾಸ್</h2>
 			<p class="description">ಬಜೆಟ್ ಅಧಿವೇಶನದ ಗತಿ ಮುಂದಿನ ಮಳೆಗಾಲದ ಅಧಿವೇಶನಕ್ಕೂ ಆದಲ್ಲಿ ಆಡಳಿತ ಪಕ್ಷ ಸಂಸದೀಯ ವ್ಯವಸ್ಥೆಗೆ ತಿಲಾಂಜಲಿ ಹೇಳಲು ಸಿದ್ಧವಾಗುತ್ತಿದೆ ಎಂದು ನಾವು ಎಣೆಸಬೇಕಾಗುತ್ತದೆ. </p>

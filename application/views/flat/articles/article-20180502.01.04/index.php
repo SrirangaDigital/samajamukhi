@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ದಲಿತರ ಮೇಲಿನ  ದೌರ್ಜನ್ಯ ತಡೆ ಕಾನೂನು <br />ಸುಪ್ರೀಂಕೋರ್ಟು ತಪ್ಪಾಗಿ  ಅರ್ಥೈಸಿದೆಯೇ?  ಅತಿಕ್ರಮಿಸಿದೆಯೇ?</h1>
 			<h2 class="author">ಮೋಹನ್ ಕಾತರಕಿ</h2>
 			<p class="description">ನಿಜಕ್ಕೂ ಈ ವಿಷಯವನ್ನು ರಾಜಕೀಯಗೊಳಿಸಿದ್ದು  ಸರ್ವೋನ್ನತ ನ್ಯಾಯಾಲಯ ಸೂಚಿಸಿದ ನ್ಯಾಯಾಂಗ  ಶಾಸನವಲ್ಲ. ಬದಲಾಗಿ, ಸುಪ್ರೀಂ ಕೋರ್ಟು  ತಾನು ನೀಡಿದ ಆದೇಶಕ್ಕೆ ಆಧಾರವಾಗಿರಿಸಿಕೊಂಡ  ಆಲೋಚನೆಯೇ ಚರ್ಚಾಸ್ಪದ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 
 			<h1 class="title">ಬ್ಯಾಕ್ಟೀರಿಯಗಳ ಬಗ್ಗೆ ನಿಮಗೇನು ಗೊತ್ತು?</h1>
 			<h2 class="author">ಸುಧೀಂದ್ರ ಹಾಲ್ದೊಡ್ಡೇರಿ</h2>

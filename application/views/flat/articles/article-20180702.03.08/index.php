@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> July 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜುಲೈ ೨೦೧೮</p>
 			<h1 class="title">ತೈಲಬೆಲೆ ಏರಿಕೆ ಹಾಗೂ ಜಿ.ಎಸ್.ಟಿ.</h1>
 			<p class="description">ವಿರೋಧಪಕ್ಷಗಳು ಕೇಂದ್ರಸರ್ಕಾರದ ಮೇಲೆ ಬೆಲೆ ಏರಿಕೆಯ ಸಂಪೂರ್ಣ ಜವಾಬ್ದಾರಿಯನ್ನು ಹಾಕುತ್ತಿವೆ. ಕೇಂದ್ರದ ಸಚಿವರು ರಾಜ್ಯ ಸರ್ಕಾರಗಳು ಪೆಟ್ರೋಲ್ ಮತ್ತು ಡೀಸಲ್‍ಗಳ ಮೇಲೆ ಹಾಕುವ ತೆರಿಗೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲಿ ಎಂದು ವಾದಿಸುತ್ತಿದ್ದಾರೆ.</p>
 			<figure class="float-md-right maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201807/0050b.jpg" /></figure>

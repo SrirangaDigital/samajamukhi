@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ಭಾರತದ ಹತ್ತಿಯ ಚಾರಿತ್ರಿಕ ಕಥನ</h1>
 			<h2 class="author">&#x2014;ಎಸ್.ಆರ್.ವಿಜಯಶಂಕರ</h2>
 			<p class="description">ಗಾಂಧೀಜಿ ಸಂಕೇತವಾಗಿ ಬಳಸಿದ್ದ ಚರಕ ಹಾಗೂ ಬಟ್ಟೆ ನೇಯ್ಗೆಗಳ ಹಿಂದೆ ಅಡಗಿದ ಕಥೆಯನ್ನು ನಿರೂಪಿಸುವ ಮೌಲಿಕ ಪುಸ್ತಕವಿದು. ಭಾರತದ ನಶಿಸುತ್ತಿರುವ ಜೀವನವಿಧಾನವೊಂದರ ವಿವರ ನೀಡುತ್ತ ಈ ಕೃತಿ ಇಂದಿನ ಸಮಸ್ಯೆ ಬಗ್ಗೆ ಹೊಸ ಒಳನೋಟ ಒದಗಿಸುತ್ತದೆ</p>

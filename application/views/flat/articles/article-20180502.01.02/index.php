@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ತೆರಿಗೆ ಆದಾಯದಲ್ಲಿ ರಾಜ್ಯಗಳ ಪಾಲು ದಕ್ಷಿಣದ ಬೆಂಕಿ ದೇಶವನ್ನು ಸುಡುವ ಸಾಧ್ಯತೆ!</h1>
 			<h2 class="author">ಪಿ.ಚಿದಂಬರಂ</h2>
 			<p class="description">ಹೆಚ್ಚು ಬಡತನವಿರುವ ರಾಜ್ಯಗಳ ಬಗೆಗೆ ನಾವು ದಯೆ ತೋರಿಸುವುದರಲ್ಲಿ ತಪ್ಪಿಲ್ಲ. ಆದರೆ, ಉತ್ತಮ ಸಾಧನೆ ಮಾಡಿರುವ ರಾಜ್ಯಗಳ ಹಕ್ಕು ಮತ್ತು ಆಶಯಗಳನ್ನು ಕಡೆಗಣಿಸುವುದು ಸರಿಯಲ್ಲ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> January 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜನವ ೨೦೧೮</p>
 			<h1 class="title">ಧಾರ್ಮಿಕ ಸಮುದಾಯಗಳು ಹೇಗೆ ಹುಟ್ಟುತ್ತವೆ?</h1>
 			<h2 class="author">&#x2014; ಪೃಥ್ವಿ</h2>
 			<p>ಅತ್ಯಂತ ಪ್ರಾಥಮಿಕ ಮಟ್ಟದಲ್ಲಿ ಲಿಂಗಾಯತ ಮತ್ತು ವೀರಶೈವ ವಿವಾದದ ಕೇಂದ್ರದಲ್ಲಿರುವ ಸರಳ ಪ್ರಶ್ನೆಯಿದು: ಧಾರ್ಮಿಕ ಸಮುದಾಯಗಳು ಹೇಗೆ ಅಸ್ತಿತ್ವಕ್ಕೆ ಬರುತ್ತವೆ?</p>

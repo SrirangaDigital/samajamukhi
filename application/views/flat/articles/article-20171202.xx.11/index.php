@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> December 2017</p>
+			<p class="date english">2<sup>nd</sup> ಡಿಸೆಂಬರ್ ೨೦೧೭</p>
 			<h1 class="title">ಸರಣಿ ಪಾತಕಿಗಳು!</h1>
 			<h2 class="author">ಗುರುಪ್ರಸಾದ ಕುರ್ತಕೋಟಿ</h2>
 			<p class="description">ಇದೇನು ಕ್ರೈಂ ಸ್ಟೋರಿ ನಾ ಅಂತ ಭಯ ಪಡಬೇಡಿ! ನಾನು ಹೇಳ್ತಿರೋ ಕತೆ ಆ ಪಾತಕಿಗಳಿಗಿಂತ ಭಯಂಕರವಾದ ಪಟಾಕಿಗಳ ಬಗ್ಗೆ. ಪಾತಕಿಗಳು ಚಾಕುಚೂರಿ ಬಳಸಿದರೆ, ಇವರಿಗೆ ತಮ್ಮ ನಾಲಗೆಯೇ ಆಯುಧ; ಬಾಯಿಯಿಂದ ಪಟಪಟ ಸಿಡಿಯುವ ಪಟಾಕಿಗಳು ಎಂಥವರನ್ನೂ ಬಲಿ ತೆಗೆದುಕೊಳ್ಳಬಲ್ಲವು!</p>

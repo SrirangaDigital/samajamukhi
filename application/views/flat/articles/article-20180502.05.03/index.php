@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> May 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮೇ ೨೦೧೮</p>
 			<h1 class="title">ತೇಲುವ ಊರಿನ ಕಣ್ಮರೆ!</h1>
 			<h2 class="author">ರಾಜು ಹೆಗಡೆ</h2>
 			<p class="description">  ಲಾಂಚಿನ ಮೇಲೆ ಬರೋದು ಇಷ್ಟೇ ಅಲ್ಲ. ಪೇಪರ್,    ಪೋಸ್ಟು ಇತ್ಯಾದಿ. ಟಾಪಿನ ಮೇಲಿನ ಡ್ರೈವರ್ ಕೆಳಗೆ    ಎಸೆಯುತ್ತಿದ್ದ. ಅದು ಹಾರಿ ಹೊಳೆಯಲ್ಲಿ ಬೀಳದೇ    ಇರುವುದು ಪುಣ್ಯ. ಮೀನಿನ ವ್ಯಾಪಾರವೂ ಇಲ್ಲಿ    ನಡೆಯುತ್ತಿತ್ತು.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> March 2018</p>
+			<p class="date english">2<sup>nd</sup> ಮಾರ್ಚ್ ೨೦೧೮</p>
 			<h1 class="title">ಶಿರೋಳದ ರೊಟ್ಟಿ ಜಾತ್ರೆ</h1>
 			<h2 class="author">ಚಿದಂಬರ ಪಿ. ನಿಂಬರಗಿ</h2>
 			<p class="description">ಜಾತಿಮತಗಳ ನಡುವೆ ಅಂತಃಕಲಹ ಹೆಚ್ಚಿರುವ ಇಂದಿನ ದಿನಗಳಲ್ಲಿ ಶಿರೋಳದ ರೊಟ್ಟಿ ಊಟದ ಜಾತ್ರೆಗೆ ವಿಶೇಷ ಮಹತ್ವವಿದೆ. ಇದು ನಮ್ಮ ಹಳ್ಳಿಗಾಡಿನಲ್ಲಿ ಹಾಸುಹೊಕ್ಕಾದ ಸಹಬಾಳ್ವೆ ಮತ್ತು ಕೋಮು ಸಾಮರಸ್ಯಕ್ಕೆ  ಪ್ರತೀಕ.</p>

@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಮಲೇಶಿಯಾಗೆ ಮತ್ತೊಮ್ಮೆ ಮಹಾಥಿರ್ ಮಹಮದ್</h1>
 			<p class="description">ಮಹಾಥಿರ್ ಮಹಮದ್ ತಾವು ಮುಂದಿನ ಒಂದು ಅಥವಾ ಎರಡು ವರ್ಷಗಳು ಮಾತ್ರ ಪ್ರಧಾನಿಯಾಗಿರುವುದಾಗಿ ಹೇಳಿದ್ದಾರೆ.</p>
 			<figure class="float-md-right maxw-600"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201806/0047b.jpg" /></figure>

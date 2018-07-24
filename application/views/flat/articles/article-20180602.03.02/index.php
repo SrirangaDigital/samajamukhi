@@ -1,7 +1,7 @@
 <div class="container-fluid">
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
-			<p class="date english">2<sup>nd</sup> June 2018</p>
+			<p class="date english">2<sup>nd</sup> ಜೂನ್ ೨೦೧೮</p>
 			<h1 class="title">ಹೊಸಪೇಟೆಯ ಐಎಎಸ್ ಸಾಧಕ ಕೀರ್ತಿಕಿರಣ್ ಪೂಜಾರ್</h1>
 			<h2 class="author">ಇಮಾಮ್ ಗೋಡೆಕಾರ</h2>
 			<p class="description">ಹೊಸಪೇಟೆಯ 29 ವರ್ಷದ ತರುಣ ಕೀರ್ತಿ ಕಿರಣ್ ಪೂಜಾರ್ ಈ ಸಾಲಿನ ಯುಪಿಎಸ್‍ಸಿ ಪರೀಕ್ಷೆಯಲ್ಲಿ 115ನೇ ರಾಂಕ್ ಪಡೆಯುವ ಮೂಲಕ ಐಎಎಸ್ ಅಧಿಕಾರಿಯಾಗುವ ತಮ್ಮ ಕನಸನ್ನು ಸಾಕಾರಗೊಳಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಮೂಲತಃ ಎಂಜಿನಿಯರ್ ಆಗಿರುವ ಅವರು ತಮ್ಮ ಐಎಎಸ್ ಗುರಿ ತಲುಪಲು ಆಯ್ದುಕೊಂಡ ಮಾರ್ಗ, ಪರಿಶ್ರಮ ಕುರಿತು ಇಲ್ಲಿ ಮುಕ್ತವಾಗಿ ಮಾತಾಡಿದ್ದಾರೆ.</p>
