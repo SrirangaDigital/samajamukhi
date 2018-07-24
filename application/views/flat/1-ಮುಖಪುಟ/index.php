@@ -71,7 +71,7 @@ Advertisement
 			<img class="card-img-top" src="<?=PUBLIC_URL?>images/201807/0050c.jpg" />
 			<div class="card-body">
 				<p class="card-author">&nbsp;</p>
-				<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180702.03.07">ತೈಲಬೆಲೆ ಏರಿಕೆ ಹಾಗೂ ಜಿ.ಎಸ್.ಟಿ.</a></h5>
+				<h5 class="card-title"><strong class="blue">ಜಗದರಿವು</strong> <a href="<?=BASE_URL?>articles/article-20180702.03.08">ತೈಲಬೆಲೆ ಏರಿಕೆ ಹಾಗೂ ಜಿ.ಎಸ್.ಟಿ.</a></h5>
 			</div>
 		</div>	
 	</div>
@@ -97,8 +97,8 @@ Advertisement
 		<div class="card card-medium card-overlay">
 			<img class="card-img-top" src="<?=PUBLIC_URL?>images/201807/0018c.jpg" />
 			<div class="card-body">
-				<p class="card-author">ಎನ್.ಎಸ್.ಶಂಕರ್</p>
-				<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180702.01.03">ಬಿಜೆಪಿ ವಿರೋಧಿ ಒಕ್ಕೂಟ ಸಾಧ್ಯವೇ?</a></h5>
+				<p class="card-author">ಶ್ರೀಶೈಲ ಆಲದಹಳ್ಳಿ</p>
+				<h5 class="card-title"><strong class="green">ಸಮಕಾಲೀನ</strong> <a href="<?=BASE_URL?>articles/article-20180702.01.06">ಸಂಡೂರು ಕುಮಾರಸ್ವಾಮಿ ಬೆಟ್ಟಕ್ಕೆ ಗಣಿ ಕಂಟಕ!</a></h5>
 			</div>
 		</div>
 	</div>
