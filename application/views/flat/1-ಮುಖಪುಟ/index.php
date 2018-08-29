@@ -51,16 +51,16 @@ Advertisement
 			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
 		</li>
 		<li>
-			<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+			<p class="date">ಜುಲೈ ೨೦೧೮</p>
+			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180702.06.02">ಚಿಂತನೆಗೆ, ಚಿಂತೆಗೆ ಈಡುಮಾಡಿತು</a></h5>
 		</li>
 		<li>
-			<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+			<p class="date">ಜೂನ್ ೨೦೧೮</p>
+			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180602.06.01">ಪರ್ಯಾಯ ಪ್ರಜಾ ಪ್ರಣಾಳಿಕೆಗಳು</a></h5>
 		</li>
 		<li>
-			<p class="date">೧೪ ಎಪ್ರಿಲ್ ೨೦೧೮</p>
-			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180501.11 01">ದಲಿತ ಮುಖ್ಯಮಂತ್ರಿಯ ಪರ ವಾದ-ವಿವಾದ</a></h5>
+			<p class="date">ಮೇ ೨೦೧೮</p>
+			<h5 class="card-title"><a href="<?=BASE_URL?>articles/article-20180502.06.01">ವಿಜಯಪುರದಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ಸಂವಾದ</a></h5>
 		</li>
 	</ul>
 </div>
