@@ -7,6 +7,20 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.06.01">ಚುನಾವಣಾ ಬವಣೆ: ಮತದಾರರಿಗೆ ಶಿಕ್ಷಣವೇ ಪರಿಹಾರ</a></p>
+			<p class="date"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.06.02">‘ಅಂತರರಾಷ್ಟ್ರೀಯ ಗುಣಮಟ್ಟದ ಕನ್ನಡ ಪತ್ರಿಕೆ’ ಹಾವೇರಿಯಲ್ಲಿ ‘ಸಮಾಜಮುಖಿ’ ಸಂವಾದ</a></p>
+			<p class="date"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.06.01">ಉನ್ನತ ಶಿಕ್ಷಣ: ಮುಂದುವರಿದ ಚರ್ಚೆ</a></p>
 			<p class="date"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>
 		</div>

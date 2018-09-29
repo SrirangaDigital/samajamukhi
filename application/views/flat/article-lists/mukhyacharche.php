@@ -7,6 +7,76 @@
 	<div class="row">
 		<div class="col-md-12">
 			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.01">ಸುಸ್ಥಿರ ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಕರ್ನಾಟಕ</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಪೃಥ್ವಿದತ್ತ ಚಂದ್ರಶೋಭಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.02">ಸಮೃದ್ಧ ಸಂಪನ್ಮೂಲಗಳು ವಿಚಾರಗಳ ದಾರಿದ್ರ್ಯ</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಎನ್.ವಿ.ವಾಸುದೇವ ಶರ್ಮಾ, ಸತೀಶ್ ಜಿ.ಸಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.03">2016-30ರ ಅವಧಿಗೆ ಜಾಗತಿಕ ಅಭಿವೃದ್ಧಿಯ ಹೊಸ ಮಂತ್ರ ಸುಸ್ಥಿರ ಅಭಿವೃದ್ಧಿ ಗುರಿಗಳು</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಪ್ರಕಾಶ ಭಟ್ ತುಂಬ್ಲೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.04">ಮರಗಳಿಲ್ಲದ ಅಭಿವೃದ್ಧಿ ಸಲ್ಲದು</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಕೆ.ಪಿ.ಸುರೇಶ್</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.05">ಸರ್ಕಾರಿ ಯೋಜನೆಗಳ ಚೌಕಟ್ಟಿನಲ್ಲಿ ‘ಕೃಷಿಕ್ರಾಂತಿ’</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಎನ್.ಗೋಪಾಲಕೃಷ್ಣ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.06">ವೈವಿಧ್ಯದಲ್ಲಿ ಸುಸ್ಥಿರತೆ ಸಾಧ್ಯ</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮಂಜುನಾಥ. ಡಿ.ಎಸ್.</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.07">ಕೆರೆ ಅಭಿವೃದ್ಧಿಯ ಯಶೋಗಾಥೆ</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಕವಿತಾ ರತ್ನ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.08">ಎಲ್ಲಾ ಸಮಸ್ಯೆಗಳಿಗೆ ಸಂಜೀವಿನಿಯಲ್ಲ!</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಚಂದ್ರಶೇಖರ ಬೆಳಗೆರೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.09">ಸಾಲ ಮನ್ನಾ ಮತ್ತು ಸುಸ್ಥಿರ ಅಭಿವೃದಿ</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಚಂಸು ಪಾಟೀಲ ಸಾಹಿತಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.02.10">ಕೃಷಿ ಎಂದರೇನೇ ಸ್ಥಿರತೆ!</a></p>
+			<p class="date english orange"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.02.01">ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಹಣಕಾಸಿನ ಸ್ಥಿತಿಗತಿ</a></p>
 			<p class="date english orange"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>
 		</div>

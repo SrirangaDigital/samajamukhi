@@ -6,6 +6,48 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">-ಸಮಾಜಮುಖಿ ಬಳಗ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.01.01">ಸಾಲದ ಸುಳಿಯೆಡೆಗೆ ಕರ್ನಾಟಕ ಸರ್ಕಾರ</a></p>
+			<p class="date english green"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಪದ್ಮರಾಜ ದಂಡಾವತಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.01.02">ಸಾಲದ ಬಲೆಯೊಳಗೋ ಸಾಲ ಮನ್ನಾದ ಬಲೆಯೊಳಗೋ</a></p>
+			<p class="date english green"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಎಸ್.ಆರ್.ಕೇಶವ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.01.03">ಸ್ಪಷ್ಟ ಉದ್ದೇಶ, ಅಸ್ಪಷ್ಟ ಮಾರ್ಗ ಅಗೋಚರ ಸಂಪನ್ಮೂಲ!</a></p>
+			<p class="date english green"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ವಸಂತ ಶೆಟ್ಟಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.01.04">ಪ್ರತ್ಯೇಕ ರಾಜ್ಯ ಪರಿಹಾರವೇ?</a></p>
+			<p class="date english green"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಕಾದಂಬಿನಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.01.05">ಮೌಢ್ಯಾಚರಣೆ ಮತ್ತು ರಾಜಕೀಯ ನಾಯಕರು</a></p>
+			<p class="date english green"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮಂಜುನಾಥ ಚಾಂದ್</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.01.06">ನಯಾ ಪಾಕಿಸ್ತಾನ್! ನಿರೀಕ್ಷೆ ನಿಜವಾದೀತೇ?</a></p>
+			<p class="date english green"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author">ವಸಂತ ಶೆಟ್ಟಿ</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.01.01">ನೀಟ್ ಪರೀಕ್ಷೆ  ಒಕ್ಕೂಟ ವಿರೋಧಿ ಹೆಜ್ಜೆ !</a></p>
 			<p class="date english green"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>

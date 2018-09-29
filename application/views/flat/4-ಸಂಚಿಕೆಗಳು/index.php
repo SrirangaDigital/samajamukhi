@@ -3,6 +3,12 @@
 		<div class="col-md-8 article issues">
 			<h1 class="title">ಹಿಂದಿನ ಸಂಚಿಕೆಗಳು</h1>
 			<div class="row">
+				<a class="issue col-md-3" href="201807">
+					<figure>
+						<img class="img-fluid" src="<?=PUBLIC_URL?>images/july2018.jpg" />
+						<figcaption>ಜುಲೈ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 7</figcaption>
+					</figure>
+				</a>
 				<a class="issue col-md-3" href="201806">
 					<figure>
 						<img class="img-fluid" src="<?=PUBLIC_URL?>images/jun2018.jpg" />
@@ -47,12 +53,12 @@
 				</a>
 			</div>
 		</div>
-		<a class="col-md-3" href="201807">
+		<a class="col-md-3" href="201808">
 			<div class="row current-issue justify-content-center align-items-center kannada">
 				<div class="col-md-10 text-center">
 					<h5>ಇತ್ತೀಚೆಗಿನ ಸಂಚಿಕೆ</h5>
-					<h4>ಜುಲೈ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 7</h4>
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/july2018.jpg" />
+					<h4>ಆಗಸ್ಟ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 8</h4>
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/aug2018.jpg" />
 				</div>
 			</div>
 		</a>

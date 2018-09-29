@@ -2,7 +2,7 @@
 	<div class="row align-items-top justify-content-center kannada">
 		<div class="col-md-8 article">
 			<p class="date english">2<sup>nd</sup> ಆಗಸ್ಟ್  ೨೦೧೮</p>
-			<h1 class="title">ವಿಶ್ವ್ಲದೆಲೆಡೆ ಪ್ರತಿಭೆಗಳಿಗೆ ಬರ..?</h1>
+			<h1 class="title">ವಿಶ್ವದೆಲ್ಲೆಡೆ ಪ್ರತಿಭೆಗಳಿಗೆ ಬರ..?</h1>
 			<h2 class="author">ಪ್ರಸಾದ್ ನಾಯ್ಕ್</h2>
 			<p class="description">ಒಂದೆಡೆ, ಜಾಗತಿಕ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಉದ್ಯೋಗವೇ ಇಲ್ಲ ಎಂದು ಪರದಾಡುವ ಉದ್ಯೋಗಾಕಾಂಕ್ಷಿಗಳು. ಇನ್ನೊಂದೆಡೆ, ನಮ್ಮ ನಿರೀಕ್ಷೆಗೆ ತಕ್ಕ ಅಭ್ಯರ್ಥಿಗಳು ಸಿಗುತ್ತಿಲ್ಲ ಎಂದು ನಿಟ್ಟುಸಿರಿಡುವ ಉದ್ಯೋಗದಾತರು. ಏನಿದರ ಮರ್ಮ ?</p>
 			<figure class="float-md-left maxw-300"><img class="img-fluid" src="<?=PUBLIC_URL?>images/201808/0042a.jpg" /></figure>

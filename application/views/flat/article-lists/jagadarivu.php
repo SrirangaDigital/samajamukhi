@@ -6,6 +6,48 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">ಡಾ.ಟಿ.ಎಸ್.ಚನ್ನೇಶ್</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.01">ಕನ್ನಡಕ್ಕೊಂದು ವಿಜ್ಞಾನದ ಓದು</a></p>
+			<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಪ್ರಸಾದ್ ನಾಯ್ಕ್</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.02">ವಿಶ್ವದೆಲ್ಲೆಡೆ ಪ್ರತಿಭೆಗಳಿಗೆ ಬರ..?</a></p>
+			<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ. ವಿನತೆ ಶರ್ಮ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.03">ಬದಲಾವಣೆ ಬೇಕಿತ್ತು ಆದರೆ ತುಸು ನಿಧಾನವಾಗಿ!</a></p>
+			<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ರಾಹುಲ್ ದಯಾಳು</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.04">ಪರಿಸರವಾದಿ ಸಂಗೀತಗಾರ ರಿಕ್ಕಿ ಕೇಜ್</a></p>
+			<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮೂರಾರಂ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.05">ರಾಜಿಯಾಗದ ರಜಿಯಾ ಜಾನ್!</a></p>
+			<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">-ಸಹದೇವ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.06">ಕೇಜ್ರಿ-ಎಲ್‍ಜಿ ಹಗ್ಗಜಗಾಟ್ಗ</a></p>
+			<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author"></p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.03.01">ವಿಶ್ವಕಪ್ ಫುಟ್‍ಬಾಲ್‍ಗೆ ಭ್ರಷ್ಟತೆ ಲೇಪ!</a></p>
 			<p class="date english blue"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>

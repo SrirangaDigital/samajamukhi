@@ -6,6 +6,34 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">ಮರಾಠಿ ಮೂಲ: ವ.ಪು.ಕಾಳೆ, ಕನ್ನಡಕ್ಕೆ: ಸಪ್ನಾ ಕಟ್ಟಿ, ಪುಣೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.01">ಮಹೋತ್ಸವ</a></p>
+			<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಎನ್.ಎಸ್.ಗುಂಡೂರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.02">ಶಶಿ ತರೂರ್ ಅವರ ‘ನಾನೇಕೆ ಹಿಂದೂ’</a></p>
+			<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">-ಕಲ್ಲೇಶ್ ಕುಂಬಾರ್, ಹಾರೂಗೇರಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.03">ಬಯಲಾಗುವ ಪರಿ ವಿಶಾಲನೆಲೆಯ ಪ್ರಸ್ತಾವನೆಗಳು</a></p>
+			<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.04">ನಾಗರಿಕರೇ ನಾಯಕರಾದಾಗ ಪ್ರಜಾಪ್ರಭುತ್ವದ ಗೆಲುವು</a></p>
+			<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author">ಫ್ರ್ಯಾಂಕ್ ಓ’ಕಾನರ್ ಕನ್ನಡಕ್ಕೆ: ಡಾ.ಬಸು ಬೇವಿನಗಿಡದ</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.04.01">ಪಾಪ ನಿವೇದನೆ</a></p>
 			<p class="date english brown"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>

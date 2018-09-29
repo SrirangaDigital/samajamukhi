@@ -6,6 +6,69 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
+			<p class="author">ಡಾ.ಮುಮ್ತಾಜ್ ಬೇಗಂ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.01">ಹರಿಹರನ ಪಂಪಾಶತಕದಲ್ಲಿ ಭಕ್ತಿಯ ನೆಲೆ</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಸಂಗೀತ ಶ್ರೀಕಾಂತ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.02">ಇತಿಹಾಸ ಸೇರಿದ ಕುದುರೆಮುಖ</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಇಂಗ್ಲಿಷ್ ಮೂಲ: ಲೂಸಿ ಲುಕಾಚೊವಿಚೊವಾ, ಕನ್ನಡಕ್ಕೆ: ಹ.ಶಿ.ಭೈರನಟಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.03">ಸಾಗರತೀರದ ಕವನಗಳು</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.04">ನನ್ನ ಕ್ಲಿಕ್</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author"></p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.05">ಆಳಿಗೊಂದು ಕೋಳಿ ಮನೆಗೊಂದು ಮೇಕೆ</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಡಾ.ಕೆ.ಪುಟ್ಟಸ್ವಾಮಿ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.06">ಫಿಫಾ ಫುಟ್‍ಬಾಲ್ ಹುಚ್ಚಿಗೆ ನೆರೆ ಬಂದ ಸಂಭ್ರಮ</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಮ.ಶ್ರೀ.ಮುರಳಿ ಕೃಷ್ಣ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.07">ಅಪ್ಪ-ಮಗನ ಸಂಬಂಧ ವಿಸ್ತರಿಸುವ ವಾಜಿಬ್</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">-ಡಾ.ವೆಂಕಟಯ್ಯ ಅಪ್ಪಗೆರೆ</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.08">ಥಾಯ್ ಲ್ಯಾಂಡ್ ನ ಜಗದ್ವಿಖ್ಯಾತ ಧಮ್ಮಕಾಯ</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p class="author">ಬಾಲಚಂದ್ರ ಬಿ.ಎನ್.</p>
+			<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.05.09">ಸರ್ವಸಂಗ ಪರಿತ್ಯಾಗಿಗಳ ಧರ್ಮಸಭೆ!</a></p>
+			<p class="date english red"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
 			<p class="author">ಡಾ.ಜಗದೀಶ ಕೆರೆನಳ್ಳಿ</p>
 			<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.05.01">ಜನ್ನನ ಯಶೋಧರ ಚರಿತೆಯಲ್ಲಿ ಪರಿಸರ ವರ್ಣನೆ</a></p>
 			<p class="date english red"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>
