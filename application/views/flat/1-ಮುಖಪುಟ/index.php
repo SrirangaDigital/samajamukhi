@@ -358,13 +358,6 @@ Advertisement
 			</div>
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಪ್ರಸಾದ್ ನಾಯ್ಕ್</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.02">ವಿಶ್ವದೆಲ್ಲೆಡೆ ಪ್ರತಿಭೆಗಳಿಗೆ ಬರ..?</a></p>
-					<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
 					<p class="author">ಡಾ. ವಿನತೆ ಶರ್ಮ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.03.03">ಬದಲಾವಣೆ ಬೇಕಿತ್ತು ಆದರೆ ತುಸು ನಿಧಾನವಾಗಿ!</a></p>
 					<p class="date english blue"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
@@ -410,13 +403,6 @@ Advertisement
 		<div class="col-md-4 list">
 			<div class="row">
 				<div class="col-md-12">
-					<p class="author">ಮರಾಠಿ ಮೂಲ: ವ.ಪು.ಕಾಳೆ, ಕನ್ನಡಕ್ಕೆ: ಸಪ್ನಾ ಕಟ್ಟಿ, ಪುಣೆ</p>
-					<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.01">ಮಹೋತ್ಸವ</a></p>
-					<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
 					<p class="author">ಡಾ.ಎನ್.ಎಸ್.ಗುಂಡೂರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.02">ಶಶಿ ತರೂರ್ ಅವರ ‘ನಾನೇಕೆ ಹಿಂದೂ’</a></p>
 					<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
@@ -434,6 +420,27 @@ Advertisement
 					<p class="author">ಡಾ.ಎಸ್.ಬಿ.ಜೋಗುರ</p>
 					<p class="title"><a href="<?=BASE_URL?>articles/article-20180802.04.04">ನಾಗರಿಕರೇ ನಾಯಕರಾದಾಗ ಪ್ರಜಾಪ್ರಭುತ್ವದ ಗೆಲುವು</a></p>
 					<p class="date english brown"><i class="fa fa-book"></i> ಆಗಸ್ಟ್ ೨೦೧೮</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ಫ್ರ್ಯಾಂಕ್ ಓ’ಕಾನರ್ ಕನ್ನಡಕ್ಕೆ: ಡಾ.ಬಸು ಬೇವಿನಗಿಡದ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.04.01">ಪಾಪ ನಿವೇದನೆ</a></p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ಪರಮೇಶ್ವರ ಗುರುಸ್ವಾಮಿ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.04.02">ದಾಂಪತ್ಯ ಮೀರಿದ ಬೌದ್ಧಿಕ ಸಾಂಗತ್ಯ</a></p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<p class="author">ಪರಮೇಶ್ವರ ಗುರುಸ್ವಾಮಿ</p>
+					<p class="title"><a href="<?=BASE_URL?>articles/article-20180702.04.03">ಟೆಕ್ ಡ್ರೀಮರ್ಸ್ ಓದಲೇಬೇಕಾದ ‘ಹಿಟ್ ರಿಫ್ರೆಶ್’</a></p>
+					<p class="date english brown"><i class="fa fa-book"></i> ಜುಲೈ ೨೦೧೮</p>
 				</div>
 			</div>
 		</div>
