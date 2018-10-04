@@ -1,64 +1,22 @@
 <div class="container-fluid">
-	<div class="row align-items-top justify-content-center kannada">
+	<div class="row align-items-top justify-content-center">
 		<div class="col-md-8 article issues">
-			<h1 class="title">ಹಿಂದಿನ ಸಂಚಿಕೆಗಳು</h1>
+			<h1 class="title">सम्पुटाः</h1>
 			<div class="row">
 				<a class="issue col-md-3" href="201807">
 					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/july2018.jpg" />
-						<figcaption>ಜುಲೈ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 7</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201806">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/jun2018.jpg" />
-						<figcaption>ಜೂನ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 6</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201805">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/may2018.jpg" />
-						<figcaption>ಮೇ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 5</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201804">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/april2018.jpg" />
-						<figcaption>ಎಪ್ರಿಲ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 4</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201803">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/mar2018.jpg" />
-						<figcaption>ಮಾರ್ಚ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 3</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201802">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/feb2018.jpg" />
-						<figcaption>ಫೆಬ್ರವರಿ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 2</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201801">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/jan2018.jpg" />
-						<figcaption>ಜನವರಿ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 1</figcaption>
-					</figure>
-				</a>
-				<a class="issue col-md-3" href="201712">
-					<figure>
-						<img class="img-fluid" src="<?=PUBLIC_URL?>images/dec2017.jpg" />
-						<figcaption>ಡಿಸೆಂಬರ್ 2017<br />ಪರಿಚಯ ಸಂಚಿಕೆ</figcaption>
+						<img class="img-fluid" src="<?=PUBLIC_URL?>images/oct2018.jpg" />
+						<figcaption>अक्टोबर् 2018<br />सम्पुटः २४, सञ्चिका २</figcaption>
 					</figure>
 				</a>
 			</div>
 		</div>
 		<a class="col-md-3" href="201808">
-			<div class="row current-issue justify-content-center align-items-center kannada">
+			<div class="row current-issue justify-content-center align-items-center">
 				<div class="col-md-10 text-center">
-					<h5>ಇತ್ತೀಚೆಗಿನ ಸಂಚಿಕೆ</h5>
-					<h4>ಆಗಸ್ಟ್ 2018<br />ಸಂಪುಟ 1, ಸಂಚಿಕೆ 8</h4>
-					<img class="img-fluid" src="<?=PUBLIC_URL?>images/aug2018.jpg" />
+					<h5>सद्य: प्रकाशितम्</h5>
+					<h4>अक्टोबर् 2018<br />सम्पुटः २४, सञ्चिका २</h4>
+					<img class="img-fluid" src="<?=PUBLIC_URL?>images/oct2018.jpg" />
 				</div>
 			</div>
 		</a>

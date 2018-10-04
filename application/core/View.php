@@ -90,7 +90,7 @@ class View {
 	}
 
 	public function showFlatPage($data = array(), $path = '', $actualPath = '', $navigation = array(), $current = array()) {
-
+		
 		require_once 'application/views/viewHelper.php';
 		$viewHelper = new viewHelper();
 		$pageTitle = $this->getPageTitle($viewHelper, $path);

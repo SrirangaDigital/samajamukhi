@@ -1,6 +1,11 @@
 .kannada{
   font-family: 'shreelipi', sans-serif !important;
 }
+
+.devanagari{
+font-family : 'shreelipidev', sans-serif !important;
+}
+
 .english{
   font-family: 'Raleway', sans-serif !important;
 }

@@ -24,3 +24,11 @@
   src: url('../fonts/SHREE0850-BI.ttf');
   unicode-range: U+0C80-OCFF;
 }
+
+@font-face {
+  font-family: 'shreelipidev';
+  font-style: italic;
+  font-weight: bold;
+  src: url('../fonts/shree0701.TTF');
+  unicode-range: U+0900-097F;
+}

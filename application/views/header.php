@@ -6,7 +6,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo ucwords($pageTitle) . ' | '; ?>ಸಮಾಜಮುಖಿ</title>
+    <title><?php if($pageTitle) echo ucwords($pageTitle) . ' | '; ?>सम्भाषण-सन्देशः</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -53,15 +53,20 @@
     </nav>
     <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg">
         <div class="container-fluid clear-paddings">
+			<h2>सम्भाषण-सन्देशः</h2>
+<!--
             <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png?v=1.1" alt="Logo" class="logo"></a>
+-->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
-                    <li><a href="<?=BASE_URL?>#samakalina">ಸಮಕಾಲೀನ</a></li>
-                    <li><a href="<?=BASE_URL?>#mukhyacharche">ಮುಖ್ಯಚರ್ಚೆ</a></li>
-                    <li><a href="<?=BASE_URL?>#jagadarivu">ಜಗದರಿವು</a></li>
-                    <li><a href="<?=BASE_URL?>#pustaka">ಪುಸ್ತಕ ಪ್ರಪಂಚ</a></li>
+                    <li><a href="<?=BASE_URL?>#leravah">लेरवाः</a></li>
+                    <li><a href="<?=BASE_URL?>#balamodini">बालमोदिनी</a></li>
+                    <li><a href="<?=BASE_URL?>#dharavahini">धारावाहिनी</a></li>
+                    <li><a href="<?=BASE_URL?>#katha">कथा</a></li>
+<!--
                     <li><a href="<?=BASE_URL?>#samskriti">ಸಂಸ್ಕೃತಿ ಸಂಪದ</a></li>
+-->
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div>
